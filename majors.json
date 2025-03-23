@@ -828,7 +828,108 @@
       }
     ]
 
+  },
+  {
+    "name": "수학교육",
+    "phoneNumber": "02-2287-5123",
+    "page": "https://mathed.smu.ac.kr/mathedu/index.do",
+    "faculty": [
+      {
+        "name": "김화경",
+        "email": "indices@smu.ac.kr",
+        "lab": "(R관)미래백년관 (R420)",
+        "phoneNumber": "02-2287-5157"
+      },
+      {
+        "name": "김연호",
+        "email": "kyh1213@smu.ac.kr",
+        "lab": "(M관)월해관 (M314)",
+        "phoneNumber": "02-781-7504"
+      },
+      {
+        "name": "배윤한",
+        "email": "yhbae@smu.ac.kr",
+        "lab": "(M관)월해관 (M414)",
+        "phoneNumber": "02-781-7567"
+      },
+      {
+        "name": "황병훈",
+        "email": "bhhwang@smu.ac.kr",
+        "lab": "(S관)중앙교수회관 (S213)",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "휴먼지능정보공학",
+    "phoneNumber": "02-2287-5391",
+    "page": "https://hi.smu.ac.kr/hi/index.do",
+
+    "faculty": [
+      {
+        "name": "임좌상",
+        "email": "jslim@smu.ac.kr",
+        "lab": "(G관) 제1공학관 G405",
+        "phoneNumber": "02-2287-5311"
+      },
+      {
+        "name": "황민철",
+        "email": "whang@smu.ac.kr",
+        "lab": "(R관) 미래백년관 R413",
+        "phoneNumber": "02-2287-5293"
+      },
+      {
+        "name": "정진우",
+        "email": "jjoung@smu.ac.kr",
+        "lab": "(R관) 미래백년관 R418",
+        "phoneNumber": "02-2287-5452"
+      },
+      {
+        "name": "김동근",
+        "email": "dkim@smu.ac.kr",
+        "lab": "(G관) 제1공학관 G315",
+        "phoneNumber": "02-2287-5431"
+      },
+      {
+        "name": "이의철",
+        "email": "eclee@smu.ac.kr",
+        "lab": "(R관) 미래백년관 R503",
+        "phoneNumber": "02-781-7553"
+      },
+      {
+        "name": "권지은",
+        "email": "jieun@smu.ac.kr",
+        "lab": "(G관) 제1공학관 G408",
+        "phoneNumber": "02-781-7753"
+      },
+      {
+        "name": "유지연",
+        "email": "yooo@smu.ac.kr",
+        "lab": "(S관) 중앙교수회관 S224",
+        "phoneNumber": "02-781-7767"
+      },
+      {
+        "name": "이지항",
+        "email": "jeehang@smu.ac.kr",
+        "lab": "(O관) 제1교수회관 O311",
+        "phoneNumber": ""
+      },
+      {
+        "name": "윤희남",
+        "email": "h-yoon@smu.ac.kr",
+        "lab": "(O관) 제1교수회관 O112",
+        "phoneNumber": ""
+      },
+      {
+        "name": "오영민",
+        "email": "youngminoh@smu.ac.kr",
+        "lab": "(O관)제1교수회관 (O318)",
+        "phoneNumber": ""
+      }
+    ]
   }
+
+
 
 
 
