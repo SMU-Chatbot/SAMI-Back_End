@@ -927,10 +927,566 @@
         "phoneNumber": ""
       }
     ]
-  }
+  },
+  {
+    "name": "전기공학",
+    "phoneNumber": "02-2287-5112",
+    "page": "https://electric.smu.ac.kr/electric/index.do",
+    "faculty": [
+      {
+        "name": "김정욱",
+        "lab": "(G관) 제1공학관 G508",
+        "phoneNumber": "02-2287-5327",
+        "email": "jukim@smu.ac.kr"
+      },
+      {
+        "name": "조수환",
+        "lab": "(R관) 미래백년관 R511",
+        "phoneNumber": "02-781-7503",
+        "email": "shcho@smu.ac.kr"
+      },
+      {
+        "name": "심재웅",
+        "lab": "(G관) 제1공학관 G510",
+        "phoneNumber": "02-2287-6175",
+        "email": "jaewshim@smu.ac.kr"
+      },
+      {
+        "name": "위영민",
+        "lab": "(G관) 제1공학관 G409",
+        "phoneNumber": "02-2287-6186",
+        "email": "youngmin@smu.ac.kr"
+      },
+      {
+        "name": "이순명",
+        "lab": "(G관) 제1공학관 G401-1",
+        "phoneNumber": "02-2287-6187",
+        "email": "soonperman@smu.ac.kr"
+      }
+    ]
+  },
+  {
+    "name": "지능IOT융합",
+    "phoneNumber": "02-2287-5392",
+    "page": "https://aiot.smu.ac.kr/aiot/index.do",
+    "faculty": [
+      {
+        "name": "",
+        "lab": "",
+        "phoneNumber": "",
+        "email": ""
+      }
+    ]
+  },
 
 
+      {
+        "name": "게임",
+        "phoneNumber": "02-2287-5462",
+        "page": "https://game.smu.ac.kr/game01/index.do",
+        "faculty": [
+          {
+            "name": "장준호",
+            "lab": "(G관)제1공학관 (G407)",
+            "phoneNumber": "02-2287-5393",
+            "email": "jchang@smu.ac.kr"
+          },
+          {
+            "name": "박소영",
+            "lab": "(G관)제1공학관 (G406)",
+            "phoneNumber": "02-2287-5066",
+            "email": "ssoya@smu.ac.kr"
+          },
+          {
+            "name": "김석규",
+            "lab": "(G관)제1공학관 (G411)",
+            "phoneNumber": "02-781-7593",
+            "email": "skkim@smu.ac.kr"
+          },
+          {
+            "name": "성한울",
+            "lab": "(G관)제1공학관 (G414)",
+            "phoneNumber": "02-2287-6171",
+            "email": "hanul.sung@smu.ac.kr"
+          }
+        ]
+      },
+  {
+    "name": "식품영양학",
+    "phoneNumber": "02-2287-5129",
+    "page": "https://food.smu.ac.kr/foodnutrition/index.do",
 
+    "faculty": [
+      {
+        "name": "홍완수",
+        "lab": "(I관)제2교수회관 (I611)",
+        "phoneNumber": "02-2287-5350",
+        "email": "wshong@smu.ac.kr"
+      },
+      {
+        "name": "한정아",
+        "lab": "(R관)미래백년관 (R424)",
+        "phoneNumber": "02-2287-5357",
+        "email": "vividew@smu.ac.kr"
+      },
+      {
+        "name": "황지윤",
+        "lab": "(M관)월해관 (M325)",
+        "phoneNumber": "02-781-7521",
+        "email": "jiyunhk@smu.ac.kr"
+      },
+      {
+        "name": "이승우",
+        "lab": "(M관)월해관 (M319)",
+        "phoneNumber": "02-781-7583",
+        "email": "slee@smu.ac.kr"
+      },
+      {
+        "name": "박대섭",
+        "lab": "(S관)중앙교수회관 (S321)",
+        "phoneNumber": "02-781-7764",
+        "email": "pdeas@smu.ac.kr"
+      },
+      {
+        "name": "최현선",
+        "lab": "(I관)제2교수회관 (I615)",
+        "phoneNumber": "02-2287-6155",
+        "email": "hsc1970@smu.ac.kr"
+      },
+      {
+        "name": "박희정",
+        "lab": "(I관)제2교수회관 (I619)",
+        "phoneNumber": "02-2287-6163",
+        "email": "heejp2020@smu.ac.kr"
+      }
+    ]
 
+  },
+  {
+    "name": "의류학",
+    "phoneNumber": "02-2287-5154",
+    "page": "https://www.smu.ac.kr/clothing2/index.do",
+    "faculty": [
+      {
+        "name": "이민선",
+        "lab": "(I관)제2교수회관 (I522)",
+        "phoneNumber": "02-2287-5358",
+        "email": "minsun@smu.ac.kr"
+      },
+      {
+        "name": "하희정",
+        "lab": "(I관)제2교수회관 (I511)",
+        "phoneNumber": "02-2287-5438",
+        "email": "hjha@smu.ac.kr"
+      },
+      {
+        "name": "노정심",
+        "lab": "(I관)제2교수회관 (I514)",
+        "phoneNumber": "02-781-7527",
+        "email": "jungsimroh@smu.ac.kr"
+      },
+      {
+        "name": "양희순",
+        "lab": "(I관)제2교수회관 (I618)",
+        "phoneNumber": "",
+        "email": "hsyang@smu.ac.kr"
+      },
+      {
+        "name": "김혜자",
+        "lab": "(I관)제2교수회관 (I614)",
+        "phoneNumber": "",
+        "email": "khjfas@smu.ac.kr"
+      }
+    ]
+  },
+  {
+    "name": "스포츠건강관리",
+    "phoneNumber": "02-2287-5326",
+    "page": "https://sports.smu.ac.kr/smpe/index.do",
+    "faculty": [
+      {
+        "name": "백성수",
+        "lab": "(M관)월해관 (M315)",
+        "phoneNumber": "02-2287-5133",
+        "email": "ssoop@smu.ac.kr"
+      },
+      {
+        "name": "강서정",
+        "lab": "(I관)제2교수회관 (I513)",
+        "phoneNumber": "02-2287-5136",
+        "email": "suhjkang@smu.ac.kr"
+      },
+      {
+        "name": "이효",
+        "lab": "(I관)제2교수회관 (I515)",
+        "phoneNumber": "02-781-7535",
+        "email": "hyolee@smu.ac.kr"
+      }
+    ]
+  },
+  {
+    "name": "무용예술",
+    "phoneNumber": "02-2287-5156",
+    "page": "https://dance.smu.ac.kr/dance/index.do",
+    "faculty": [
+      {
+        "name": "박재근",
+        "lab": "(I관)제2교수회관 (I512)",
+        "phoneNumber": "02-2287-5188",
+        "email": "sbcpark@smu.ac.kr"
+      },
+      {
+        "name": "남진희",
+        "lab": "(I관)제2교수회관 (I516)",
+        "phoneNumber": "02-2287-5351",
+        "email": "jhn@smu.ac.kr"
+      },
+      {
+        "name": "김지안",
+        "lab": "(I관)제2교수회관 (I521)",
+        "phoneNumber": "02-2287-6118",
+        "email": "artsedu@smu.ac.kr"
+      }
+    ]
+  },
+  {
+    "name": "조형예술",
+    "phoneNumber": "02-2287-5302",
+    "page": "https://finearts.smu.ac.kr/finearts/index.do",
+    "faculty": [
+      {
+        "name": "이세정",
+        "lab": "(B관)미술관 (B212)",
+        "phoneNumber": "02-2287-5303",
+        "email": "lsj@smu.ac.kr"
+      },
+      {
+        "name": "박민정",
+        "lab": "(B관)미술관 (B304)",
+        "phoneNumber": "02-781-7578",
+        "email": "mjp@smu.ac.kr"
+      },
+      {
+        "name": "이상은",
+        "lab": "(I관)제2교수회관 (I418)",
+        "phoneNumber": "02-781-7594",
+        "email": "lse1213@smu.ac.kr"
+      }
+    ]
+  },
+  {
+    "name": "생활예술",
+    "phoneNumber": "02-2287-5167",
+    "page": "https://smulad.smu.ac.kr/smulad/index.do",
+    "faculty": [
+      {
+        "name": "나지영",
+        "lab": "(B관)미술관 (B311)",
+        "phoneNumber": "02-2287-5164",
+        "email": "jyra@smu.ac.kr"
+      },
+      {
+        "name": "유현아",
+        "lab": "(B관)미술관 (B212-1)",
+        "phoneNumber": "02-2287-5173",
+        "email": "yha@smu.ac.kr"
+      },
+      {
+        "name": "강현대",
+        "lab": "(BC관)미술가정관_관리팀용 (B411)",
+        "phoneNumber": "02-781-7514",
+        "email": "kanghd@smu.ac.kr"
+      },
+      {
+        "name": "이정아",
+        "lab": "(I관)제2교수회관 (I416)",
+        "phoneNumber": "02-781-7554",
+        "email": "texjung@smu.ac.kr"
+      },
+      {
+        "name": "주경임",
+        "lab": "(M관)월해관 (M311)",
+        "phoneNumber": "02-781-7555",
+        "email": "kamichoo@smu.ac.kr"
+      },
+      {
+        "name": "곽철안",
+        "lab": "(M관)월해관 (M322)",
+        "phoneNumber": "02-781-7595",
+        "email": "kwak@smu.ac.kr"
+      }
+    ]
+  },
+  {
+    "name": "음악학",
+    "phoneNumber": "02-2287-5172",
+    "page": "https://music.smu.ac.kr/music/index.do",
+    "faculty": [
+      {
+        "name": "정원순",
+        "lab": "(I관)제2교수회관 (I321)",
+        "phoneNumber": "02-2287-5163",
+        "email": "chung672@smu.ac.kr"
+      },
+      {
+        "name": "김희정",
+        "lab": "(B관)미술관 (B312)",
+        "phoneNumber": "02-2287-5355",
+        "email": "cecilia@smu.ac.kr"
+      },
+      {
+        "name": "김희진",
+        "lab": "(I관)제2교수회관 (I311)",
+        "phoneNumber": "02-2287-5321",
+        "email": "jinie@smu.ac.kr"
+      },
+      {
+        "name": "정승재",
+        "lab": "(I관)제2교수회관 (I322)",
+        "phoneNumber": "02-2287-5440",
+        "email": "sjchung70@smu.ac.kr"
+      },
+      {
+        "name": "노인경",
+        "lab": "(I관)제2교수회관 (I314)",
+        "phoneNumber": "02-2287-5437",
+        "email": "ikcello@smu.ac.kr"
+      },
+      {
+        "name": "박지원",
+        "lab": "(I관)제2교수회관 (I313)",
+        "phoneNumber": "02-2287-5174",
+        "email": "jeewonpark@smu.ac.kr"
+      },
+      {
+        "name": "안종덕",
+        "lab": "(I관)제2교수회관 (I411)",
+        "phoneNumber": "02-2287-5419",
+        "email": "tozi@smu.ac.kr"
+      },
+      {
+        "name": "류현승",
+        "lab": "(I관)제2교수회관 (I320)",
+        "phoneNumber": "02-2287-5367",
+        "email": "liuhs@smu.ac.kr"
+      },
+      {
+        "name": "채유미",
+        "lab": "(I관)제2교수회관 (I319)",
+        "phoneNumber": "02-2287-5488",
+        "email": "ymchae@smu.ac.kr"
+      },
+      {
+        "name": "김지현",
+        "lab": "(M관)월해관 (M413)",
+        "phoneNumber": "02-781-7516",
+        "email": "azjhk2369@smu.ac.kr"
+      },
+      {
+        "name": "정의근",
+        "lab": "(I관)제2교수회관 (I317)",
+        "phoneNumber": "02-781-7557",
+        "email": "tenorechung@smu.ac.kr"
+      },
+      {
+        "name": "이강규",
+        "lab": "(M관)월해관 (M323)",
+        "phoneNumber": "02-781-7570",
+        "email": "kglee@smu.ac.kr"
+      },
+      {
+        "name": "정순석",
+        "lab": "(I관)제2교수회관 (I612)",
+        "phoneNumber": "02-2287-5421",
+        "email": "fljss@smu.ac.kr"
+      },
+      {
+        "name": "박명숙",
+        "lab": "(M관)월해관 (M321)",
+        "phoneNumber": "02-2287-6107",
+        "email": "park533@smu.ac.kr"
+      },
+      {
+        "name": "김민조",
+        "lab": "(I관)제2교수회관 (I316)",
+        "phoneNumber": "02-2287-6182",
+        "email": "claminjo@smu.ac.kr"
+      }
+
+    ]
+  }, {
+  "name": "애니메이션전공",
+  "phoneNumber": "02-2287-5464",
+  "page": "https://animation.smu.ac.kr/animation/index.do",
+  "faculty": [
+    {
+      "name": "정재욱",
+      "lab": "(R관)미래백년관 (R323)",
+      "phoneNumber": "02-2287-6159",
+      "email": "renderma@smu.ac.kr"
+    },
+    {
+      "name": "조옥희",
+      "lab": "(G관)제1공학관 (G404)",
+      "phoneNumber": "02-2287-6168",
+      "email": "profcho@smu.ac.kr"
+    }
+  ]
+},
+  {
+    "name": "핀테크·빅데이터융합·스마트생산",
+    "phoneNumber": "02-2287-5403",
+    "page": "https://animation.smu.ac.kr/animation/index.do",
+    "faculty": [
+      {
+        "name": "서대희",
+        "lab": "(S관)중앙교수회관 (S223)",
+        "phoneNumber": "02-2287-6167",
+        "email": "daehseo@smu.ac.kr"
+      },
+      {
+        "name": "이상호",
+        "lab": "(I관)제2교수회관 (I617)",
+        "phoneNumber": "02-2287-6160",
+        "email": "sang-ho.yi@smu.ac.kr"
+      },
+      {
+        "name": "김진",
+        "lab": "(M관)월해관 (M206)",
+        "phoneNumber": "02-2287-6133",
+        "email": "jinkim@smu.ac.kr"
+      },
+      {
+        "name": "천백민",
+        "lab": "(O관)제1교수회관 (O313)",
+        "phoneNumber": "02-2287-6133",
+        "email": "bmchun@smu.ac.kr"
+
+      }
+    ]
+  },
+  {
+    "name": "생명공학",
+    "phoneNumber": "02-2287-5142",
+    "page": "https://biotechnology.smu.ac.kr/biotechnology/index.do",
+    "faculty": [
+      {
+        "name": "이성호",
+        "lab": "(N관)인문사회과학대학관(자하관) (N510)",
+        "phoneNumber": "02-2287-5139",
+        "email": "shlee@smu.ac.kr"
+      },
+      {
+        "name": "안예진",
+        "lab": "(O관)제1교수회관 (O416)",
+        "phoneNumber": "02-2287-5483",
+        "email": "yjahn@smu.ac.kr"
+      },
+      {
+        "name": "김창배",
+        "lab": "(S관)중앙교수회관 (S217)",
+        "phoneNumber": "02-2287-5288",
+        "email": "evodevo@smu.ac.kr"
+      },
+      {
+        "name": "이영미",
+        "lab": "(N관)인문사회과학대학관(자하관) (N508)",
+        "phoneNumber": "02-2287-5448",
+        "email": "ymlee70@smu.ac.kr"
+      },
+      {
+        "name": "기장서",
+        "lab": "(ZC관)연구동별관 (ZC202)",
+        "phoneNumber": "02-2287-5449",
+        "email": "kijs@smu.ac.kr"
+      },
+      {
+        "name": "유하영",
+        "lab": "(N관)인문사회과학대학관(자하관) (N513)",
+        "phoneNumber": "02-2287-6104",
+        "email": "y2h2000@smu.ac.kr"
+      }
+    ]
+  },
+  {
+    "name": "화학에너지공학",
+    "phoneNumber": "02-2287-5283",
+    "page": "https://energy.smu.ac.kr/cee/index.do",
+    "faculty": [
+      {
+        "name": "강상욱",
+        "lab": "(R관)미래백년관 (R409)",
+        "phoneNumber": "02-2287-5362",
+        "email": "swkang@smu.ac.kr"
+      },
+      {
+        "name": "김기택",
+        "lab": "(R관)미래백년관 (R415)",
+        "phoneNumber": "02-781-7508",
+        "email": "ketack.kim@smu.ac.kr"
+      },
+      {
+        "name": "강윤경",
+        "lab": "(O관)제1교수회관 (O213)",
+        "phoneNumber": "02-781-7509",
+        "email": "younkang@smu.ac.kr"
+      },
+      {
+        "name": "서현욱",
+        "lab": "(O관)제1교수회관 (O114)",
+        "phoneNumber": "02-2287-6105",
+        "email": "hyun.ook.seo@smu.ac.kr"
+      },
+      {
+        "name": "백상현",
+        "lab": "(S관)중앙교수회관 (S421)",
+        "phoneNumber": "02-2287-6150",
+        "email": "sanghyun.paek@smu.ac.kr"
+      },
+      {
+        "name": "김호영",
+        "lab": "(N관)인문사회과학대학관(자하관) (N509)",
+        "phoneNumber": "",
+        "email": "hoykim@smu.ac.kr"
+      }
+    ]
+  },{
+  "name": "화공신소재",
+  "phoneNumber": "02-2287-5297",
+  "page": "https://ichem.smu.ac.kr/ichemistry/index.do",
+  "faculty": [
+    {
+      "name": "이현경",
+      "lab": "(N관)인문사회과학대학관(자하관) (N511)",
+      "phoneNumber": "02-2287-5300",
+      "email": "hklee@smu.ac.kr"
+    },
+    {
+      "name": "구상균",
+      "lab": "(S관)중앙교수회관 (S420)",
+      "phoneNumber": "02-2287-5338",
+      "email": "skkoo@smu.ac.kr"
+    },
+    {
+      "name": "윤석일",
+      "lab": "(O관)제1교수회관 (O214)",
+      "phoneNumber": "02-781-7530",
+      "email": "yunsans@smu.ac.kr"
+    },
+    {
+      "name": "고영건",
+      "lab": "(S관)중앙교수회관 (S210)",
+      "phoneNumber": "02-2287-6151",
+      "email": "younggun@smu.ac.kr"
+    },
+    {
+      "name": "노주란",
+      "lab": "(S관)중앙교수회관 (S424)",
+      "phoneNumber": "",
+      "email": "jurannoh@smu.ac.kr"
+    }
+  ]
+}
 
 ]
+
