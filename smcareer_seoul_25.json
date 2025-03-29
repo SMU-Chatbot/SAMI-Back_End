@@ -2,57 +2,43 @@
   {
     "title": "2025-1 양현재 신입반원 모집",
     "url": "https://smcareer.smu.ac.kr/_user/capability/info/khs/do_view.asp?big_cate=ALL&page=1&cmd=view&sid=10941&",
-    "startDate": "2025.03.13",
-    "endDate": "2025.03.19",
-    "campus": "서울",
-    "regDate": "25.03.13"
+    "period": "2025.03.13 - 2025.03.19",
+    "campus": "서울"
   },
   {
     "title": "2025 해외취업 Academy 프로그램(미국J1인턴십 취업아카데미)",
     "url": "https://smcareer.smu.ac.kr/_user/capability/info/khs/do_view.asp?big_cate=ALL&page=1&cmd=view&sid=10940&",
-    "startDate": "2025.03.13",
-    "endDate": "2025.03.18",
-    "campus": "공통",
-    "regDate": "25.03.13"
+    "period": "2025.03.13 - 2025.03.18",
+    "campus": "공통"
   },
   {
     "title": "2025학년도 잡(JOB)서포터즈 모집(기간연장)",
     "url": "https://smcareer.smu.ac.kr/_user/capability/info/khs/do_view.asp?big_cate=ALL&page=2&cmd=view&sid=10937&",
-    "startDate": "2025.03.11",
-    "endDate": "2025.03.13",
-    "campus": "서울",
-    "regDate": "25.03.11"
+    "period": "2025.03.11 - 2025.03.13",
+    "campus": "서울"
   },
   {
     "title": "구글클라우드 코리아와 함께하는 AI역량강화 특강",
     "url": "https://smcareer.smu.ac.kr/_user/capability/info/khs/do_view.asp?big_cate=ALL&page=2&cmd=view&sid=10936&",
-    "startDate": "2025.03.03",
-    "endDate": "2025.03.05",
-    "campus": "서울",
-    "regDate": "25.03.07"
+    "period": "2025.03.03 - 2025.03.05",
+    "campus": "서울"
   },
   {
     "title": "2025학년도 잡(JOB)서포터즈 모집",
     "url": "https://smcareer.smu.ac.kr/_user/capability/info/khs/do_view.asp?big_cate=ALL&page=2&cmd=view&sid=10934&",
-    "startDate": "2025.02.26",
-    "endDate": "2025.03.10",
-    "campus": "서울",
-    "regDate": "25.02.26"
+    "period": "2025.02.26 - 2025.03.10",
+    "campus": "서울"
   },
   {
     "title": "2025학년도 1학기 한국토지주택공사(LH) 서울지역본부 현장실습생 모집",
     "url": "https://smcareer.smu.ac.kr/_user/capability/info/khs/do_view.asp?big_cate=ALL&page=2&cmd=view&sid=10933&",
-    "startDate": "2025.02.14",
-    "endDate": "2025.02.18",
-    "campus": "서울",
-    "regDate": "25.02.14"
+    "period": "2025.02.14 - 2025.02.18",
+    "campus": "서울"
   },
   {
     "title": "[현장실습] 2025학년도 1학기 현장실습학기제 안내",
     "url": "https://smcareer.smu.ac.kr/_user/capability/info/khs/do_view.asp?big_cate=ALL&page=2&cmd=view&sid=10931&",
-    "startDate": "2025.01.15",
-    "endDate": "2025.02.02",
-    "campus": "서울",
-    "regDate": "25.01.15"
+    "period": "2025.01.15 - 2025.02.02",
+    "campus": "서울"
   }
 ]
