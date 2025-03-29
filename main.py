@@ -12,7 +12,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 # 환경 변수 로드
 load_dotenv()
-api_key = "api_key"
+api_key = "[OPEN_API_KEY]"
 
 # Flask 애플리케이션 초기화
 app = Flask(__name__)
@@ -33,6 +33,7 @@ chroma_client = chromadb.PersistentClient(path="./chroma_db")
 scholarship_collection = chroma_client.get_or_create_collection(name="scholarship_knowledge")
 haksa_collection = chroma_client.get_or_create_collection(name="haksa_knowledge")
 major_collection = chroma_client.get_or_create_collection(name="major_knowledge")
+ePortfolio_collection = chroma_client.get_or_create_collection(name="ePortfolio_knowledge")
 
 def process_scholarship_data():
     with open("scholarship.json", "r", encoding="utf-8") as file:
@@ -79,12 +80,25 @@ def process_major_data():
             documents.append(text)
     return documents
 
+def process_ePortfolio_data():
+    with open("smcareer_seoul_25.json", "r", encoding="utf-8") as file:
+        ePortfolio_data = json.load(file)
+
+    documents = []
+
+    for item in ePortfolio_data:
+        documents.append(
+            f"{item['title']} - 링크: {item['url']} / 기간: {item['period']} / 캠퍼스: {item['campus']}"
+        )
+    return documents
+
 # JSON 데이터 로드 및 벡터화
 def load_data_to_chroma():
     collections = {
         "scholarship": (scholarship_collection, process_scholarship_data()),
         "haksa": (haksa_collection, process_haksa_data()),
-        "major": (major_collection, process_major_data())
+        "major": (major_collection, process_major_data()),
+        "ePortfolio": (ePortfolio_collection, process_ePortfolio_data())
     }
 
     for category, (collection, data) in collections.items():
@@ -112,10 +126,12 @@ def ask():
     haksa_results = haksa_collection.query(query_embeddings=[user_embedding], n_results=counts)
     scholarship_results = scholarship_collection.query(query_embeddings=[user_embedding], n_results=counts)
     major_results = major_collection.query(query_embeddings=[user_embedding], n_results=counts)
+    ePortfolio_results = ePortfolio_collection.query(query_embeddings=[user_embedding], n_results=counts)
 
     haksa_docs = [doc["text"] for doc in haksa_results["metadatas"][0] if "text" in doc]
     scholarship_docs = [doc["text"] for doc in scholarship_results["metadatas"][0] if "text" in doc]
     major_docs = [doc["text"] for doc in major_results["metadatas"][0] if "text" in doc]
+    ePortfolio_docs = [doc["text"] for doc in ePortfolio_results["metadatas"][0] if "text" in doc]
 
     # 검색된 데이터 log
     print(f"검색된 데이터 개수: {len(haksa_results['metadatas'][0])}")
@@ -136,6 +152,7 @@ def ask():
     haksa = "\n\n".join(haksa_docs)
     scholarship = "\n\n".join(scholarship_docs)
     major = "\n\n".join(major_docs)
+    ePortfolio = "\n\n".join(ePortfolio_docs)
 
     completion = client.chat.completions.create(
         model="gpt-4o-mini",
@@ -144,6 +161,7 @@ def ask():
             {"role": "system", "content": f"다음은 학사 일정 관련 참고 정보입니다:\n\n{haksa}"},
             {"role": "system", "content": f"다음은 장학금 관련 참고 정보입니다:\n\n{scholarship}"},
             {"role": "system", "content": f"다음은 전공 관련 참고 정보입니다:\n\n{major}"},
+            {"role": "system", "content": f"다음은 상명 e-포트폴리오 진로/취업프로그램 정보입니다:\n\n{ePortfolio}"},
             {"role": "user", "content": user_question}
         ]
     )
