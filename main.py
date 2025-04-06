@@ -6,7 +6,7 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 import json
 import os
-
+import re
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
@@ -27,7 +27,6 @@ embedding_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 # ChromaDB 초기화 (Persistent 모드)
 chroma_client = chromadb.PersistentClient(path="./chroma_db")
-# collection = chroma_client.get_or_create_collection(name="knowledge_base")
 
 # 데이터 유형별 컬렉션 생성
 scholarship_collection = chroma_client.get_or_create_collection(name="scholarship_knowledge")
@@ -78,6 +77,17 @@ def process_major_data():
             if item.get("email"):
                 text += f" / 이메일: {item['email']}"
             documents.append(text)
+
+        if "curriculums" in major:
+            for curriculum in major["curriculums"]:
+                curriculum_name = curriculum.get("name", "Unknown Curriculum")
+                department = curriculum.get("department", "N/A")
+                year = curriculum.get("year", "N/A")
+                semester = curriculum.get("semester", "N/A")
+                completion = curriculum.get("completion", "N/A")
+                credit = curriculum.get("credit", "N/A")
+                text = f"전공: {major_name} - 과목명: {curriculum_name} / 학부: {department} / 학년: {year} / 학기: {semester} / 이수구분: {completion} / 학점: {credit}"
+                documents.append(text)
     return documents
 
 def process_ePortfolio_data():
@@ -111,6 +121,12 @@ def load_data_to_chroma():
 
 load_data_to_chroma()
 
+def extract_professor_name(question: str):
+    match = re.search(r"([가-힣]+)\s*교수", question)
+    if match:
+        return match.group(1)
+    return None
+
 @app.route('/ask', methods=['POST'])
 def ask():
     user_question = request.json.get("question")
@@ -133,21 +149,25 @@ def ask():
     major_docs = [doc["text"] for doc in major_results["metadatas"][0] if "text" in doc]
     ePortfolio_docs = [doc["text"] for doc in ePortfolio_results["metadatas"][0] if "text" in doc]
 
-    # 검색된 데이터 log
-    print(f"검색된 데이터 개수: {len(haksa_results['metadatas'][0])}")
+    prof_name = extract_professor_name(user_question)
 
-    print(f"검색된 데이터 개수: {len(scholarship_results['metadatas'][0])}")
+    if prof_name:
+        print(f"🔍 교수 이름 '{prof_name}' 으로 필터링 중...")
 
-    print(f"검색된 데이터 개수: {len(major_results['metadatas'][0])}")
+        # 전체 데이터를 가져와서 이름으로 필터
+        all_major_data = major_collection.get(include=["metadatas"])
+        major_docs = [
+            doc["text"]
+            for doc in all_major_data["metadatas"]
+            if "text" in doc and prof_name in doc["text"]
+        ]
 
-    for idx, doc in enumerate(haksa_results["metadatas"][0]):
-        print(f"검색 결과 {idx + 1}: {doc['text']}")
-
-    for idx, doc in enumerate(scholarship_results["metadatas"][0]):
-        print(f"검색 결과 {idx + 1}: {doc['text']}")
-
-    for idx, doc in enumerate(major_results["metadatas"][0]):
-        print(f"검색 결과 {idx + 1}: {doc['text']}")
+        if not major_docs:
+            major_docs = ["해당 교수님의 정보를 찾을 수 없습니다."]
+    else:
+        # 기존 방식: 유사도 검색
+        major_results = major_collection.query(query_embeddings=[user_embedding], n_results=counts)
+        major_docs = [doc["text"] for doc in major_results["metadatas"][0] if "text" in doc]
 
     haksa = "\n\n".join(haksa_docs)
     scholarship = "\n\n".join(scholarship_docs)
