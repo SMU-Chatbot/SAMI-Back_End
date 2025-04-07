@@ -549,6 +549,267 @@
     ]
   },
   {
+    "major": "전기공학전공",
+    "curriculums": [
+      {
+        "name": "SW융합개론",
+        "department": "SW융합학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "SW영어1",
+        "department": "SW융합학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전기회로1",
+        "department": "전기공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미적분학",
+        "department": "전기공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "공업수학",
+        "department": "전기공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전기회로2",
+        "department": "전기공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전력공학1",
+        "department": "전기공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전기회로실험",
+        "department": "전기공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전자기학",
+        "department": "전기공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "신재생에너지공학",
+        "department": "전기공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지응용프로그래밍",
+        "department": "전기공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전력공학2",
+        "department": "전기공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "논리회로",
+        "department": "전기공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "임베디드프로그래밍",
+        "department": "전기공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "신재생에너지실험",
+        "department": "전기공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전기기기",
+        "department": "전기공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전력전자",
+        "department": "전기공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지시스템설계",
+        "department": "전기공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전기기기실험",
+        "department": "전기공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "최적화이론",
+        "department": "전기공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "자동제어",
+        "department": "전기공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지시스템과AI",
+        "department": "전기공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "전력변환디바이스",
+        "department": "전기공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "수치해석",
+        "department": "전기공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "송배전공학",
+        "department": "전기공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "전기설비기술기준",
+        "department": "전기공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "전력경제",
+        "department": "전기공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "계측및제어",
+        "department": "전기공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "창의적종합설계1(캡스톤디자인)",
+        "department": "전기공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "신재생에너지분석",
+        "department": "전기공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "스마트그리드와 태양광발전사업",
+        "department": "전기공학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "창의적종합설계2(캡스톤디자인)",
+        "department": "전기공학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
     "major": "지적재산권전공",
     "curriculums": [
       {
