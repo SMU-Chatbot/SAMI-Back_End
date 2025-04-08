@@ -810,6 +810,2888 @@
     ]
   },
   {
+    "major": "지능IOT융합전공",
+    "curriculums": [
+      {
+        "name": "SW융합개론",
+        "department": "SW융합학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "SW영어1",
+        "department": "SW융합학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "IOT센서기초",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "신호및시스템",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "컴퓨터구조",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "선형대수학",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "자료구조",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "객체지향프로그래밍",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "지능IOT개론",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털신호처리",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "데이터통신",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "마이크로프로세서",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "유닉스시스템",
+        "department": "지능IOT융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털신호처리",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "영상처리",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능과빅데이터",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "통신공학",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "멀티미디어신호처리",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "지능형영상처리",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "IOT보안",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "유닉스프로그래밍",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "사물인터넷프로그래밍",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "실시간커널",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "컴퓨터네트워크",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "지능형오디오처리",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "패턴인식",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "멀티미디어데이터분석",
+        "department": "지능IOT융합전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "컴퓨터비전",
+        "department": "지능IOT융합전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "캡스톤디자인1",
+        "department": "지능IOT융합전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "임베디드시스템",
+        "department": "지능IOT융합전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "컴퓨터비전",
+        "department": "지능IOT융합전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "캡스톤디자인2",
+        "department": "지능IOT융합전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "게임전공",
+    "curriculums": [
+      {
+        "name": "SW융합개론",
+        "department": "SW융합학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "SW영어1",
+        "department": "SW융합학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임프로그래밍입문",
+        "department": "게임전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임학개론",
+        "department": "게임전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "C프로그래밍",
+        "department": "게임전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(게임전공)",
+        "department": "게임전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "게임수학",
+        "department": "게임전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "JAVA프로그래밍",
+        "department": "게임전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임컨셉디자인",
+        "department": "게임전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(게임전공)",
+        "department": "게임전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "컴퓨터구조와게임",
+        "department": "게임전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임객체지향프로그래밍",
+        "department": "게임전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "확률과통계",
+        "department": "게임전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임자료구조",
+        "department": "게임전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "콘텐츠서비스디자인",
+        "department": "게임전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임소프트웨어개발1",
+        "department": "게임전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임스토리텔링",
+        "department": "게임전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "웹콘텐츠개발",
+        "department": "게임전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "알고리즘",
+        "department": "게임전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "운영체제와게임",
+        "department": "게임전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임소프트웨어개발2",
+        "department": "게임전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "콘텐츠기획및프리젠테이션",
+        "department": "게임전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임심리학",
+        "department": "게임전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "웹서버개발",
+        "department": "게임전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "멀티쓰레드게임프로그래밍",
+        "department": "게임전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "고급게임소프트웨어개발",
+        "department": "게임전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "콘텐츠비즈니스",
+        "department": "게임전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임인공지능",
+        "department": "게임전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "지능형혼합현실",
+        "department": "게임전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "네트워크게임프로그래밍",
+        "department": "게임전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "캡스톤디자인1",
+        "department": "게임전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임특강",
+        "department": "게임전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "캡스톤디자인2",
+        "department": "게임전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "산업현장인턴십",
+        "department": "게임전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "애니메이션전공",
+    "curriculums": [
+      {
+        "name": "SW융합개론",
+        "department": "SW융합학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "SW영어1",
+        "department": "SW융합학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임엔진 기초",
+        "department": "애니메이션전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "애니메이션 기초",
+        "department": "애니메이션전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털 그래픽 기초",
+        "department": "애니메이션전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "모델링 기초",
+        "department": "애니메이션전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "라이팅앤렌더링",
+        "department": "애니메이션전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "애니메이션테크닉",
+        "department": "애니메이션전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "캐릭터리깅",
+        "department": "애니메이션전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임엔진 고급에셋활용",
+        "department": "애니메이션전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "카툰애니메이션",
+        "department": "애니메이션전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "애니메이션스토리텔링",
+        "department": "애니메이션전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "Blender project",
+        "department": "애니메이션전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임엔진애니메이션1",
+        "department": "애니메이션전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능 애니메이션 이론과 실습",
+        "department": "애니메이션전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임애니메이션",
+        "department": "애니메이션전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "Compositing",
+        "department": "애니메이션전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "애니메이션스토리메이킹",
+        "department": "애니메이션전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "게임엔진애니메이션2",
+        "department": "애니메이션전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "단편애니메이션기획",
+        "department": "애니메이션전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "크리처애니메이션",
+        "department": "애니메이션전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "인터렉티브 CGI 1",
+        "department": "애니메이션전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "VFX project A",
+        "department": "애니메이션전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "일본TV애니와표현기법",
+        "department": "애니메이션전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "VFX project B",
+        "department": "애니메이션전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "Animation Workshop",
+        "department": "애니메이션전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "인터랙티브 CGI 2(캡스톤디자인)",
+        "department": "애니메이션전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "단편 story reels",
+        "department": "애니메이션전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "CG Workshop 1",
+        "department": "애니메이션전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "Short Film Animation 1",
+        "department": "애니메이션전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "3D Effect",
+        "department": "애니메이션전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "Unreal 고급릴 제작",
+        "department": "애니메이션전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "Short Film Animation 2",
+        "department": "애니메이션전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "CG Workshop 2",
+        "department": "애니메이션전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      }
+    ]
+  },
+  {
+    "major": "휴먼지능정보공학전공",
+    "curriculums": [
+      {
+        "name": "파이썬",
+        "department": "지능·데이터융합학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "확률과통계",
+        "department": "지능·데이터융합학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "C프로그래밍1",
+        "department": "휴먼지능정보공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "지능정보공학설계",
+        "department": "휴먼지능정보공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "개인정보보호론",
+        "department": "휴먼지능정보공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "휴먼지능정보공학개론",
+        "department": "휴먼지능정보공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "C프로그래밍2",
+        "department": "휴먼지능정보공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "이산수학",
+        "department": "휴먼지능정보공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털보안학",
+        "department": "휴먼지능정보공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "확률통계의 이해",
+        "department": "휴먼지능정보공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "객체지향프로그래밍",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "자료구조",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "선형대수학",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "컴퓨터로직설계",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인터랙션디자인",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "뇌과학과 인공지능",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "공학심리학",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인지공학",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "컴퓨터네트워크",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "알고리즘",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능개론",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "빅데이터분석",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "웹프로그래밍",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "데이터베이스",
+        "department": "휴먼지능정보공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "감성컴퓨팅",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "소프트웨어공학",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털영상처리",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "AI프로세서 설계",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "블록체인프로그래밍",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "딥러닝",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "UX분석",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "공공빅데이터분석PBL",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털신호처리",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "운영체제",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "신경공학",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능시스템설계",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "영상패턴인식",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "피지컬컴퓨팅",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "의료영상인공지능",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "신호패턴인식",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "강화학습",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "감성디지털휴먼",
+        "department": "휴먼지능정보공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "감성맥락지능",
+        "department": "휴먼지능정보공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "휴먼지능정보종합설계1",
+        "department": "휴먼지능정보공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "소셜인공지능",
+        "department": "휴먼지능정보공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "휴먼헬스인공지능",
+        "department": "휴먼지능정보공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "자율주행",
+        "department": "휴먼지능정보공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "휴먼지능정보종합설계2",
+        "department": "휴먼지능정보공학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "휴먼인식기술",
+        "department": "휴먼지능정보공학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "ICT학점이수인턴제(휴먼지능정보공학전공)",
+        "department": "휴먼지능정보공학전공",
+        "year": "전체",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "15학점"
+      }
+    ]
+  },
+  {
+    "major": "핀테크전공",
+    "curriculums": [
+      {
+        "name": "파이썬",
+        "department": "지능·데이터융합학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "확률과통계",
+        "department": "지능·데이터융합학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(핀테크.빅데이터융합.스마트생산전공)",
+        "department": "핀테크전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "빅데이터의이해와적용",
+        "department": "핀테크전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초이산수학",
+        "department": "핀테크전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크와금융혁신",
+        "department": "핀테크전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전자상거래보안입문",
+        "department": "핀테크전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "컴퓨터구조개론",
+        "department": "핀테크전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "챗GPT이용데이터분석",
+        "department": "핀테크전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "프로그래밍언어",
+        "department": "핀테크전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "빅데이터시각화",
+        "department": "핀테크전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "빅데이터분석개론",
+        "department": "핀테크전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "파이썬기반데이터전처리와시각화",
+        "department": "핀테크전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능논리입문",
+        "department": "핀테크전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "자료구조와응용",
+        "department": "핀테크전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "비즈니스SW활용",
+        "department": "핀테크전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "빅데이터응용실습1",
+        "department": "핀테크전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털헬스케어입문",
+        "department": "핀테크전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "비즈니스데이터분석",
+        "department": "핀테크전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크데이터분석과금융AI",
+        "department": "핀테크전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "운영체제기초",
+        "department": "핀테크전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능이론및실습",
+        "department": "핀테크전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "클라우드컴퓨팅",
+        "department": "핀테크전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융머신러닝",
+        "department": "핀테크전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크",
+        "department": "핀테크전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "생체신호빅데이터분석",
+        "department": "핀테크전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "사물인터넷개론",
+        "department": "핀테크전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "컴퓨터보안",
+        "department": "핀테크전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "빅데이터융합전공",
+    "curriculums": [
+      {
+        "name": "파이썬",
+        "department": "지능·데이터융합학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "확률과통계",
+        "department": "지능·데이터융합학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(핀테크.빅데이터융합.스마트생산전공)",
+        "department": "빅데이터융합전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "빅데이터의이해와적용",
+        "department": "빅데이터융합전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "스마트팩토리에대한이해",
+        "department": "빅데이터융합전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초이산수학",
+        "department": "빅데이터융합전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크와금융혁신",
+        "department": "빅데이터융합전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전자상거래보안입문",
+        "department": "빅데이터융합전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "서비스이론과플랫폼기업연구",
+        "department": "빅데이터융합전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "컴퓨터구조개론",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "챗GPT이용데이터분석",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "프로그래밍언어",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "빅데이터시각화",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "스타트업개론",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "빅데이터분석개론",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "파이썬기반데이터전처리와시각화",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능논리입문",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "자료구조와응용",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "비즈니스SW활용",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "스타트업성장전략",
+        "department": "빅데이터융합전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "빅데이터응용실습1",
+        "department": "빅데이터융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털헬스케어입문",
+        "department": "빅데이터융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "비즈니스데이터분석",
+        "department": "빅데이터융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크데이터분석과금융AI",
+        "department": "빅데이터융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "운영체제기초",
+        "department": "빅데이터융합전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능이론및실습",
+        "department": "빅데이터융합전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "클라우드컴퓨팅",
+        "department": "빅데이터융합전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융머신러닝",
+        "department": "빅데이터융합전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크",
+        "department": "빅데이터융합전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "생체신호빅데이터분석",
+        "department": "빅데이터융합전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "사물인터넷개론",
+        "department": "빅데이터융합전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "행동과학과데이터비즈니스의이해",
+        "department": "빅데이터융합전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "컴퓨터보안",
+        "department": "빅데이터융합전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "스마트생산전공",
+    "curriculums": [
+      {
+        "name": "파이썬",
+        "department": "지능·데이터융합학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "확률과통계",
+        "department": "지능·데이터융합학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(핀테크.빅데이터융합.스마트생산전공)",
+        "department": "스마트생산전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "빅데이터의이해와적용",
+        "department": "스마트생산전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "스마트팩토리에대한이해",
+        "department": "스마트생산전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초이산수학",
+        "department": "스마트생산전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크와금융혁신",
+        "department": "스마트생산전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "서비스이론과플랫폼기업연구",
+        "department": "스마트생산전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "챗GPT이용데이터분석",
+        "department": "스마트생산전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "빅데이터시각화",
+        "department": "스마트생산전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "스타트업개론",
+        "department": "스마트생산전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "빅데이터분석개론",
+        "department": "스마트생산전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "파이썬기반데이터전처리와시각화",
+        "department": "스마트생산전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "비즈니스SW활용",
+        "department": "스마트생산전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "스타트업성장전략",
+        "department": "스마트생산전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "빅데이터응용실습1",
+        "department": "스마트생산전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털헬스케어입문",
+        "department": "스마트생산전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "비즈니스데이터분석",
+        "department": "스마트생산전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크데이터분석과금융AI",
+        "department": "스마트생산전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "클라우드컴퓨팅",
+        "department": "스마트생산전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융머신러닝",
+        "department": "스마트생산전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크",
+        "department": "스마트생산전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "생체신호빅데이터분석",
+        "department": "스마트생산전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "행동과학과데이터비즈니스의이해",
+        "department": "스마트생산전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "생명공학전공",
+    "curriculums": [
+      {
+        "name": "미적분학",
+        "department": "생명화학공학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전산학",
+        "department": "생명화학공학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반생물학실험1",
+        "department": "생명공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공체험(생명공학전공)",
+        "department": "생명공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "일반화학1",
+        "department": "생명공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반생물학1",
+        "department": "생명공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "생명공학입문",
+        "department": "생명공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반생물학2",
+        "department": "생명공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반생물학실험2",
+        "department": "생명공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "생화학",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "생화학실험",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "유전학",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "유전학실험",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "생명공학소프트웨어활용",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "식물생명공학",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "아동과학지도",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "세포생물학",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "생리학",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "생리학실험",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "미생물공학",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미생물공학실험",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "생명공학진로탐색",
+        "department": "생명공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "발생공학",
+        "department": "생명공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "생물정보학",
+        "department": "생명공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "분자생물학",
+        "department": "생명공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "분자생물학실험",
+        "department": "생명공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "생물정보학실험",
+        "department": "생명공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "생물독성학",
+        "department": "생명공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "환경생명공학",
+        "department": "생명공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "생물소재공학",
+        "department": "생명공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "단백질공학",
+        "department": "생명공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "생명공학연구세미나",
+        "department": "생명공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "면역학",
+        "department": "생명공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "생물반응공학",
+        "department": "생명공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "생명공학종합설계",
+        "department": "생명공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "생물공정공학",
+        "department": "생명공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "생물배양공학",
+        "department": "생명공학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "유전공학",
+        "department": "생명공학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "유전체학",
+        "department": "생명공학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "화학에너지공학전공",
+    "curriculums": [
+      {
+        "name": "미적분학",
+        "department": "생명화학공학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전산학",
+        "department": "생명화학공학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반화학실험1",
+        "department": "화학에너지공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공체험(화학에너지공학전공)",
+        "department": "화학에너지공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "일반화학1",
+        "department": "화학에너지공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반물리학",
+        "department": "화학에너지공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반생물학1",
+        "department": "화학에너지공학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반화학실험2",
+        "department": "화학에너지공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "일반물리학2",
+        "department": "화학에너지공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반화학2",
+        "department": "화학에너지공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "공학수학",
+        "department": "화학에너지공학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "에너지유기재료1",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "분석화학",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지유기재료실험1",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "분석화학실험",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "고체결정학",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지유기재료2",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지유기재료실험2",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지열역학",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지열역학실험",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지무기재료1",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지무기재료실험1",
+        "department": "화학에너지공학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "에너지무기재료2",
+        "department": "화학에너지공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지무기재료실험2",
+        "department": "화학에너지공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "양자역학과분광학",
+        "department": "화학에너지공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "고체재료공학1",
+        "department": "화학에너지공학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "전기화학",
+        "department": "화학에너지공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "전기화학과 배터리실험",
+        "department": "화학에너지공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "에너지환경공학",
+        "department": "화학에너지공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "나노공학실험",
+        "department": "화학에너지공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "고체재료공학실험",
+        "department": "화학에너지공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "고체재료공학2",
+        "department": "화학에너지공학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "고분자나노공학",
+        "department": "화학에너지공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "유기금속과촉매",
+        "department": "화학에너지공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "반도체와 에너지변환공학",
+        "department": "화학에너지공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "표면화학",
+        "department": "화학에너지공학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "캡스톤디자인",
+        "department": "화학에너지공학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기기분석",
+        "department": "화학에너지공학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "유기합성",
+        "department": "화학에너지공학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "현장실습학기제(화학에너지공학)",
+        "department": "화학에너지공학전공",
+        "year": "전체",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "15학점"
+      }
+    ]
+  },
+  {
+    "major": "화공신소재전공",
+    "curriculums": [
+      {
+        "name": "미적분학",
+        "department": "생명화학공학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전산학",
+        "department": "생명화학공학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반화학실험",
+        "department": "화공신소재전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "화학공학개론",
+        "department": "화공신소재전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(화공신소재전공)",
+        "department": "화공신소재전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "일반화학1",
+        "department": "화공신소재전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반물리학",
+        "department": "화공신소재전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반물리학실험",
+        "department": "화공신소재전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "신소재공학기초",
+        "department": "화공신소재전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일반화학2",
+        "department": "화공신소재전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "공학수학",
+        "department": "화공신소재전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "화공양론및프로그래밍",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "물리화학",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "물리화학실험",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "유기공업화학 1",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "화공열역학1",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "화학공정계산",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "공정제어및프로그래밍",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "유기공업화학실험",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "유기공업화학 2",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "화공열역학실험",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "첨단 신소재 공학",
+        "department": "화공신소재전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "화공열역학2",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "화공신소재공정(캡스톤디자인)",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "무기소재화학실험",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "고분자소재공학",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "고분자소재공학실험",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "이동현상",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "배터리화학공학",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "화공단위조작",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "무기공업분석실험",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "반응공학",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "유기 바이오 소재공학(캡스톤디자인)",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "화공반도체공정",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "화공단위조작실험",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "나노신소재 공학",
+        "department": "화공신소재전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "고분자 소재 가공 및 3D 프린팅(캡스톤디자인)",
+        "department": "화공신소재전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "소재및정밀화학",
+        "department": "화공신소재전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "친환경융합공학소재(캡스톤디자인)",
+        "department": "화공신소재전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "분리공정설계(캡스톤디자인)",
+        "department": "화공신소재전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
     "major": "지적재산권전공",
     "curriculums": [
       {
