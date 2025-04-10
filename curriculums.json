@@ -6213,5 +6213,5915 @@
         "credit": "3학점"
       }
     ]
+  },
+  {
+    "major": "역사콘텐츠",
+    "curriculums": [
+      {
+        "name": "중국의역사와문화",
+        "department": "역사콘텐츠전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "역사학의이해",
+        "department": "역사콘텐츠전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(역사콘텐츠전공)",
+        "department": "역사콘텐츠전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "한국사사료강독과DB활용",
+        "department": "역사콘텐츠전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "역사콘텐츠의이해",
+        "department": "역사콘텐츠전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "서양고대사",
+        "department": "역사콘텐츠전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(역사콘텐츠전공)",
+        "department": "역사콘텐츠전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "한국고대사",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국중세사",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "서양사사료강독과DB활용",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일본고중세사",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "근대중국과세계질서",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인물로보는중국사",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국근세사",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일본의문화와생활",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전통중국과동아시아",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "서양중세사",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털문화유산과인공지능",
+        "department": "역사콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "서양근대사",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영상역사학워크샵(캡스톤디자인)",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "일본전통문화의이해",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "서울의역사와문화유산",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "역사스토리텔링",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "조선시대전쟁과대외관계사의재조명",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "인물로보는일본사",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "서양현대사",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "박물관의이해와현장실습",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "현대중국의이해",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "중국도시문화와생활",
+        "department": "역사콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "동아시아속의한일관계사",
+        "department": "역사콘텐츠전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "서양사의이해",
+        "department": "역사콘텐츠전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국근대사",
+        "department": "역사콘텐츠전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국현대사",
+        "department": "역사콘텐츠전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국사특강",
+        "department": "역사콘텐츠전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "한일문화콘텐츠",
+    "curriculums": [
+      {
+        "name": "일본문화의이해",
+        "department": "한일문화콘텐츠전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "베이직일본어1",
+        "department": "한일문화콘텐츠전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "여가콘텐츠와일본현대문화",
+        "department": "한일문화콘텐츠전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화콘텐츠입문",
+        "department": "한일문화콘텐츠전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(한일문화콘텐츠전공)",
+        "department": "한일문화콘텐츠전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "콘텐츠기획과문화융합",
+        "department": "한일문화콘텐츠전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "베이직일본어2",
+        "department": "한일문화콘텐츠전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "언어와컴퓨터",
+        "department": "한일문화콘텐츠전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초일본어회화와작문실습",
+        "department": "한일문화콘텐츠전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한일대중문화콘텐츠의이해",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "로컬콘텐츠와한일문화여행",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한일언어와행동문화",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "커뮤니케이션일본어1",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한일문화트렌드",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일본문학과문화",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "커뮤니케이션일본어2",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "추리텍스트의미디어콘텐츠활용",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화코드와콘텐츠",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화콘텐츠와인공지능",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한일언어와사회문화",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한일지역문화와문화산업콘텐츠기획",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영상콘텐츠제작과한일문화교류",
+        "department": "한일문화콘텐츠전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한일영상문화비교",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "이문화커뮤니케이션",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "매스미디어일본어",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "일본애니메이션분석과스토리텔링",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "동아시아공연예술",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "취업일본어실습",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "동영상플랫폼과한일콘텐츠문화",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "K콘텐츠의글로벌화전략",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "베스트셀러와미디어스토리텔링",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한일콘텐츠산업분석",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화융합과콘텐츠",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일본TV애니와표현기법",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "일본문학감상",
+        "department": "한일문화콘텐츠전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "한일문화콘텐츠기획실습(캡스톤디자인)",
+        "department": "한일문화콘텐츠전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영상통번역연습",
+        "department": "한일문화콘텐츠전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "미디어믹스실습(캡스톤디자인)",
+        "department": "한일문화콘텐츠전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한일문화와콘텐츠제작(캡스톤디자인)",
+        "department": "한일문화콘텐츠전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "영어교육",
+    "curriculums": [
+      {
+        "name": "취업과창업(사범)",
+        "department": "사범대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "영어작문",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영어독해",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영어문법지도법",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미래교사와인성",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "미래교사와의사소통",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "중급영어작문",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영문학개론",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영어회화",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "언어습득의이해",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미래교사와인성",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육학개론",
+        "department": "영어교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "영미문화",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영어학개론",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "중급영어회화",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "미래교사와학교현장",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육심리",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육철학및교육사",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "제2언어교수법(TESOL)",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영어음성음운론",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영어통사론",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영어읽기지도",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "학습자맞춤형영어연습",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "디지털융합역량과 AI시대 언어학습",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육평가",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "미래교사와학교현장",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육사회",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "특수교육학개론",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육봉사활동1",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육봉사활동2",
+        "department": "영어교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "영어문장분석과지도",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "커뮤니케이션스킬",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "영어쓰기지도",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영어교과논리및논술",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "영문학강독1",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육과정",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "생활지도및상담",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "영어교과교육론",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육방법및교육공학",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교직실무",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육봉사활동1",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육봉사활동2",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "영문학강독2",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "고급영문법",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "지능정보기반영어교육(캡스톤디자인)",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영어교과교재연구및지도법",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육행정및교육경영",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "학교폭력예방및학생의이해",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "디지털교육",
+        "department": "영어교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "영어평가의이론과실제",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "화용론과교실담화",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영문학과영어교육",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "학교현장실습",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "영어듣기말하기지도",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "영어학과영어교육",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교실영어",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "프로그램개발및운영(캡스톤디자인)",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "교과교실수업연구",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "학교현장실습",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "학교현장실습(학기제)",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교직과미래교사",
+        "department": "영어교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      }
+    ]
+  },
+  {
+    "major": "교육학",
+    "curriculums": [
+      {
+        "name": "취업과창업(사범)",
+        "department": "사범대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육학개론",
+        "department": "교육학과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인간발달과교육",
+        "department": "교육학과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미래교사와인성",
+        "department": "교육학과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "미래교사와의사소통",
+        "department": "교육학과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육철학과교육사",
+        "department": "교육학과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육심리",
+        "department": "교육학과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육사회학",
+        "department": "교육학과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "청소년문화",
+        "department": "교육학과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미래교사와인성",
+        "department": "교육학과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육과정",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육평가",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "평생교육론",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육과법",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육공학",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "청소년지도방법론",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인간관계와교육",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미래교사와학교현장",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "특수교육학개론",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육통계",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육행정",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "청소년복지",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "이러닝콘텐츠기획및설계",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "평생교육경영론",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미래교사와학교현장",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육학교과교육론",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육봉사활동1",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육봉사활동2",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "디지털교육",
+        "department": "교육학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "평생교육방법론",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육학연구방법",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육복지론",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육과정개발과컨설팅",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "인적자원개발론",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털학습콘텐츠설계및개발(캡스톤디자인)",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육봉사활동1",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육봉사활동2",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "학교폭력예방및학생의이해",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육정책",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "다문화교육론",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "평생교육프로그램개발론(캡스톤디자인)",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "기업교육론(캡스톤디자인)",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "상담심리학",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육학교과평가방법론",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "생활지도및상담",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육학교과교재연구및지도법",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교직실무",
+        "department": "교육학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "청소년문제와보호",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "청소년프로그램개발과평가(캡스톤디자인)",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "청소년심리및상담",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "교수설계이론과실제",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "학교현장실습",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "청소년육성제도론",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "평생교육실습",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육프로그램평가",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "집단상담",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "청소년기관현장실습",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교과교실수업연구",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "학교현장실습",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "학교현장실습(학기제)",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교직과미래교사",
+        "department": "교육학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      }
+    ]
+  },
+  {
+    "major": "수학교육",
+    "curriculums": [
+      {
+        "name": "취업과창업(사범)",
+        "department": "사범대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "미적분학교육1",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "선형대수학1",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "수학사교육",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미래교사와인성",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "미래교사와의사소통",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "집합론교육",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미적분학교육2",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "선형대수학2",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "실용수학",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미래교사와인성",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육학개론",
+        "department": "수학교육과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "융복합수학",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "정수론",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "위상수학1",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "조합및그래프이론",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능과수학",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미래교사와학교현장",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육사회",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "디지털교육",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "컴퓨터와수학교육",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "해석학1",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "위상수학2",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육과정",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "미래교사와학교현장",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육심리",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육철학및교육사",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "수학교과교육론",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교직실무",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육봉사활동1",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육봉사활동2",
+        "department": "수학교육과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "해석학2",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "기하학일반",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "확률및통계1",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "현대대수학1",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육평가",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "수학교과교재연구및지도법",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육행정및교육경영",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "특수교육학개론",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육봉사활동1",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육봉사활동2",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "학교폭력예방및학생의이해",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "미분기하학",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "복소함수론",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "확률및통계2",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "현대대수학2",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "수학교과논리및논술",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "생활지도및상담",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육방법및교육공학",
+        "department": "수학교육과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "실함수론",
+        "department": "수학교육과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능과확률통계교육(캡스톤디자인)",
+        "department": "수학교육과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "수학교육종합설계",
+        "department": "수학교육과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "학교현장실습",
+        "department": "수학교육과",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "대수학교수법",
+        "department": "수학교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교과교실수업연구",
+        "department": "수학교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "학습자중심수학교육",
+        "department": "수학교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "학교현장실습",
+        "department": "수학교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "학교현장실습(학기제)",
+        "department": "수학교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교직과미래교사",
+        "department": "수학교육과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      }
+    ]
+  },
+  {
+    "major": "경제금융학",
+    "curriculums": [
+      {
+        "name": "취업과창업(경영경제)",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "소비자심리의이해",
+        "department": "경제금융학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융경제와데이터",
+        "department": "경제금융학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(경제금융학부)",
+        "department": "경제금융학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "경제학입문",
+        "department": "경제금융학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경제통계입문",
+        "department": "경제금융학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경제통계실습",
+        "department": "경제금융학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "AI와소비자이슈",
+        "department": "경제금융학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경제학원론",
+        "department": "경제금융학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미시경제학",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "거시경제학",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경제학방법론",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "재무경제학",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "부동산원론",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자주의와시장환경",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자와유통",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경제학특강",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자의사결정론",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융투자론",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "화폐금융론",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "부동산금융론",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "자본시장의이해",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "산업과 전략의 이해",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자경제학",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자트렌드분석",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융소비자론",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "노동경제학",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융경제데이터분석기초",
+        "department": "경제금융학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융시장과금융기관",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "국제경제학",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "자산운용과투자전략",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "데이터분석의이해",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "행동경제학",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "조세제도와정책",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "산업⋅정책의미시계량분석",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자조사법",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융소비자교육",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자질적연구방법론",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "환율과국제금융",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "공공경제학",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "가계금융론",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자정책과이슈",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털경제시대의스타트업",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크산업의이해",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "이슈경제학",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "개인재무설계",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경제성장과현대경제이슈",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "법경제학",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융빅데이터입문",
+        "department": "경제금융학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "경제금융세미나",
+        "department": "경제금융학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융상품의이해",
+        "department": "경제금융학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "응용데이터분석세미나",
+        "department": "경제금융학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "시장경제와윤리",
+        "department": "경제금융학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "텍스트마이닝을이용한소비자분석",
+        "department": "경제금융학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "핀테크산업과서비스디자인",
+        "department": "경제금융학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국경제의이해",
+        "department": "경제금융학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경제금융실무(캡스톤디자인)",
+        "department": "경제금융학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자문제분석",
+        "department": "경제금융학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "머신러닝을통한금융예측",
+        "department": "경제금융학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "현장실습학기제(경제금융)",
+        "department": "경제금융학부",
+        "year": "전체",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "15학점"
+      }
+    ]
+  },
+  {
+    "major": "융합경영학",
+    "curriculums": [
+      {
+        "name": "취업과창업(경영경제)",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "경제학입문",
+        "department": "융합경영학과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경영학원론",
+        "department": "융합경영학과",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "회계원리",
+        "department": "융합경영학과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경제학원론",
+        "department": "융합경영학과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자트렌드분석",
+        "department": "융합경영학과",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경영경제통계",
+        "department": "융합경영학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "재무관리",
+        "department": "융합경영학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "마케팅",
+        "department": "융합경영학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전략경영",
+        "department": "융합경영학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자와시장환경",
+        "department": "융합경영학과",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인적자원관리",
+        "department": "융합경영학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미시경제학",
+        "department": "융합경영학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "비지니스커뮤니케이션",
+        "department": "융합경영학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "국제경영",
+        "department": "융합경영학과",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "금융시장론",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "세무회계",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "생산관리",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "거시경제학",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "e-commerce",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "경영정보시스템",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "무역실무",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "국제마케팅",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "시장조사론",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "화폐금융",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "소비자법과정책",
+        "department": "융합경영학과",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "세일즈매니지먼트",
+        "department": "융합경영학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "AI와경영",
+        "department": "융합경영학과",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "식품영양학",
+    "curriculums": [
+      {
+        "name": "현대인의영양과건강",
+        "department": "식품영양학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "식품학개론",
+        "department": "식품영양학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "외식산업운영및실습",
+        "department": "식품영양학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "3D푸드디자인",
+        "department": "식품영양학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(식품영양학전공)",
+        "department": "식품영양학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "한국조리",
+        "department": "식품영양학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "식품화학",
+        "department": "식품영양학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "생리학",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "식생활과문화",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "고급영양학",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "서양조리",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "고급식품학",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육학개론",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육사회",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "디지털교육",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "생애주기영양학",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "푸드스타일링및경영",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "급식경영및인사관리",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "식품영양통계학",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "AI 기반 식생활관리",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "식품미생물학",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "식품소재학실습",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "식품과운동생리학",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육과정",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육심리",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육철학및교육사",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교직실무",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육봉사활동1",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육봉사활동2",
+        "department": "식품영양학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "제과제빵학",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "급식경영및마케팅전략(캡스톤디자인)",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "식품위생학및실험",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "식품가공및저장학",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육평가",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "조리교과교육론",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "교육행정및교육경영",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "특수교육학개론",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육봉사활동1",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "교육봉사활동2",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "1학점"
+      },
+      {
+        "name": "학교폭력예방및학생의이해",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "단체급식관리및실습",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "실험조리",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "생화학",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영양교육및상담",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "생활지도및상담",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교육방법및교육공학",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "조리교과교재연구및지도법",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "조리교과논리및논술",
+        "department": "식품영양학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "식사요법",
+        "department": "식품영양학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "4학점"
+      },
+      {
+        "name": "건강기능성식품학",
+        "department": "식품영양학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "학교현장실습",
+        "department": "식품영양학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "푸드테크과학기술특론",
+        "department": "식품영양학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "영양사현장실무",
+        "department": "식품영양학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "영양판정",
+        "department": "식품영양학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "외식창업론(캡스톤디자인)",
+        "department": "식품영양학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "학교현장실습",
+        "department": "식품영양학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      },
+      {
+        "name": "교직과미래교사",
+        "department": "식품영양학전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1교직",
+        "credit": "2학점"
+      }
+    ]
+  },
+  {
+    "major": "의류학",
+    "curriculums": [
+      {
+        "name": "텍스타일기초",
+        "department": "의류학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션마케팅커뮤니케이션",
+        "department": "의류학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "스타일분석및표현1",
+        "department": "의류학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션소품제작",
+        "department": "의류학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(의류학전공)",
+        "department": "의류학전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "패턴과의류생산1",
+        "department": "의류학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션리테일테크",
+        "department": "의류학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "스타일분석및표현2",
+        "department": "의류학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "현대패션",
+        "department": "의류학전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션색채기획",
+        "department": "의류학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션신소재과학",
+        "department": "의류학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "패턴과의류생산2",
+        "department": "의류학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션디자인기초",
+        "department": "의류학전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "컨셉개발",
+        "department": "의류학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "테일러링",
+        "department": "의류학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "비주얼머천다이징",
+        "department": "의류학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션캐드",
+        "department": "의류학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션트렌드와소재",
+        "department": "의류학전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션디자인실무",
+        "department": "의류학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "글로벌패션머천다이징",
+        "department": "의류학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "드레이핑1",
+        "department": "의류학전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "졸업작품기획(캡스톤디자인)",
+        "department": "의류학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "드레이핑2",
+        "department": "의류학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "테크니컬디자인",
+        "department": "의류학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "글로벌패션비즈니스",
+        "department": "의류학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션소재기획",
+        "department": "의류학전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션마켓리서치와빅데이터분석",
+        "department": "의류학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "졸업작품제작(캡스톤디자인)",
+        "department": "의류학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "패션테크놀로지",
+        "department": "의류학전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "스포츠건강관리",
+    "curriculums": [
+      {
+        "name": "건강관리",
+        "department": "스포츠무용학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화예술의이해",
+        "department": "스포츠무용학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "배구",
+        "department": "스포츠건강관리전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공기초스포츠(육상,체조)",
+        "department": "스포츠건강관리전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공체험(스포츠건강관리전공)",
+        "department": "스포츠건강관리전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "뉴스포츠",
+        "department": "스포츠건강관리전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "웨이트트레이닝",
+        "department": "스포츠건강관리전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "리듬운동",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "스포츠심리학",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "스포츠교육학",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "농구",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "테니스1",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "하계스포츠",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "헬스케어와스포츠과학의이해",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "운동생리학",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "운동기능해부학",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "요가",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "유아체육론",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "운동학습및제어",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "동계스포츠",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "테니스2",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "식품과운동생리학",
+        "department": "스포츠건강관리전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "필라테스",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "운동처방론",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "스포츠통계및측정평가",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "노인체육론(캡스톤디자인)",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "스포츠캡스톤프로젝트(캡스톤디자인)",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "골프",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "운동영양학",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "운동부하검사(캡스톤디자인)",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "임상운동프로그램(캡스톤디자인)",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "스포츠경영",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "건강운동과학프로젝트(캡스톤디자인)",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "트레이닝방법론",
+        "department": "스포츠건강관리전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "운동상해와재활(캡스톤디자인)",
+        "department": "스포츠건강관리전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "배드민턴",
+        "department": "스포츠건강관리전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "체육사",
+        "department": "스포츠건강관리전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "스포츠마케팅",
+        "department": "스포츠건강관리전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "병태생리학",
+        "department": "스포츠건강관리전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "특수체육론",
+        "department": "스포츠건강관리전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "스포츠사회와윤리",
+        "department": "스포츠건강관리전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공체험(스포츠건강관리전공)",
+        "department": "스포츠건강관리전공",
+        "year": "전체",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      }
+    ]
+  },
+  {
+    "major": "무용예술",
+    "curriculums": [
+      {
+        "name": "건강관리",
+        "department": "스포츠무용학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화예술의이해",
+        "department": "스포츠무용학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "무용의시각화와프리젠테이션",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "발레테크닉1(기초)",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "한국무용기초원리",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대무용테크닉1(기초)",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "발레레파토리1(기초)",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대무용창작1(기초)",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전통문화유산과민속무용",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공체험(무용예술전공)",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "한국무용창작원리",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대무용테크닉2(기초)",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "발레테크닉2(기초)",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전통연희와타악Ⅰ",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대무용창작2(기초)",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "발레레파토리2(기초)",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "공연예술과무대디자인",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "무용인류학과역사",
+        "department": "무용예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "무형문화유산전통무용",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대무용테크닉3(발전)",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "발레테크닉3(발전)",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전통연희와타악Ⅱ",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대무용창작3(발전)",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "발레레파토리3(발전)",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "문화예술경영론",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "컨템포러리댄스(기초)",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "무용교육론",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "무용음악제작및실습",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "AI하이브리드무용창작",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "무용생리학",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화예술교육개론",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "발레테크닉4(발전)",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "궁중정재",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대무용테크닉4(발전)",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "발레레파토리4(발전)",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "무용교수학습방법",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "문화다양성과커뮤니티댄스",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국무용창작심화",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대무용창작4(발전)",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "스마트미디어와댄스리터러시",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "특수무용교육실습",
+        "department": "무용예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "캡스톤예술기획(캡스톤디자인)",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국무용안무법",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "현대무용창작5(심화)",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "발레교육교수법",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "무용교육프로그램개발",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "무용큐레이션실습",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화예술정책및법제",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "모던핏과필라테스",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "사회공동체와 움직임치료(캡스톤디자인)",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화예술현장직무체험(현장실습)",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "발레레파토리창작발표",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "현대무용레파토리",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국무용융복합공연제작",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "무용교육공학",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "무용공연기획및프로그램개발",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "공연예술아카이빙",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "무용기능해부학",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "사회공동체와 움직임치료(캡스톤디자인)",
+        "department": "무용예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국무용공연큐레이션실습",
+        "department": "무용예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "발레테크닉5(심화)",
+        "department": "무용예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대무용테크닉5(심화)",
+        "department": "무용예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대무용창작워크숍",
+        "department": "무용예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "발레레파토리5(심화)",
+        "department": "무용예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "컨템포러리댄스의 이해",
+        "department": "무용예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국무용졸업작품연구",
+        "department": "무용예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "발레졸업작품연구",
+        "department": "무용예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "현대무용졸업작품연구",
+        "department": "무용예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화예술교육현장의이해와실습",
+        "department": "무용예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      }
+    ]
+  },
+  {
+    "major": "조형예술",
+    "curriculums": [
+      {
+        "name": "기초컴퓨터그래픽1",
+        "department": "조형예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "재료워크샵",
+        "department": "조형예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(조형예술전공)",
+        "department": "조형예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "드로잉워크샵",
+        "department": "조형예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미술학입문",
+        "department": "조형예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "서양미술사",
+        "department": "조형예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인체드로잉과해부학",
+        "department": "조형예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초조형",
+        "department": "조형예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초회화",
+        "department": "조형예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미디어기법",
+        "department": "조형예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초조소",
+        "department": "조형예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국및동양미술사",
+        "department": "조형예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초한국화",
+        "department": "조형예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "이미지와프로덕션",
+        "department": "조형예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "조형예술론",
+        "department": "조형예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "판화",
+        "department": "조형예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "한국화표현연구",
+        "department": "조형예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "공간과조형",
+        "department": "조형예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "인체모델링(캡스톤디자인)",
+        "department": "조형예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "문인화",
+        "department": "조형예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "회화와재현(캡스톤디자인)",
+        "department": "조형예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "근현대미술사",
+        "department": "조형예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "뉴미디어아트(캡스톤디자인)",
+        "department": "조형예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "독립작품연구(캡스톤디자인)",
+        "department": "조형예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "현대예술의쟁점",
+        "department": "조형예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "창작드로잉(캡스톤디자인)",
+        "department": "조형예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "스튜디오워크샵",
+        "department": "조형예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "미술과현장(캡스톤디자인)",
+        "department": "조형예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "졸업작품연구1",
+        "department": "조형예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "창작워크샵1",
+        "department": "조형예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "인공지능에기반한디지털콘텐츠제작기법",
+        "department": "조형예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "라키비움의이해",
+        "department": "조형예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "미술진로워크샵(캡스톤디자인)",
+        "department": "조형예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "졸업작품연구2",
+        "department": "조형예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "창작워크샵2",
+        "department": "조형예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "미디어리터러시",
+        "department": "조형예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      }
+    ]
+  },
+  {
+    "major": "생활예술",
+    "curriculums": [
+      {
+        "name": "디자인드로잉1",
+        "department": "생활예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "형태와구조",
+        "department": "생활예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "색채방법론",
+        "department": "생활예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "NONWOVEN기법연구",
+        "department": "생활예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(생활예술전공)",
+        "department": "생활예술전공",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "디자인드로잉2",
+        "department": "생활예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "Basic Living Art&Design",
+        "department": "생활예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초가구디자인",
+        "department": "생활예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "Mixed Media",
+        "department": "생활예술전공",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초공구기법과구조",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "현대가구디자인사",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초니팅기법연구",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "그래픽디자인",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "Open Studio Design1",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "3D Software",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "특수공구기법과조형",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "재료연구(가구조형)",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "OFF-LOOM직물기법",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "Surface Art&Design",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "Open Studio Design2",
+        "department": "생활예술전공",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "퍼니처캡스톤디자인1",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "아트퍼니처캡스톤디자인1",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "문화상품기획(캡스톤디자인)",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "Surface Capstone Design1",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "기초 On-Loom Capstone Design",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "특수니팅기법연구1",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "퍼니처캡스톤디자인2",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "브랜딩방법론(캡스톤디자인)",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "특수니팅기법연구2",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "아트퍼니처캡스톤디자인2",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "Surface Capstone Design2",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "On-Loom Capstone Design",
+        "department": "생활예술전공",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "디자인아트스튜디오I(캡스톤디자인)",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "텍스타일리빙디자인스튜디오1(캡스톤디자인)",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "Living Art Branding1",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "직물조형캡스톤디자인1",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "퍼니처리빙디자인스튜디오1",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "lifeart&designproject1",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "디자인아트스튜디오2(캡스톤디자인)",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "텍스타일리빙디자인스튜디오2(캡스톤디자인)",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "Living Art Branding2",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "직물조형캡스톤디자인2",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "퍼니처리빙디자인스튜디오2",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "lifeart&designproject2",
+        "department": "생활예술전공",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      }
+    ]
+  },
+  {
+    "major": "음악학",
+    "curriculums": [
+      {
+        "name": "취업과창업(문화예술)",
+        "department": "문화예술대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "전공실기1",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "이태리어딕션1",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "관악ㆍ현악합주1",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "재즈화성실습",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "실내악실기1",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "오케스트라및합창1",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "반주법1",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "연주1",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "음악사1",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "시창청음1",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "음악이론1",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공실기2",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "이태리어딕션2",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "오케스트라및합창2",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "연주2",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "관악ㆍ현악합주2",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "실내악실기2",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "미디",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "반주법2",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "시창청음2",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "음악이론2",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "음악사2",
+        "department": "음악학부",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "문화예술교육개론",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "대위법1",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공실기3",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "피아노연주법1",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "관현악법1",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "건반화성1",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "오케스트라및합창3",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "관악ㆍ현악합주3",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "연주3",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "피아노앙상블1",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "ICT음악플러스",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "실내악실기3",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "음악분석1",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "스튜디오테크닉",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "독일어딕션1",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "한국가곡연구",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "형식과분석1",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "음악분야에서의인공지능",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "대위법2",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공실기4",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "뮤지컬작곡법",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "오케스트라및합창4",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "연주4",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "피아노연주법2",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "건반화성2",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "형식과분석2",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "독일어딕션2",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "마스터코랄1",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "피아노앙상블2",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "관현악법2",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "음악분석2",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "관악ㆍ현악합주4",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "실내악실기4",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "음악교육론",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "공연제작의기술관리",
+        "department": "음악학부",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공실기5",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "1학점"
+      },
+      {
+        "name": "프랑스어딕션1",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "1학점"
+      },
+      {
+        "name": "음악마케팅과관객창출",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "마스터코랄2(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "오케스트라및합창5(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "연주5",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "1학점"
+      },
+      {
+        "name": "음악사3",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "관악ㆍ현악합주5",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "성악문헌1",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "극음악제작(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "피아노문헌1",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "20세기음악의이해",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "피아노교수법1",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "실내악연주기획1(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "오케스트라레파토리1",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "음악교수학습방법",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공실기6",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "1학점"
+      },
+      {
+        "name": "성악앙상블",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "관악ㆍ현악합주6",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "피아노교수법2",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "프랑스어딕션2",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "성악문헌2",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "현대음악분석",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "공연기획(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "관현악편곡법",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "음악사4",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "연주6",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "1학점"
+      },
+      {
+        "name": "실내악연주기획2(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "오케스트라및합창6(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "피아노문헌2",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "음악교육프로그램개발",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "예술인을위한알렉산더테크닉",
+        "department": "음악학부",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "전공실기7",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "1학점"
+      },
+      {
+        "name": "오페라클래스1(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "관악ㆍ현악합주7",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "영어딕션1",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "1학점"
+      },
+      {
+        "name": "오케스트라및합창7(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "실용음악프로젝트(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "피아노문헌3",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "지휘법",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "문화예술교육현장의이해와실습",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "전공실기8",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "1학점"
+      },
+      {
+        "name": "오케스트라및합창8(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "피아노문헌4",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "관악ㆍ현악합주8",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "음악치료",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "영어딕션2",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "영상음악작곡법",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "2학점"
+      },
+      {
+        "name": "오페라클래스2(캡스톤디자인)",
+        "department": "음악학부",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "부전공 : 비올라의 이해와 실습1",
+        "department": "음악학부",
+        "year": "전체",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "커뮤니티 음악의 이해와 실제",
+        "department": "음악학부",
+        "year": "전체",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "부전공 : 비올라의 이해와 실습2",
+        "department": "음악학부",
+        "year": "전체",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "1학점"
+      },
+      {
+        "name": "커뮤니티 음악의 이해와 실제",
+        "department": "음악학부",
+        "year": "전체",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      }
+    ]
   }
 ]
