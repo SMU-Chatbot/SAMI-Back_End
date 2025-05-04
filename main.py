@@ -43,7 +43,7 @@ introduction_collection = chroma_client.get_or_create_collection(name="introduct
 school_collection = chroma_client.get_or_create_collection(name="school_knowledge")
 
 def process_scholarship_data():
-    with open("scholarship.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/scholarship.json", "r", encoding="utf-8") as file:
         scholarship_data = json.load(file)
 
     documents = []
@@ -53,7 +53,7 @@ def process_scholarship_data():
     return documents
 
 def process_graduation_data():
-    with open("graduation.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/graduation.json", "r", encoding="utf-8") as file:
         graduation_data = json.load(file)
 
     documents = []
@@ -63,7 +63,7 @@ def process_graduation_data():
     return documents
 
 def process_service_data():
-    with open("service.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/service.json", "r", encoding="utf-8") as file:
         service_data = json.load(file)
 
     documents = []
@@ -89,12 +89,22 @@ def process_service_data():
             text += f" / {item['print_method']}"
         if item.get("refund"):
             text += f" / {item['refund']}"
+        if item.get("ratio_A"):
+            text += f" / {item['ratio_A']}"
+        if item.get("ratio_B"):
+            text += f" / {item['ratio_B']}"
+        if item.get("confirm"):
+            text += f" / {item['confirm']}"
+        if item.get("criteria"):
+            text += f" / {item['criteria']}"
+        if item.get("complain"):
+            text += f" / {item['complain']}"
 
         documents.append(text)
     return documents
 
 def process_introduction_data():
-    with open("introduction.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/introduction.json", "r", encoding="utf-8") as file:
         introduction_data = json.load(file)
 
     documents = []
@@ -104,7 +114,7 @@ def process_introduction_data():
     return documents
 
 def process_school_data():
-    with open("school.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/school.json", "r", encoding="utf-8") as file:
         school_data = json.load(file)
 
     documents = []
@@ -114,7 +124,7 @@ def process_school_data():
     return documents
 
 def process_haksa_data():
-    with open("Haksa.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/Haksa.json", "r", encoding="utf-8") as file:
         haksa_data = json.load(file)
 
     documents = []
@@ -126,7 +136,7 @@ def process_haksa_data():
     return documents
 
 def process_major_data():
-    with open("majors.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/majors.json", "r", encoding="utf-8") as file:
         major_data = json.load(file)
 
     documents = []
@@ -151,7 +161,7 @@ def process_major_data():
     return documents
 
 def process_student_data():
-    with open("student.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/student.json", "r", encoding="utf-8") as file:
         student_data = json.load(file)
 
     documents = []
@@ -238,7 +248,7 @@ def process_student_data():
 
 
 def process_facility_data():
-    with open("facility.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/facility.json", "r", encoding="utf-8") as file:
         facility_data = json.load(file)
 
     documents = []
@@ -300,7 +310,7 @@ def process_facility_data():
             documents.append(text)
     return documents
 def process_double_major_data():
-    with open("double_major.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/double_major.json", "r", encoding="utf-8") as file:
         double_major_data = json.load(file)
 
     documents = []
@@ -319,7 +329,7 @@ def process_double_major_data():
     return documents
 
 def process_ePortfolio_data():
-    with open("smcareer_seoul_25.json", "r", encoding="utf-8") as file:
+    with open("Training_Data/smcareer_seoul_25.json", "r", encoding="utf-8") as file:
         ePortfolio_data = json.load(file)
 
     documents = []
