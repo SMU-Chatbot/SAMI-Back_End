@@ -1,0 +1,102 @@
+[
+  {
+    "title" : "병무",
+    "phoneNumber": "02-2287-5117, 02-2287-7128",
+    "category" : "예비군 훈련, 민방위 훈련",
+    "page": "https://www.smu.ac.kr/kor/life/army.do"
+
+  },
+  {
+    "title": "예비군",
+    "phoneNumber": "02-2287-5117, 02-2287-7128",
+    "method" : "통합정보시스템에 입력된 학적변동자 일람표에 근거하여 예비군대대에서 전입 및 전출 처리 후 개별 문자 및 이메일 통보(학생이 직접 신청할 필요 없음)",
+    "Training_Center" : "교현과학화예비군훈련장(경기 양주시 북한산로 799)",
+    "transportation": "통합수송버스 이용 학교에서 출발 이동, 개별 대중교통 또는 자가 이용 이동 가능\n* 대중교통 이용시 학교에서 45분 정도 소요",
+    "time" : "09:00 ~ 18:00 ※ 훈련시간은 탄력적으로 변경될 수 있음을 참고해주시길 바랍니다.",
+    "delay" : "예비군홈페이지에서 구비서류 첨부하여 연기 신청\n예비군대대 방문하여 연기원서 작성 및 구비서류 제출",
+    "page": "https://www.smu.ac.kr/kor/life/army_reseve.do"
+  },
+  {
+    "title": "학생예비군",
+    "phoneNumber": "02-2287-5117, 02-2287-7128",
+    "method" : "통합정보시스템에 입력된 학적변동자 일람표에 근거하여 예비군대대에서 전입 및 전출 처리 후 개별 문자 및 이메일 통보(학생이 직접 신청할 필요 없음)",
+    "Training_Center" : "교현과학화예비군훈련장(경기 양주시 북한산로 799)",
+    "transportation": "통합수송버스 이용 학교에서 출발 이동, 개별 대중교통 또는 자가 이용 이동 가능\n* 대중교통 이용시 학교에서 45분 정도 소요",
+    "time" : "09:00 ~ 18:00 ※ 훈련시간은 탄력적으로 변경될 수 있음을 참고해주시길 바랍니다.",
+    "delay" : "예비군홈페이지에서 구비서류 첨부하여 연기 신청\n예비군대대 방문하여 연기원서 작성 및 구비서류 제출",
+    "page": "https://www.smu.ac.kr/kor/life/army_reseve.do"
+  },
+  {
+    "title": "민방위",
+    "phoneNumber": "02-2287-5117, 02-2287-7128",
+    "method" : "교직원 예비군\n통합정보시스템에 입력된 기간내 입사퇴직자 조회 시스템에 근거하여 예비군대대에서 전입 및 전출 처리 후 개별 문자 및 이메일 통보",
+    "Training_Center" : "1~2년차 : 종로구 민방위교육장(서울 종로구 창덕궁길 19)\n3년차 이상 : 개인 인터넷 구비 장소",
+    "time" : "1~2년차 : 4시간 소집교육(14:00~18:00)\n3년차 이상 : 인터넷 원격교육 수강",
+    "page": "https://www.smu.ac.kr/kor/life/army_civil.do"
+  },
+  {
+    "title" : "클라우드메일",
+    "phoneNumber" : "02-2287-5235",
+    "description" : "Google G-suite 기반의 G-mail,  MS Office365 기반의 Outlook 등 운영서버가 교내에 존재하지 않고, 계정연동을 통해서 서비스를 이용할 수 있는 클라우드 기반의 메일을 의미합니다.",
+    "method" : "교직원의 경우 Offilce365는 '사번@sangmyung.kr' 형태로 자동으로 계정이 생성되며 G-suite의 경우 신규임용 후 id를 신청해서 'id@smu.ac.kr' 형태로 계정이 생성되어 사용합니다.\n학생의 경우는 교내 학번이 확정되면 '학번@sangmyung.kr' 형태로 자동으로 계정이 생성되며 Office365로 사용합니다.",
+    "page" : "https://www.smu.ac.kr/cloudmail/index.do"
+  },
+
+  {
+    "title" : "버스",
+    "page" : "https://www.smu.ac.kr/kor/life/ShuttleBus.do"
+  },
+  {
+    "title" : "셔틀버스",
+    "page" : "https://www.smu.ac.kr/kor/life/ShuttleBus.do"
+  },
+  {
+    "title" : "통학버스",
+    "page" : "https://www.smu.ac.kr/kor/life/ShuttleBus.do"
+  },
+  {
+    "title" : "교통",
+    "page" : "https://www.smu.ac.kr/kor/life/ShuttleBus.do"
+  },
+  {
+    "title" : "학생증",
+    "phoneNumber" : "02-2287-5015, 02-2287-6454",
+    "time" : "상시 발급",
+    "method" : "KB스타뱅킹 App 접속 후 발급신청",
+    "page" : "https://www.smu.ac.kr/kor/life/studentIdCard.do"
+  },
+  {
+    "title" : "자주하는 질문",
+    "page" : "https://www.smu.ac.kr/kor/life/faq.do"
+  },
+  {
+    "title" : "FAQ",
+    "page" : "https://www.smu.ac.kr/kor/life/faq.do"
+  },
+  {
+    "title" : "Q&A",
+    "page" : "https://www.smu.ac.kr/kor/life/faq.do"
+  },
+  {
+    "title" : "샘물",
+    "page" : "https://smsso.smu.ac.kr"
+  },
+  {
+    "title" : "등록금",
+    "phoneNumber" : " 02-2287-5021, 02-2287-5019",
+    "print_method" : "샘물포털시스템 로그인 후 등록정보의 등록조회(고지서출력)",
+    "method" : "창구납부(0원 납부 가능): 등록금고지서를 지참하고 국민은행 창구에 방문하여 납부\n무통장입금: 등록금고지서에 개인별 부여된 국민은행 가상계좌로 이체\n국민은행 인터넷뱅킹(0원 납부 가능): 국민은행 인터넷 뱅킹 → 개인 → 공과금 → 대학 등록금 → 등록금 납부 → 학교캠퍼스 선택 → 학번 및 가상계좌조회 → 등록금 납부",
+    "refund" : "등록금의 반환은 대학등록금에관한규칙 제6조에 따라 반환합니다.",
+    "time" : "1학기 : 2월중 부터\n2학기 : 8월중 부터\n세부일정은 매학기 홈페이지 공지사항을 확인하시기 바랍니다.",
+    "page" : "https://www.smu.ac.kr/kor/life/enrollment.do"
+  },
+  {
+    "title" : "성적",
+    "ratio_A" : "A+~A: 45% 이내(단, A+~B등급을 80% 이하 부여하도록 권고, 1/4 미출석 시 자동 성적 F 처리)",
+    "ratio_B" : "B+~F: 자율적용(단, A+~B등급을 80% 이하 부여하도록 권고, 1/4 미출석 시 자동 성적 F 처리)",
+    "confirm" : "강의평가 및 교육만족도 설문완료 후 열람가능\n성적확인 및 성적 이의 신청 기간 내 본교 학사정보시스템 \"금학기성적조회\"메뉴에서 확인",
+    "complain": "해당학기 소정의 성적 이의신청기간 내에 해당 교ㆍ강사에게 샘물통합정보시스템을 이용하여 직접 신청\n성적확정일 이후 성적정정은 불가",
+    "criteria" : "전 교과목 상대평가 실시 (재수강자는 상대평가 예외 적용)",
+    "page" : "https://www.smu.ac.kr/kor/life/evaluation.do"
+  }
+]
