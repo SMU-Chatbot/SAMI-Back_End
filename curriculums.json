@@ -8272,6 +8272,346 @@
     ]
   },
   {
+    "major": "글로벌경영학",
+    "curriculums": [
+      {
+        "name": "신흥시장문화비교론",
+        "department": "경영경제대학",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "국제무역의역사적이해",
+        "department": "경영경제대학",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전공체험(글로벌경영학과)",
+        "department": "경영경제대학",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "2학점"
+      },
+      {
+        "name": "국제통상과기업경영",
+        "department": "경영경제대학",
+        "year": "1",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "비즈니스회계기초",
+        "department": "경영경제대학",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "ESG와지속가능경영",
+        "department": "경영경제대학",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "신흥시장론",
+        "department": "경영경제대학",
+        "year": "1",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "무역실무",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "비즈니스영어",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "글로벌마케팅원론",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "글로벌비즈니스커뮤니케이션",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "4차산업혁명과벤처경영론",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "기업재무이론과실제",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "비즈니스회계실무",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "비즈니스혁신생태계의미래",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "ICT융합과소비자행동론",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "혁신경영과글로벌기업가정신",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "FTA와융합적통상전략",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "e비즈니스",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "데이터기반글로벌금융투자",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "조직이론_이론과실제",
+        "department": "경영경제대학",
+        "year": "2",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "국제마케팅",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "글로벌서비스경영론",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "국제무역론",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "전략경영론(캡스톤디자인)",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "글로벌물류",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "글로벌비즈니스실습",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "국제금융론",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "국제경영학(캡스톤디자인)",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "ICT와국제무역실습",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "국제재무관리",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "국제마케팅커뮤니케이션론",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "글로벌경영사례연구",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "데이터기반글로벌시장조사론(캡스톤디자인)",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "인공지능과글로벌비즈니스애널리틱스",
+        "department": "경영경제대학",
+        "year": "3",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "글로벌유통관리",
+        "department": "경영경제대학",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "디지털마케팅론",
+        "department": "경영경제대학",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "다국적기업경영론",
+        "department": "경영경제대학",
+        "year": "4",
+        "semester": "1학기",
+        "completion": "1전심",
+        "credit": "3학점"
+      },
+      {
+        "name": "글로벌브랜드경영",
+        "department": "경영경제대학",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "융복합기반K-business(캡스톤디자인)",
+        "department": "경영경제대학",
+        "year": "4",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "3학점"
+      },
+      {
+        "name": "현장학습학기제(글로벌경영)",
+        "department": "경영경제대학",
+        "year": "9",
+        "semester": "1학기",
+        "completion": "1전선",
+        "credit": "15학점"
+      },{
+        "name": "현장학습학기제(글로벌경영)",
+        "department": "경영경제대학",
+        "year": "9",
+        "semester": "2학기",
+        "completion": "1전선",
+        "credit": "15학점"
+      }
+    ]
+  },
+  {
     "major": "경제금융학",
     "curriculums": [
       {
