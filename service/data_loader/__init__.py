@@ -1,0 +1,1 @@
+from service.data_loader import chroma_loader
