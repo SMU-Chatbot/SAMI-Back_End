@@ -1,0 +1,878 @@
+[
+  {
+    "location": "캡퍼스맵",
+    "page": "https://www.smu.ac.kr/kor/intro/map_all.do",
+    "facility": [
+      {
+        "title": "(L)학술정보관",
+        "fax": "02-2287-0037",
+        "phoneNumber": "02-2287-5193, 02-2287-5194, 02-2287-5195, 02-2287-5197",
+        "Library time": "학기 중 09:00 ~ 21:00, 방학 기간 09:00 ~ 17:30, ※ 운영시간은 탄력적으로 변경될 수 있음을 참고해주시길 바랍니다.",
+        "reference room": "참고정간실 09:00 ~ 17:30  ※ 운영시간은 탄력적으로 변경될 수 있음을 참고해주시길 바랍니다.",
+        "study room 1 time": "학기 중 06:00 ~ 23:00, 방학 기간 휴실, 시험 기간(시험시작 14일 전부터 시험 종료일까지): 24시 운영",
+        "study room 2 time": "학기 중 06:00 ~ 23:00, 방학 기간 06:00 ~ 23:00, 시험 기간(시험시작 14일 전부터 시험 종료일까지): 24시 운영",
+        "reading Lounge": "학기 중 06:00 ~ 24:00, 방학 기간 06:00 ~ 24:00, 시험 기간(시험시작 14일 전부터 시험 종료일까지): 24시 운영",
+        "Floor B1" : "보존서고",
+        "Floor 1" : "리딩라운지 / 라운지데스크 / 귀중본서고",
+        "Floor 2" : "디지털정보실 / 정보교육실 / 소회의실 / 학술정보지원팀 / 학술정보관장실",
+        "Floor 3" : "제1자료실 / 그룹스터디룸 I",
+        "Floor 4" : "참고정간실 / 일반열람실 I ~ II",
+        "Floor 5" : "제2자료실 / 그룹스터디룸 II ~ IX",
+        "Library Loan" : "-재학생: 7책 7일(대출 연장 가능)\n-수료생: 7책 7일(대출 연장 가능)\n-휴학생: 5책 14일(대출 연장 불가)\n-졸업생: 2책 14일(대출 연장 불가)",
+        "study room reservation user" : "-재학생: 학기, 시험기간, 방학기간 이용 가능\n-휴학생, 졸업생, 수료생: 학기, 방학기간 이용 가능, 시험기간 이용불가\n 시험 기간(시험시작 14일 전부터 시험 종료일까지)",
+        "study room reservation guide" : "재학생 : 상명대학교 학술정보관 어플리케이션 이용 또는 학생증(모바일학생증)으로 열람실 앞에 설치된 자리배정시스템에서 신청 후 사용\n휴학생 : 학생증(모바일학생증)으로 열람실 앞에 설치된 자리배정시스템에서 신청 후, 사용\n졸업(수료)생, 기타 학술정보관장이 인정한자(지역주민 등) : 특별열람증으로 열람실 앞에 설치된 자리배정시스템에서 신청 후, 사용",
+        "study room reservation time" : "최초 : 3시간\n연장 : 3시간\n연장횟수 : 1일 2회\n사용 만료 1시간 전부터 모바일 앱 또는 자리배정시스템에서 연장 후 사용",
+        "study room reservation Kiosk" : "학술정보관 1층 로비 / 일반열람실Ⅱ 앞(학술정보관 4층)",
+        "Seminar Room reservation 1" :"https://grad.smu.ac.kr/grad/convenience/room-reservation.do",
+        "Seminar Room reservation 2" : "상명대학교 학술정보관 어플리케이션 이용",
+        "page": "https://lib.smu.ac.kr/"
+      },
+      {
+        "title": "도서관",
+        "fax": "02-2287-0037",
+        "phoneNumber": "02-2287-5193, 02-2287-5194, 02-2287-5195, 02-2287-5197",
+        "Library time": "학기 중 09:00 ~ 21:00, 방학 기간 09:00 ~ 17:30, ※ 운영시간은 탄력적으로 변경될 수 있음을 참고해주시길 바랍니다.",
+        "reference room": "참고정간실 09:00 ~ 17:30  ※ 운영시간은 탄력적으로 변경될 수 있음을 참고해주시길 바랍니다.",
+        "study room 1 time": "학기 중 06:00 ~ 23:00, 방학 기간 휴실, 시험 기간(시험시작 14일 전부터 시험 종료일까지): 24시 운영",
+        "study room 2 time": "학기 중 06:00 ~ 23:00, 방학 기간 06:00 ~ 23:00, 시험 기간(시험시작 14일 전부터 시험 종료일까지): 24시 운영",
+        "reading Lounge": "학기 중 06:00 ~ 24:00, 방학 기간 06:00 ~ 24:00, 시험 기간(시험시작 14일 전부터 시험 종료일까지): 24시 운영",
+        "Floor B1" : "보존서고",
+        "Floor 1" : "리딩라운지 / 라운지데스크 / 귀중본서고",
+        "Floor 2" : "디지털정보실 / 정보교육실 / 소회의실 / 학술정보지원팀 / 학술정보관장실",
+        "Floor 3" : "제1자료실 / 그룹스터디룸 I",
+        "Floor 4" : "참고정간실 / 일반열람실 I ~ II",
+        "Floor 5" : "제2자료실 / 그룹스터디룸 II ~ IX",
+        "Library Loan" : "-재학생: 7책 7일(대출 연장 가능)\n-수료생: 7책 7일(대출 연장 가능)\n-휴학생: 5책 14일(대출 연장 불가)\n-졸업생: 2책 14일(대출 연장 불가)",
+        "study room reservation user" : "-재학생: 학기, 시험기간, 방학기간 이용 가능\n-휴학생, 졸업생, 수료생: 학기, 방학기간 이용 가능, 시험기간 이용불가\n 시험 기간(시험시작 14일 전부터 시험 종료일까지)",
+        "study room reservation guide" : "재학생 : 상명대학교 학술정보관 어플리케이션 이용 또는 학생증(모바일학생증)으로 열람실 앞에 설치된 자리배정시스템에서 신청 후 사용\n휴학생 : 학생증(모바일학생증)으로 열람실 앞에 설치된 자리배정시스템에서 신청 후, 사용\n졸업(수료)생, 기타 학술정보관장이 인정한자(지역주민 등) : 특별열람증으로 열람실 앞에 설치된 자리배정시스템에서 신청 후, 사용",
+        "study room reservation time" : "최초 : 3시간\n연장 : 3시간\n연장횟수 : 1일 2회\n사용 만료 1시간 전부터 모바일 앱 또는 자리배정시스템에서 연장 후 사용",
+        "study room reservation Kiosk" : "학술정보관 1층 로비 / 일반열람실Ⅱ 앞(학술정보관 4층)",
+        "Seminar Room reservation 1" :"https://grad.smu.ac.kr/grad/convenience/room-reservation.do",
+        "Seminar Room reservation 2" : "상명대학교 학술정보관 어플리케이션 이용",
+        "page": "https://lib.smu.ac.kr/"
+      },
+      {
+        "title": "식당",
+        "time" : "중식 : 11:00 ~ 13:30",
+        "open" : "중식 11:00",
+        "close" : "중식 13:30",
+        "menu" : "https://www.smu.ac.kr/kor/life/restaurantView.do",
+        "location" : "미래백년관 5층"
+      },
+      {
+        "title": "학식",
+        "time" : "중식 : 11:00 ~ 13:30",
+        "open" : "중식 11:00",
+        "close" : "중식 13:30",
+        "menu" : "https://www.smu.ac.kr/kor/life/restaurantView.do",
+        "location" : "미래백년관 5층"
+      },
+      {
+        "title": "(G)공학관"
+      },
+      {
+        "title": "(O)제1교수회관"
+      },
+      {
+        "title": "(I)제2교수회관"
+      },
+      {
+        "title": "(S)중앙교수회관"
+      },
+      {
+        "title": "(M)월해관"
+      },
+      {
+        "title": "(M)종합관"
+      },
+      {
+        "title": "(N)자하관(인문사회과학대학관)",
+        "major": "인문사회과학 소속"
+      },
+      {
+        "title": "상명아트센터",
+        "phoneNumber": "02-2287-7186, 02-2287-7187",
+        "fax" : "02-2287-0089",
+        "parking" : "이용 고객은 무료, 상명아트센터 B3, B4 지하 주차장, 미래백년관 주차장",
+        "email": "artcenter@smu.ac.kr",
+        "page": "https://smarts.smu.ac.kr/smarts/index.do"
+      },
+      {
+        "title": "예술디자인센터",
+        "phoneNumber": "02-2075-2173",
+        "email": "artcenter@smu.ac.kr",
+        "page": "https://smarts.smu.ac.kr/smarts/index.do"
+      },
+      {
+        "title": "상명아트홀",
+        "phoneNumber": "02-2075-2173",
+        "email": "artcenter@smu.ac.kr",
+        "page": "https://smarts.smu.ac.kr/smarts/index.do"
+      },
+      {
+        "title": "상명아트갤러리",
+        "phoneNumber": "02-2075-2173",
+        "email": "artcenter@smu.ac.kr",
+        "page": "https://smarts.smu.ac.kr/smarts/index.do"
+      },
+      {
+        "title": "(T)경영경제대학관"
+      },
+      {
+        "title": "(T)밀레니엄관"
+      },
+      {
+        "title": "문화예술관"
+      },
+      {
+        "title": "기숙사",
+        "phoneNumber": "02-781-7901, 02-781-7902",
+        "time" : "AM 05:00 ~ AM 01:00",
+        "open" : "AM 05:00",
+        "close" : "AM 01:00",
+        "study room time" : "AM 05:00 ~ PM 23:50 단, 시험기간 (시험 기간 시작 1일전  ~ 시험기간 종료 전일 )  24간 개방",
+        "fax" : "02-781-7909",
+        "page": "https://www.smu.ac.kr/dormi/index.do"
+      },
+      {
+        "title": "학생생활관",
+        "phoneNumber": "02-781-7901, 02-781-7902",
+        "time" : "AM 05:00 ~ AM 01:00",
+        "open" : "AM 05:00",
+        "close" : "AM 01:00",
+        "study room time" : "AM 05:00 ~ PM 23:50 단, 시험기간 (시험 기간 시작 1일전  ~ 시험기간 종료 전일 )  24간 개방",
+        "fax" : "02-781-7909",
+        "page": "https://www.smu.ac.kr/dormi/index.do"
+      },
+      {
+        "title": "스뮤하우스",
+        "phoneNumber": "02-781-7901, 02-781-7902",
+        "time" : "AM 05:00 ~ AM 01:00",
+        "open" : "AM 05:00",
+        "close" : "AM 01:00",
+        "study room time" : "AM 05:00 ~ PM 23:50 단, 시험기간 (시험 기간 시작 1일전  ~ 시험기간 종료 전일 )  24간 개방",
+        "fax" : "02-781-7909",
+        "page": "https://www.smu.ac.kr/dormi/index.do"
+      },
+      {
+        "title": "빌라하우스",
+        "phoneNumber": "02-396-0852",
+        "fax" : "02-781-7909",
+        "page": "https://www.smu.ac.kr/dormi/index.do"
+      },
+      {
+        "title": "상명행복생활관",
+        "phoneNumber": "02-3217-9273, 02-3217-9272",
+        "time" : "AM 05:00 ~ AM 01:00",
+        "open" : "AM 05:00",
+        "close" : "AM 01:00",
+        "study room time" : "AM 05:00 ~ PM 23:50 단, 시험기간 (시험 기간 시작 1일전  ~ 시험기간 종료 전일 )  24간 개방",
+        "fax" : "02-3217-9274",
+        "page": "https://www.smu.ac.kr/dormi/index.do"
+      },
+      {
+        "title": "평창동캠퍼스",
+        "phoneNumber": "02-781-7920",
+        "fax" : "02-781-7929",
+        "email" : "didakf@smu.ac.kr",
+        "time" : "평일 10:00 ~ 17:00 (※방학기간 10시-15시, 공휴일 휴관)",
+        "open" : "AM 10:00",
+        "close" : "AM 17:00",
+        "page": "https://museum.smu.ac.kr/museum/index.do"
+      },
+      {
+        "title": "(R)미래백년관"
+      },
+      {
+        "title": "(R)미백관"
+      },
+      {
+        "title": "(A)사범대학관"
+      },
+      {
+        "title": "(B)미술관"
+      },
+      {
+        "title": "(C)가정관"
+      },
+      {
+        "title": "(D)생활예술관"
+      },
+      {
+        "title": "(E)학군단",
+        "phoneNumber": "02-2287-7160",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "fax" : "02-2287-0053",
+        "email" : "rotc202@smu.ac.kr",
+        "page": "https://www.smu.ac.kr/202/index.do"
+      },
+      {
+        "title": "(E)학생군사교육단",
+        "phoneNumber": "02-2287-7160",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "fax" : "02-2287-0053",
+        "email" : "rotc202@smu.ac.kr",
+        "page": "https://www.smu.ac.kr/202/index.do"
+      },
+      {
+        "title": "(E)ROTC",
+        "phoneNumber": "02-2287-7160",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "fax" : "02-2287-0053",
+        "email" : "rotc202@smu.ac.kr",
+        "page": "https://www.smu.ac.kr/202/index.do"
+      },
+      {
+        "title": "(F)체육관"
+      },
+      {
+        "title": "(F)스포츠센터"
+      },
+      {
+        "title": "(H)학생회관"
+      },
+      {
+        "title": "(J)대학본부"
+      },
+      {
+        "title": "박물관",
+        "phoneNumber": "02-781-7920",
+        "fax" : "02-781-7929",
+        "email" : "didakf@smu.ac.kr",
+        "time" : "평일 10:00 ~ 17:00 (※방학기간 10시-15시, 공휴일 휴관)",
+        "page": "https://museum.smu.ac.kr/museum/index.do"
+      },
+      {
+        "title": "기획전시실",
+        "phoneNumber": "02-781-7920",
+        "fax" : "02-781-7929",
+        "email" : "didakf@smu.ac.kr",
+        "time" : "화-금요일 10:00 ~ 12:00, 13:00 ~ 17:00 (※방학기간 10시-12시, 13시-15시)",
+        "page": "https://museum.smu.ac.kr/museum/index.do"
+      },
+      {
+        "title": "미래백년관 기획전시실",
+        "phoneNumber": "02-781-7920",
+        "fax" : "02-781-7929",
+        "email" : "didakf@smu.ac.kr",
+        "time" : "화-금요일 10:00 ~ 12:00, 13:00 ~ 17:00 (※방학기간 10시-12시, 13시-15시)",
+        "page": "https://museum.smu.ac.kr/museum/index.do"
+      },
+      {
+        "title": "총장실"
+      },
+      {
+        "title": "편의점",
+        "location": "사범대학관: GS25 상명대사범관점, 학술정보관 앞: GS25 상명대점, 상명대학교 사범대학 부속초등학교 앞:CU 상명대점 등"
+      },
+      {
+        "title": "기획예산팀",
+        "fax" : "02-2287-0015",
+        "phoneNumber": "02-2287-5028",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J315-2"
+      },
+      {
+        "title": "전략평가팀",
+        "fax" : "02-2287-0015",
+        "phoneNumber": "02-2287-5428",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J315-1"
+      },
+      {
+        "title": "구두수선소"
+
+      },
+      {
+        "title": "학사운영팀",
+        "fax" : "02-2287-0021",
+        "phoneNumber": "02-2287-5012, 02-2287-5472",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J217"
+      },
+      {
+        "title": "커뮤니케이션팀",
+        "fax" : "02-2287-0017",
+        "phoneNumber": "02-2287-5196",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J114",
+        "page": "https://oia.smu.ac.kr"
+      },
+      {
+        "title": "국제학생지원팀",
+        "fax" : "02-2287-0017",
+        "phoneNumber": "02-2287-5469",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J114",
+        "page": "https://oia.smu.ac.kr"
+      },
+      {
+        "title": "외국인유학생상담센터",
+        "fax" : "02-2287-0132",
+        "phoneNumber": "02-2287-5107",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J114",
+        "page": "https://oia.smu.ac.kr"
+      },
+      {
+        "title": "대외협력",
+        "fax" : "02-2287-0017",
+        "phoneNumber": "02-2287-5196",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J114",
+        "page": "https://oia.smu.ac.kr"
+      },
+      {
+        "title": "홍보팀",
+        "fax" : "02-2287-0017",
+        "phoneNumber": "02-2287-5196",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J114",
+        "page": "https://oia.smu.ac.kr"
+      },
+
+      {
+        "title": "블루포트",
+        "location": "미래백년관 B1층",
+        "time" : "평일 08:00 ~ 19:00, 토요일 09:00 ~ 16:00",
+        "open" : "평일 08:00, 토요일 09:00",
+        "close" : "평일 19:00, 토요일 16:00"
+      },
+      {
+        "title": "기념품점",
+        "phoneNumber" : "02-2287-5250",
+        "location": "학생회관 1층",
+        "time" : "평일 10:00 ~ 12:00, 13:00 ~ 17:00"
+      },
+      {
+        "title": "기념품샵",
+        "phoneNumber" : "02-2287-5250",
+        "location": "학생회관 1층",
+        "time" : "평일 10:00 ~ 12:00, 13:00 ~ 17:00"
+      },
+      {
+        "title": "동아리방",
+        "location" : "문화예술관, 학생회관"
+      },
+
+      {
+        "title": "입학",
+        "location": "(G)제1공학관-GB001",
+        "phoneNumber": "02-2287-5010",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "fax" : "02-2287-0030",
+        "page": "https://admission.smu.ac.kr/_seoul/main.html"
+      },
+      {
+        "title": "입학처",
+        "location": "(G)제1공학관-GB001",
+        "phoneNumber": "02-2287-5010",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "fax" : "02-2287-0030",
+        "page": "https://admission.smu.ac.kr/_seoul/main.html"
+      },
+
+      {
+        "title": "법무실",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30"
+      },
+
+      {
+        "title": "총무인사팀",
+        "fax" : "02-2287-0031",
+        "phoneNumber": "02-2287-5020",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J111"
+      },
+
+      {
+        "title": "재무회계팀",
+        "fax" : "02-2287-0033",
+        "phoneNumber": "02-2287-5019, 02-2287-5021",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J111"
+      },
+
+      {
+        "title": "보건건강관리센터",
+        "fax" : "02-2287-0102",
+        "phoneNumber": "02-2287-5200",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(H)학생회관-H314"
+      },
+
+      {
+        "title": "세미나실",
+        "location" : "미래백년관, 학술정보관, 밀레니엄관"
+      },
+
+
+      {
+        "title": "정보통신팀",
+        "fax" : "02-2287-0018, 02-2287-0019",
+        "phoneNumber": "02-2287-5235, 02-2287-5247",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(G)제1공학관-G101"
+      },
+
+      {
+        "title": "미래교육원",
+        "fax" : "02-2287-0042",
+        "phoneNumber": "02-2287-5160, 02-2287-5289",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(M)월해관 M112-2호",
+        "page": "https://lifelong.smu.ac.kr"
+      },
+      {
+        "title": "평생교육원",
+        "fax" : "02-2287-0042",
+        "phoneNumber": "02-2287-5160, 02-2287-5289",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(M)월해관 M112-2호",
+        "page": "https://lifelong.smu.ac.kr"
+      },
+
+
+      {
+        "title": "우편취급국",
+        "phoneNumber": "02-2287-5272",
+        "time" : "평일 9:00 ~ 12:00 / 13:00 ~ 18:00",
+        "location" : "(H)학생회관-H317"
+      },
+      {
+        "title": "교원인사팀",
+        "fax" : "02-2287-0022",
+        "phoneNumber": "02-2287-5381",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J)대학본관-J412"
+      },
+      {
+        "title": "증명서발급기",
+        "location" : "(H)학생회관 3층",
+        "fee" : "재적생 및 수료생 : 국문 500원, 영문 1,000원\n졸업생 및 제적생 : 국문 1,000원, 영문 1,000원\n기타 대행 수수료 있을 수 있음"
+      },
+      {
+        "title": "교직지원센터",
+        "fax" : "02-2287-0063",
+        "phoneNumber": "02-2287-5089",
+        "time" : "월~금 10:00 ~ 16:00",
+        "location" : "(A)사범대학관-A302",
+        "page": "https://edunet.smu.ac.kr"
+      },
+      {
+        "title": "학생복지팀",
+        "fax" : "02-2287-0027",
+        "phoneNumber": "02-2287-5015, 02-2287-5016",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(H)학생회관-H211"
+      },
+
+      {
+        "title": "장애학생지원센터",
+        "fax" : "02-2287-0027, 02-2287-0098",
+        "phoneNumber": "02-2287-5015, 02-2287-5016",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(H)학생회관-H211"
+      },
+      {
+        "title": "학생상담센터",
+        "fax" : "02-2287-0078",
+        "phoneNumber": "02-2287-5328, 02-2287-5329, 02-2287-5333",
+        "location" : "(H)학생회관-H213",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "page": "https://counseling.smu.ac.kr"
+      },
+
+      {
+        "title": "인권센터",
+        "fax" : "02-2287-0078",
+        "phoneNumber": "02-2287-5369, 02-2287-7027",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(H)학생회관-H312",
+        "email" : "600264@smu.ac.kr, kdh7027@smu.ac.kr",
+        "time" : "평일 09:00 ~ 17:30 단, 방학 중에는 단축근무시간까지 운영",
+        "page": "https://www.smu.ac.kr/hrc/index.do"
+      },
+
+      {
+        "title": "예비군대대",
+        "fax" : "02-2287-0029",
+        "phoneNumber": "02-2287-5117, 02-2287-7128",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(H)학생회관-H313",
+        "page": "https://www.smu.ac.kr/kor/life/army_reseve.do"
+      },
+
+      {
+        "title" : "현금인출기",
+        "location" : "미래백년관 B1층 & 4층, 월해관(종합관) 4층, 중앙교수회관 1층, 학생회관 1층"
+      },
+      {
+        "title": "취업지원팀",
+        "phoneNumber": "02-2287-5017",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(H)학생회관-H201",
+        "page": "https://www.smu.ac.kr/kor/life/job-career.do"
+      },
+      {
+        "title": "대학일자리플러스센터",
+        "phoneNumber": "02-2287-5017",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(H)학생회관-H201",
+        "page": "https://www.smu.ac.kr/kor/life/job-career.do"
+      },
+      {
+        "title": "진로지원팀",
+        "phoneNumber": "02-2287-5017",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(H)학생회관-H201",
+        "page": "https://www.smu.ac.kr/kor/life/job-career.do"
+      },
+      {
+        "title": "현장실습지원센터",
+        "phoneNumber": "02-2287-5017",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(H)학생회관-H201",
+        "page": "https://www.smu.ac.kr/kor/life/job-career.do"
+      },
+
+      {
+        "title": "캠퍼스타운사업단",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30"
+      },
+
+
+      {
+        "title": "교육방송국(서울)",
+        "phoneNumber": "02-2287-5204",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(H)학생회관-H321호",
+        "page": "https://www.smu.ac.kr/smbs/index.do"
+      },
+
+      {
+        "title": "산학협력지원팀",
+        "fax" : "02-2287-0026",
+        "phoneNumber": "02-2287-5207",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(R)미래백년관-R301",
+        "email" : "smuiacf@smu.ac.kr",
+        "page": "http://iacf.smu.ac.kr/"
+      },
+      {
+        "title": "산학연구관리팀",
+        "fax" : "02-2287-0026",
+        "phoneNumber": "02-2287-5207",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(R)미래백년관-R301",
+        "email" : "smuiacf@smu.ac.kr",
+        "page": "http://iacf.smu.ac.kr/"
+      },
+      {
+        "title": "중앙기기센터",
+        "fax" : "02-2287-0026",
+        "phoneNumber": "02-2287-5186, 02-2287-5207",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(R)미래백년관-R301",
+        "email" : "smuiacf@smu.ac.kr",
+        "page": "http://iacf.smu.ac.kr/"
+      },
+
+
+      {
+        "title": "창업지원센터",
+        "fax" : "02-2287-0117",
+        "phoneNumber": "02-2287-5457",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(R관)미래백년관-R213",
+        "page": "https://changup.smu.ac.kr"
+      },
+      {
+        "title": "창업지원팀",
+        "fax" : "02-2287-0117",
+        "phoneNumber": "02-2287-5457",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(R관)미래백년관-R213",
+        "page": "https://changup.smu.ac.kr"
+      },
+
+      {
+        "title": "계당교양교육원",
+        "fax" : "02-2287-0117",
+        "phoneNumber": "02-2287-5110, 02-2287-5379",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "상명대학교 대학본부 2층 J215, J216",
+        "page": "https://kcge.smu.ac.kr/smgs/index.do"
+      },
+      {
+        "title": "교양대학",
+        "fax" : "02-2287-0117",
+        "phoneNumber": "02-2287-5110, 02-2287-5379",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "상명대학교 대학본부 2층 J215, J216",
+        "page": "https://kcge.smu.ac.kr/smgs/index.do"
+      },
+      {
+        "title": "계당교양교육원교학팀",
+        "fax" : "02-2287-0117",
+        "phoneNumber": "02-2287-5110, 02-2287-5379",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "상명대학교 대학본부 2층 J215, J216",
+        "page": "https://kcge.smu.ac.kr/smgs/index.do"
+      },
+      {
+        "title": "기초교육센터",
+        "fax" : "02-2287-0117",
+        "phoneNumber": "02-2287-5110, 02-2287-5379",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "상명대학교 대학본부 2층 J215, J216",
+        "page": "https://kcge.smu.ac.kr/smgs/index.do"
+      },
+
+
+      {
+        "title": "대학원교학팀",
+        "fax" : "02-2287-0038",
+        "phoneNumber": "02-2287-5030",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J관)대학본관-J417",
+        "page": "https://grad.smu.ac.kr"
+      },
+      {
+        "title": "3D프린팅융합센터",
+        "phoneNumber": "02-2287-7608",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(M관)월해관(종합관)-M406"
+      },
+      {
+        "title": "학술정보지원팀",
+        "fax" : "02-2287-0034",
+        "phoneNumber": "02-2287-5193",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(L관)학술정보관-L201",
+        "page": "http://lib.smu.ac.kr"
+      },
+      {
+        "title": "교수학습개발센터",
+        "phoneNumber": "02-2287-5427",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(R관)미래백년관-R404",
+        "page": "https://ctl.smu.ac.kr/ctl/index.do"
+      },
+      {
+        "title": "교수학습혁신센터",
+        "phoneNumber": "02-2287-5427",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(R관)미래백년관-R404",
+        "page": "https://ctl.smu.ac.kr/ctl/index.do"
+      },
+      {
+        "title": "비교과통합지원센터",
+        "fax" : "02-2287-0025",
+        "phoneNumber": "02-2287-7182",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "email" : "202730@smu.ac.kr",
+        "location" : "(R관)미래백년관-R404",
+        "page": "https://www.smu.ac.kr/extracur/index.do"
+      },
+      {
+        "title": "대학교육혁신원",
+        "phoneNumber": "02-2287-5169",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(R관)미래백년관-R404",
+        "page": "https://inno.smu.ac.kr/inno/index.do"
+      },
+      {
+        "title": "ACE사업혁신추진팀",
+        "phoneNumber": "02-2287-5169",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(R관)미래백년관-R404",
+        "page": "https://inno.smu.ac.kr/inno/index.do"
+      },
+      {
+        "title": "교육미디어혁신센터",
+        "phoneNumber": "02-2287-5349, 02-2287-5331",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(R관)미래백년관-R105, 106",
+        "page": "https://media.smu.ac.kr/media/index.do"
+      },
+
+
+      {
+        "title": "공학교육혁신센터",
+        "phoneNumber": "02-2287-7129",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(G)관공학관-G314",
+        "page": "https://icee.smu.ac.kr/icee/index.do"
+      },
+      {
+        "title": "융합공과대학교학팀",
+        "phoneNumber": "02-2287-5038",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(G)관공학관-G101-2호",
+        "page": "https://seng.smu.ac.kr/"
+      },
+
+      {
+        "title": "성평등상담소",
+        "fax" : "02-2287-0078",
+        "phoneNumber": "02-2287-5369, 02-2287-7027",
+        "location" : "(H)학생회관-H312",
+        "email" : "600264@smu.ac.kr, kdh7027@smu.ac.kr",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30 단, 방학 중에는 단축근무시간까지 운영",
+        "page": "https://www.smu.ac.kr/hrc/index.do"
+      },
+
+
+      {
+        "title": "의사소통능력개발센터",
+        "fax" : "02-2287-0114",
+        "phoneNumber": "02-2287-5102",
+        "time" : "평일 09:00 ~ 12:00, 13:00 ~ 17:30",
+        "location" : "(J관)대학본관-J215, J216",
+        "email" : "sotongcenter@smu.ac.kr",
+        "page": "http://stcenter.smu.ac.kr"
+      },
+
+
+
+      {
+        "title": "한일문화연구소",
+        "phoneNumber": "02-2287-5185",
+        "location" : "(M관)월해관(종합관)-M318호",
+        "email" : "sotongcenter@smu.ac.kr",
+        "page": "https://www.smu.ac.kr/culture/index.do"
+      },
+      {
+        "title": "자유전공학부지원센터지원팀",
+        "phoneNumber": "02-2287-7172",
+        "location" : "(N관)자하관 N101호",
+        "time" : "평일 09:00~17:30 ※12:00~13:00 휴게시간",
+        "email" : "sycho@smu.ac.kr",
+        "page": "https://sls.smu.ac.kr/sls/index.do"
+      },
+      {
+        "title": "바이오헬스혁신융합대학",
+        "fax" : "02-2287-0023",
+        "phoneNumber": " 02-2287-6449",
+        "location" : "(S관)중앙교수회관 S112호",
+        "time" : "평일 09:00~17:30 ※12:00~13:00 휴게시간",
+        "email" : "jiiieun@smu.ac.kr",
+        "page": "https://biohealth.smu.ac.kr/biohealth/index.do"
+      },
+      {
+        "title": "국제언어문화교육원",
+        "fax" : "02-2287-0016",
+        "phoneNumber": "02-2287-5298",
+        "location" : "(T관)경영경제대학관(밀레니엄관) T404호",
+        "time" : "평일 09:00~17:30 ※12:00~13:00 휴게시간",
+        "email" : "universitysangmyung@gmail.com",
+        "page": "https://cklc.smu.ac.kr/international/index.do"
+      },
+      {
+        "title": "관리팀",
+        "fax" : "02-2287-0032",
+        "phoneNumber": "02-2287-5232, 02-2287-5233",
+        "location" : "(T관)경영경제대학관(밀레니엄관)-T105호",
+        "time" : "평일 09:00 ~ 17:30 (※12:00 ~ 13:00 휴게시간)",
+        "email" : "sw2525@smu.ac.kr"
+      },
+      {
+        "title": "교육혁신추진팀",
+        "phoneNumber": "02-2287-5169",
+        "location" : "(R관)미래백년관 R404호",
+        "time" : "평일 09:00 ~ 17:30 (※12:00 ~ 13:00 휴게시간)",
+        "email" : "sunhwa@smu.ac.kr",
+        "page": "https://eduinno.smu.ac.kr/eduinno/index.do"
+      },
+      {
+        "title": "대학혁신추진팀",
+        "phoneNumber": "02-2287-6464, 02-2287-7079",
+        "location" : "(R관)미래백년관 R401호",
+        "time" : "평일 09:00 ~ 17:30 (※12:00 ~ 13:00 휴게시간)",
+        "email" : "ezoowon@smu.ac.kr, smshin97@smu.ac.kr",
+        "page": "https://eduinno.smu.ac.kr/eduinno/index.do"
+      },
+      {
+        "title": "디앤에이 랩(DNA LAB.)",
+        "phoneNumber": "02-781-7654",
+        "location" : "(R관)미래백년관 R408호",
+        "time" : "평일 09:00 ~ 17:30 (※12:00 ~ 13:00 휴게시간)",
+        "email" : "yjyoon@smu.ac.kr",
+        "page": "https://dnalab.smu.ac.kr/dnalab/index.do"
+      }
+
+    ]
+  },
+  {
+    "location": "편의·복지시설",
+    "page": "https://www.smu.ac.kr/edu/student/facilities.do",
+    "facility": [
+      {
+        "title" : "운동장",
+        "location" : "(M)월해관"
+      },
+      {
+        "title" : "징검다리",
+        "location" : "(G)제1공학관 ~ (N)자하관 3층"
+      },
+      {
+        "title" : "에스컬레이터",
+        "location" : "입구는 밀레니엄관 입구에 위치, \n중간은 (L)학술정보관 4층, (T)경영경제대학관 3층로 연결\n(R)출구 근처에는 미래백년관, (M)월해관, (B)미술관, (C)가정관이 있습니다."
+      },
+      {
+        "title" : "학생휴게실",
+        "location" : "사범관 1층, 밀레니엄관 1층, 제1공학관 1층, 학생회관 1, 2층, 밀레니엄관 5층, 미래백년관 215호"
+      },
+      {
+        "title" : "우체국",
+        "location" : "사범관 B1층"
+      },
+      {
+        "title" : "카페",
+        "location" : "KB카페드림: 중앙교수회관 1층, 블루포트: 미래백년관 B1층"
+      },
+      {
+        "title" : "KB카페드림",
+        "time" : "학기 중: 월 ~ 목 08:00 ~ 18:00, 금 08:00 ~ 17:00\n방학 중: 평일 09:00 ~ 15:00",
+        "open" : "08:30",
+        "close" : "19:00",
+        "location" : "중앙교수회관 1층"
+      },
+      {
+        "title" : "카페드림",
+        "time" : "학기 중: 월 ~ 목 08:00 ~ 18:00, 금 08:00 ~ 17:00\n방학 중: 평일 09:00 ~ 15:00",
+        "open" : "08:30",
+        "close" : "19:00",
+        "location" : "중앙교수회관 1층"
+      },
+      {
+        "title" : "복사기",
+        "location" : "학술정보관 2층, 종합관 4층"
+      },
+      {
+        "title" : "현금인출기",
+        "location" : "국민은행: 학생회관 1층, 국민은행: 종합관 4층, 국민은행: 미래백년관 B1층, 우리은행: 미래백년관 4층 "
+      },
+      {
+        "title" : "강당",
+        "location" : "문화예술관 1층, 문화예술관 B1층, 미래백년관 B1층, 중앙교수회관 B1층"
+      },
+      {
+        "title" : "버스정류장",
+        "location" : "교내: 중앙교수회관 앞 3곳: 7016, 종로13, 서대문08 운행"
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
