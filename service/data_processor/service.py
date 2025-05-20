@@ -9,25 +9,10 @@ def process_service_data():
         text = f"{item['title']} / 홈페이지: {item['page']}"
         if item.get("phoneNumber"):
             text += f" / 전화번호: {item['phoneNumber']}"
-<<<<<<< HEAD
-        if item.get("category"):
-            text += f" / 종류: {item['category']}"
-        if item.get("method"):
-            text += f" / 방법: {item['method']}"
-        if item.get("Training_Center"):
-            text += f" / 훈련장: {item['Training_Center']}"
-        if item.get("transportation"):
-            text += f" / 교통수단: {item['transportation']}"
-        if item.get("time"):
-            text += f" / {item['time']}"
-        if item.get("delay"):
-            text += f" / {item['delay']}"
-=======
         if item.get("method"):
             text += f" / 방법: {item['method']}"
         if item.get("time"):
             text += f" / {item['time']}"
->>>>>>> feature/#12
         if item.get("description"):
             text += f" / {item['description']}"
         if item.get("print_method"):

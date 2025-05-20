@@ -47,20 +47,16 @@ def ask():
             {"role": "system", "content": f"다음은 학사 일정 관련 참고 정보입니다:\n\n{category_texts['haksa_knowledge']}"},
             {"role": "system", "content": f"다음은 장학금 관련 참고 정보입니다:\n\n{category_texts['scholarship_knowledge']}"},
             {"role": "system", "content": f"다음은 전공 관련 참고 정보입니다:\n\n{category_texts['major_knowledge']}"},
-            {"role": "system", "content": f"다음은 상명 e-포트폴리오 진로/취업프로그램 정보입니다:\n\n{category_texts['ePortfolio_knowledge']}"},
             {"role": "system", "content": f"다음은 상명 캠퍼스맵 정보입니다:\n\n{category_texts['facility_knowledge']}"},
             {"role": "system", "content": f"다음은 학적 관련 정보입니다:\n\n{category_texts['student_knowledge']}"},
             {"role": "system", "content": f"다음은 전공 제도 관련 정보 입니다:\n\n{category_texts['double_major_knowledge']}"},
             {"role": "system", "content": f"다음은 졸업 요건 관련 정보 입니다:\n\n{category_texts['graduation_knowledge']}"},
             {"role": "system", "content": f"다음은 학교 서비스 관련 정보 입니다:\n\n{category_texts['service_knowledge']}"},
-<<<<<<< HEAD
             {"role": "system", "content": f"다음은 사미(SAMI) 챗봇 관련 정보 입니다:\n\n{category_texts['introduction_knowledge']}"},
             {"role": "system", "content": f"다음은 상명대학교 관련 정보 입니다:\n\n{category_texts['school_knowledge']}"},
-=======
             {"role": "system", "content": f"다음은 학교 병무 관련 정보 입니다:\n\n{category_texts['military_knowledge']}"},
             {"role": "system", "content": f"다음은 상명대학교 관련 정보 입니다:\n\n{category_texts['school_knowledge']}"},
             {"role": "system", "content": f"다음은 상명대학교 교육과정 관련 정보 입니다:\n\n{category_texts['curriculums_knowledge']}"},
->>>>>>> feature/#12
             {"role": "user", "content": user_question}
     ]
 

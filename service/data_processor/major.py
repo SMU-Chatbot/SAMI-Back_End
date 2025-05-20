@@ -24,7 +24,6 @@ def process_major_data():
                 text += f" / 이메일: {item['email']}"
             documents.append(text)
 
-<<<<<<< HEAD
         if "curriculums" in major:
             for curriculum in major["curriculums"]:
                 curriculum_name = curriculum.get("name", "Unknown Curriculum")
@@ -36,16 +35,4 @@ def process_major_data():
                 text = f"전공: {major_name} - 과목명: {curriculum_name} / 학부: {department} / 학년: {year} / 학기: {semester} / 이수구분: {completion} / 학점: {credit}"
                 documents.append(text)
     return documents
-=======
-    return documents
-        # if "curriculums" in major:
-        #     for curriculum in major["curriculums"]:
-        #         curriculum_name = curriculum.get("name", "Unknown Curriculum")
-        #         department = curriculum.get("department", "N/A")
-        #         year = curriculum.get("year", "N/A")
-        #         semester = curriculum.get("semester", "N/A")
-        #         completion = curriculum.get("completion", "N/A")
-        #         credit = curriculum.get("credit", "N/A")
-        #         text = f"전공: {major_name} - 과목명: {curriculum_name} / 학부: {department} / 학년: {year} / 학기: {semester} / 이수구분: {completion} / 학점: {credit}"
-        #         documents.append(text)
->>>>>>> feature/#12
+
