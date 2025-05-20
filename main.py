@@ -53,8 +53,14 @@ def ask():
             {"role": "system", "content": f"다음은 전공 제도 관련 정보 입니다:\n\n{category_texts['double_major_knowledge']}"},
             {"role": "system", "content": f"다음은 졸업 요건 관련 정보 입니다:\n\n{category_texts['graduation_knowledge']}"},
             {"role": "system", "content": f"다음은 학교 서비스 관련 정보 입니다:\n\n{category_texts['service_knowledge']}"},
+<<<<<<< HEAD
             {"role": "system", "content": f"다음은 사미(SAMI) 챗봇 관련 정보 입니다:\n\n{category_texts['introduction_knowledge']}"},
             {"role": "system", "content": f"다음은 상명대학교 관련 정보 입니다:\n\n{category_texts['school_knowledge']}"},
+=======
+            {"role": "system", "content": f"다음은 학교 병무 관련 정보 입니다:\n\n{category_texts['military_knowledge']}"},
+            {"role": "system", "content": f"다음은 상명대학교 관련 정보 입니다:\n\n{category_texts['school_knowledge']}"},
+            {"role": "system", "content": f"다음은 상명대학교 교육과정 관련 정보 입니다:\n\n{category_texts['curriculums_knowledge']}"},
+>>>>>>> feature/#12
             {"role": "user", "content": user_question}
     ]
 

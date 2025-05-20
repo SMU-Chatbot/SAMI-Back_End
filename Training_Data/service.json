@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   {
     "title" : "병무",
     "phoneNumber": "02-2287-5117, 02-2287-7128",
@@ -34,6 +35,9 @@
     "time" : "1~2년차 : 4시간 소집교육(14:00~18:00)\n3년차 이상 : 인터넷 원격교육 수강",
     "page": "https://www.smu.ac.kr/kor/life/army_civil.do"
   },
+=======
+
+>>>>>>> feature/#12
   {
     "title" : "클라우드메일",
     "phoneNumber" : "02-2287-5235",
