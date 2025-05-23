@@ -57,6 +57,7 @@ def ask():
             {"role": "system", "content": f"다음은 학교 병무 관련 정보 입니다:\n\n{category_texts['military_knowledge']}"},
             {"role": "system", "content": f"다음은 상명대학교 관련 정보 입니다:\n\n{category_texts['school_knowledge']}"},
             {"role": "system", "content": f"다음은 상명대학교 교육과정 관련 정보 입니다:\n\n{category_texts['curriculums_knowledge']}"},
+            {"role": "system", "content": f"다음은 교수진 관련 정보 입니다:\n\n{category_texts['professor_knowledge']}"},
             {"role": "user", "content": user_question}
     ]
 
