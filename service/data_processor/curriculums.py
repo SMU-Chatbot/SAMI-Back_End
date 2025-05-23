@@ -7,7 +7,7 @@ def process_curriculums_data():
     documents = []
 
     for data in curriculums_data:
-        major = data["major"]  # 전공과목
+        major = data["name"]  # 전공과목
         curriculums = data["curriculums"]  # 전공과목 교육과정
 
         documents.append(f"{major} / 교육과정: {curriculums}")
