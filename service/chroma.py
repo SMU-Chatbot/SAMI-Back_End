@@ -4,15 +4,18 @@ _COLLECTION_NAMES = [
     "scholarship_knowledge",
     "haksa_knowledge",
     "major_knowledge",
-    "ePortfolio_knowledge",
     "facility_knowledge",
     "student_knowledge",
     "double_major_knowledge",
     "graduation_knowledge",
+    "service_knowledge",
+    "introduction_knowledge",
+    "school_knowledge",
     "military_knowledge",
     "service_knowledge",
     "school_knowledge",
-    "curriculums_knowledge"
+    "curriculums_knowledge",
+    "professor_knowledge"
 ]
 
 def init_chroma():
