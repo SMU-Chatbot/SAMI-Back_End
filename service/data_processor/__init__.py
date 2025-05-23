@@ -12,4 +12,4 @@ from service.data_processor.student import process_student_data
 from service.data_processor.school import process_school_data
 from service.data_processor.school import process_school_data
 from service.data_processor.curriculums import process_curriculums_data
-
+from service.data_processor.professor import process_professor_data

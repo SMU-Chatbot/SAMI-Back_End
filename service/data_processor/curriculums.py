@@ -7,20 +7,9 @@ def process_curriculums_data():
     documents = []
 
     for data in curriculums_data:
-        major_name = data.get("major", "Unknown Major")
+        major = data["major"]  # 전공과목
+        curriculums = data["curriculums"]  # 전공과목 교육과정
 
-        for curriculum in data.get("curriculums", []):
-            curriculum_name = curriculum.get("name", "Unknown Curriculum")
-            department = curriculum.get("department", "N/A")
-            year = curriculum.get("year", "N/A")
-            semester = curriculum.get("semester", "N/A")
-            completion = curriculum.get("completion", "N/A")
-            credit = curriculum.get("credit", "N/A")
-
-            text = (
-                f"전공: {major_name} - 과목명: {curriculum_name} / 학부: {department} "
-                f"/ {year}학년 / {semester}학기 / 이수구분: {completion} / {credit}학점"
-            )
-            documents.append(text)
+        documents.append(f"{major} / 교육과정: {curriculums}")
 
     return documents

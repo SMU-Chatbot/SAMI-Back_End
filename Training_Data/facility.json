@@ -56,7 +56,7 @@
         "time" : "중식 : 11:00 ~ 13:30",
         "open" : "중식 11:00",
         "close" : "중식 13:30",
-        "menu" : "https://www.smu.ac.kr/kor/life/restaurantView.do",
+        "page" : "https://www.smu.ac.kr/kor/life/restaurantView.do",
         "location" : "미래백년관 5층"
       },
       {
@@ -64,7 +64,15 @@
         "time" : "중식 : 11:00 ~ 13:30",
         "open" : "중식 11:00",
         "close" : "중식 13:30",
-        "menu" : "https://www.smu.ac.kr/kor/life/restaurantView.do",
+        "page" : "https://www.smu.ac.kr/kor/life/restaurantView.do",
+        "location" : "미래백년관 5층"
+      },
+      {
+        "title": "메뉴",
+        "time" : "중식 : 11:00 ~ 13:30",
+        "open" : "중식 11:00",
+        "close" : "중식 13:30",
+        "page" : "https://www.smu.ac.kr/kor/life/restaurantView.do",
         "location" : "미래백년관 5층"
       },
       {

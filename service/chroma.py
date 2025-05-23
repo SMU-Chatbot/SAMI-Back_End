@@ -14,7 +14,8 @@ _COLLECTION_NAMES = [
     "military_knowledge",
     "service_knowledge",
     "school_knowledge",
-    "curriculums_knowledge"
+    "curriculums_knowledge",
+    "professor_knowledge"
 ]
 
 def init_chroma():
