@@ -1,7 +1,6 @@
 from service.data_processor.haksa import process_haksa_data
 from service.data_processor.introduction import process_introduction_data
 from service.data_processor.scholarship import process_scholarship_data
-from service.data_processor.scholarship import process_scholarship_data
 from service.data_processor.military import process_military_data
 from service.data_processor.service import process_service_data
 from service.data_processor.graduation import process_graduation_data
@@ -9,7 +8,6 @@ from service.data_processor.double_major import process_double_major_data
 from service.data_processor.facility import process_facility_data
 from service.data_processor.major import process_major_data
 from service.data_processor.student import process_student_data
-from service.data_processor.school import process_school_data
 from service.data_processor.school import process_school_data
 from service.data_processor.curriculums import process_curriculums_data
 from service.data_processor.professor import process_professor_data

@@ -22,4 +22,3 @@ def process_professor_data():
         documents.append(text)
 
     return documents
-

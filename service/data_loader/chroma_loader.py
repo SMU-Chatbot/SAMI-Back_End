@@ -14,7 +14,6 @@ def load_data_to_chroma(embedding_model, collections):
         "introduction": (collections["introduction_knowledge"], process_introduction_data()),
         "school": (collections["school_knowledge"], process_school_data()),
         "military": (collections["military_knowledge"], process_military_data()),
-        "service": (collections["service_knowledge"], process_service_data()),
         "curriculums": (collections["curriculums_knowledge"], process_curriculums_data()),
         "professor": (collections["professor_knowledge"], process_professor_data())
     }

@@ -5,3 +5,4 @@ flask
 chromadb
 sentence_transformers
 flask-cors
+tiktoken
