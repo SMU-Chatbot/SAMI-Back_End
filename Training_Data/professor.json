@@ -1,0 +1,1835 @@
+[
+  {
+    "major": "컴퓨터과학",
+    "name": "한혁수(전산학전공)\n백윤철(전산과학(운영체제)전공)\n김영준(전산과학전공)\n김윤호(병렬/분산시스템전공)\n송병호(데이타베이스전공)\n조용주(Virtual Reality)\n손성훈(전산과학전공)\n민경하(컴퓨터 그래픽스)\n민승욱(Elctrical Engineering(무선통신))\n유훈(영상처리전공)\n김종원(신호처리전공)\n이석필(인공지능전공)\n강상욱(멀티미디어보안전공)\n박종환(암호프로토콜전공)\n김종욱(Database, Data Privacy)\n신경섭(정보통신융합시스템)\n나재호(그래픽스/하드웨어)\n",
+    "page": "https://cs.smu.ac.kr/cs/faculty/faculty.do"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "한혁수",
+    "email": "hshan@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G511)",
+    "phoneNumber": "02-2287-5033"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "김종원",
+    "email": "jwkim@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R307)",
+    "phoneNumber": "02-2287-5410"
+  },
+
+  {
+    "major": "컴퓨터과학",
+    "name": "백윤철",
+    "email": "ybaek@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G516)",
+    "phoneNumber": "02-2287-5074"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "김영준",
+    "email": "yjkim@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G505)",
+    "phoneNumber": "02-2287-5316"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "김윤호",
+    "email": "yhkim@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G515)",
+    "phoneNumber": "02-2287-5312"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "송병호",
+    "email": "bhsong@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G506)",
+    "phoneNumber": "02-2287-5291"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "조용주",
+    "email": "ycho@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G412)",
+    "phoneNumber": "02-2287-5363"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "손성훈",
+    "email": "shson@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G410)",
+    "phoneNumber": "02-2287-5137"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "민경하",
+    "email": "minkh@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G403-1)",
+    "phoneNumber": "02-2287-5377"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "민승욱",
+    "email": "swmin@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G507)",
+    "phoneNumber": "02-2287-5339"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "유훈",
+    "email": "hunie@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G514)",
+    "phoneNumber": "02-2287-5494"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "이석필",
+    "email": "esprit@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G513)",
+    "phoneNumber": "02-781-7569"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "강상욱",
+    "email": "sukang@smu.ac.kr",
+    "lab": "(M관)월해관 (M327)",
+    "phoneNumber": "02-781-7588"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "박종환",
+    "email": "jhpark@smu.ac.kr",
+    "lab": "(I관)제2교수회관 (I613)",
+    "phoneNumber": "02-781-7589"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "김종욱",
+    "email": "jkim@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G504)",
+    "phoneNumber": "02-781-7590"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "신경섭",
+    "email": "ksshin@smu.ac.kr",
+    "lab": "(T관)경영경제대학관(밀레니엄관) (T209)",
+    "phoneNumber": "연락처 : 02-2287-6154"
+  },
+  {
+    "major": "컴퓨터과학",
+    "name": "나재호",
+    "email": "jaeho.nah@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G503)",
+    "phoneNumber": ""
+  },
+  {
+
+    "major" : "지적재산권",
+    "name": "김동민 교수(상법전공)\n, 김인철 교수(Copyright)\n, 김경숙 교수(법학.국제관계전공)\n, 김서기 교수(민법전공)\n",
+    "page" : "https://cr.smu.ac.kr/cc/faculty/faculty.do"
+  },
+  {
+
+    "major" : "지적재산권",
+    "name": "김동민",
+    "email": "kdm2332@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R516)",
+    "phoneNumber": "02-2287-5234"
+  },
+  {
+    "major" : "지적재산권",
+    "name": "김인철",
+    "email": "kim208@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O415)",
+    "phoneNumber": "02-781-7501"
+  },
+  {
+    "major" : "지적재산권",
+    "name": "김경숙",
+    "email": "miju0704@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O512)",
+    "phoneNumber": "02-781-7502"
+  },
+  {
+    "major" : "지적재산권",
+    "name": "김서기",
+    "email": "kimseogi@smu.ac.kr",
+    "lab": "(I관)제2교수회관 (I415)",
+    "phoneNumber": "02-781-7547"
+  },
+  {
+    "major": "역사콘텐츠",
+    "name": "류한수 교수(Modern History of Russia)\n,김문자 교수(일본근세사전공)\n,최희수 교수(한국고대사 및 역사콘텐츠전공)\n,정다함 교수(한국근세사(조선전기))\n,김상헌 교수(문화정보학)\n,김희신 교수(중국근현대사전공)",
+    "page": "https://www.smu.ac.kr/history/faculty/faculty.do"
+  },
+
+  {
+    "major" : "역사콘텐츠",
+    "name": "류한수",
+    "email": "petrograd@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S411)",
+    "phoneNumber": "02-2287-5318"
+  },
+  {
+    "major" : "역사콘텐츠",
+    "name": "김문자",
+    "email": "mjakim@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S412)",
+    "phoneNumber": "02-2287-5322"
+  },
+  {
+    "major" : "역사콘텐츠",
+    "name": "최희수",
+    "email": "choice@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O417)",
+    "phoneNumber": "02-781-7543"
+  },
+  {
+    "major" : "역사콘텐츠",
+    "name": "정다함",
+    "email": "daham74@smu.ac.kr",
+    "lab": "(A관)사범대학관 (A311)",
+    "phoneNumber": "02-781-7544"
+  },
+  {
+    "major" : "역사콘텐츠",
+    "name": "김상헌",
+    "email": "enigma92@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S324)",
+    "phoneNumber": "02-781-7774"
+  },
+  {
+    "major" : "역사콘텐츠",
+    "name": "김희신",
+    "email": "ohjun66@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S315)",
+    "phoneNumber": "02-781-7787"
+  },
+  {
+    "major": "문헌정보학",
+    "name": "노동조 교수(정보학)\n,박옥남 교수(정보학전공)\n,오의경 교수(정보학전공)\n,이명호 교수(정보학)",
+    "page": "https://libinfo.smu.ac.kr/libinfo/index.do"
+  },
+  {
+    "major": "문헌정보학",
+    "name": "노동조",
+    "email": "djnoh@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R514)",
+    "phoneNumber": "02-2287-5364"
+  },
+  {
+    "major": "문헌정보학",
+    "name": "박옥남",
+    "email": "ponda@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S413)",
+    "phoneNumber": "02-781-7564"
+  },
+  {
+    "major": "문헌정보학",
+    "name": "오의경",
+    "email": "oheui@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S419)",
+    "phoneNumber": "02-781-7565"
+  },
+  {
+    "major": "문헌정보학",
+    "name": "이명호",
+    "email": "josephlee@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S425)",
+    "phoneNumber": "02-781-7566"
+  },
+  {
+    "major": "공간환경학",
+    "name": "구자용 교수(GIS(지리정보시스템)전공)\n,정희선 교수(지리학)\n,이유미 교수(건축계획전공)\n,정수열 교수(도시경제지리전공)\n,이윤재 교수(주거환경)\n,박수경 교수(건강지리학)\n,김민호 교수(자연지리/GIS/RS전공)",
+    "page": "https://space.smu.ac.kr/space/faculty/faculty.do"
+  },
+
+
+  {
+    "major": "공간환경학",
+    "name": "구자용",
+    "email": "koostar@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O518)",
+    "phoneNumber": "02-2287-5043"
+  },
+  {
+    "major": "공간환경학",
+    "name": "정희선",
+    "email": "hchung@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O514)",
+    "phoneNumber": "02-2287-5057"
+  },
+  {
+    "major": "공간환경학",
+    "name": "이유미",
+    "email": "lym0627@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R515)",
+    "phoneNumber": "02-2287-5359"
+  },
+  {
+    "major": "공간환경학",
+    "name": "정수열",
+    "email": "sychung@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O418)",
+    "phoneNumber": "02-2287-5294"
+  },
+  {
+    "major": "공간환경학",
+    "name": "이윤재",
+    "email": "lee266@smu.ac.kr",
+    "lab": "(I관)제2교수회관 (I417)",
+    "phoneNumber": "02-781-7533"
+  },
+  {
+    "major": "공간환경학",
+    "name": "박수경",
+    "email": "maria1570@smu.ac.kr",
+    "lab": "(A관)사범대학관 (A413)",
+    "phoneNumber": "02-781-7545"
+  },
+  {
+    "major": "공간환경학",
+    "name": "김민호",
+    "email": "mhkim@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O317)",
+    "phoneNumber": "02-781-7563"
+  },
+  {
+    "major": "국가안보학",
+    "name": "최병욱 교수(교육행정, 국방정책)\n,최윤철 교수(북한학)\n,윤지원 교수(국제정치(국방외교안보))",
+    "page": "https://ns.smu.ac.kr/sdms/faculty/faculty.do"
+  },
+
+  {
+    "major": "국가안보학",
+    "name": "최병욱",
+    "email": "kma82choi@smu.ac.kr",
+    "lab": "(M관)월해관 (M329)",
+    "phoneNumber": "02-781-7596"
+  },
+  {
+    "major": "국가안보학",
+    "name": "최윤철",
+    "email": "cyccyc1122@smu.ac.kr",
+    "lab": "(I관)제2교수회관 (I620)",
+    "phoneNumber": "02-781-7599"
+  },
+  {
+    "major": "국가안보학",
+    "name": "윤지원",
+    "email": "yyun0916@smu.ac.kr",
+    "lab": "(I관)제2교수회관 (I622)",
+    "phoneNumber": "02-2287-6135"
+  },
+  {
+    "major": "행정학",
+    "name": "김영미 교수(정보체계전공)\n,김미경 교수(행정이론전공)\n,김용훈 교수(헌법전공)\n,조태준 교수(조직행태전공)\n,박정호 교수(공공성과관리, 국제개발협력(ODA))\n,김민한 교수",
+    "page": "https://public.smu.ac.kr/public/faculty/faculty.do"
+  },
+
+
+  {
+    "major": "행정학",
+    "name": "김영미",
+    "email": "young@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R518)",
+    "phoneNumber": "02-2287-5212"
+  },
+  {
+    "major": "행정학",
+    "name": "김미경",
+    "email": "mkkim@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R414)",
+    "phoneNumber": "02-2287-5083"
+  },
+  {
+    "major": "행정학",
+    "name": "김용훈",
+    "email": "yespaul@smu.ac.kr",
+    "lab": "(G관)제1공학관 (G414-1)",
+    "phoneNumber": "02-781-7548"
+  },
+  {
+    "major": "행정학",
+    "name": "조태준",
+    "email": "taejunc@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O217)",
+    "phoneNumber": "02-781-7549"
+  },
+  {
+    "major": "행정학",
+    "name": "박정호",
+    "email": "fulled@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S320)",
+    "phoneNumber": ""
+  },
+  {
+    "major": "행정학",
+    "name": "김민한",
+    "email": "minhankim@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O116)",
+    "phoneNumber": ""
+  },
+  {
+    "major": "국어교육",
+    "name": "최미숙 교수(국어교육학전공)\n,박재현 교수(화법교육)\n,이승희 교수(국어학전공)\n,최홍원 교수(국어교육전공)\n,강옥희 교수(현대소설)\n,오민석 교수(문법론)",
+    "page": "https://koredu.smu.ac.kr/koredu/faculty/faculty.do"
+  },
+
+
+  {
+    "major": "국어교육",
+    "name": "최미숙",
+    "email": "starry@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S216)",
+    "phoneNumber": "02-2287-5092"
+  },
+  {
+    "major": "국어교육",
+    "name": "박재현",
+    "email": "parkjh@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R422)",
+    "phoneNumber": "02-2287-5085"
+  },
+  {
+    "major": "국어교육",
+    "name": "이승희",
+    "email": "yiseunghee@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S426)",
+    "phoneNumber": "02-2287-5086"
+  },
+  {
+    "major": "국어교육",
+    "name": "최홍원",
+    "email": "hwchoi@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R421)",
+    "phoneNumber": "02-781-7550"
+  },
+  {
+    "major": "국어교육",
+    "name": "강옥희",
+    "email": "okhee.kang@smu.ac.kr",
+    "lab": "(A관)사범대학관 (A414)",
+    "phoneNumber": "02-781-7752"
+  },
+  {
+    "major": "국어교육",
+    "name": "오민석",
+    "email": "minoh21@smu.ac.kr",
+    "lab": "(A관)사범대학관 (A415)",
+    "phoneNumber": ""
+  },
+  {
+    "major": "가족복지학",
+    "name": "최연실 교수(가족학 및 가족상담전공)\n,이금룡 교수(노인학/노인복지전공)\n,황혜신 교수(아동가족학전공)\n,홍영준 교수(Social Welfare)\n,서주현 교수(아동가족학전공)\n,조은숙 교수(부부가족상담)",
+    "page": "https://www.smu.ac.kr/smfamily/faculty/faculty.do"
+  },
+
+
+  {
+    "major": "가족복지학",
+    "name": "최연실",
+    "lab": "(R관)미래백년관 (R517)",
+    "phoneNumber": "02-2287-5317",
+    "email": "yschoi@smu.ac.kr"
+  },
+  {
+    "major": "가족복지학",
+    "name": "이금룡",
+    "lab": "(R관)미래백년관 (R504)",
+    "phoneNumber": "02-2287-5345",
+    "email": "gylee@smu.ac.kr"
+  },
+  {
+    "major": "가족복지학",
+    "name": "황혜신",
+    "lab": "(R관)미래백년관 (R416)",
+    "phoneNumber": "02-2287-5346",
+    "email": "hshwang@smu.ac.kr"
+  },
+  {
+    "major": "가족복지학",
+    "name": "홍영준",
+    "lab": "(R관)미래백년관 (R410)",
+    "phoneNumber": "02-781-7546",
+    "email": "yhong@smu.ac.kr"
+  },
+  {
+    "major": "가족복지학",
+    "name": "서주현",
+    "lab": "(A관)사범대학관 (A416)",
+    "phoneNumber": "02-781-7775",
+    "email": "jhsuh@smu.ac.kr"
+  },
+  {
+    "major": "가족복지학",
+    "name": "조은숙",
+    "lab": "(S관)중앙교수회관 (S314)",
+    "phoneNumber": "02-781-7782",
+    "email": "grace123@smu.ac.kr"
+  },
+  {
+    "major": "영어교육",
+    "name": "이진아 교수(영어교육/제2언어습득, 대화/담화분석전공)\n,오은정 교수(제2언어습득전공)\n,사뮤엘 데니 교수(Asian Studies)\n,최재호 교수(Instructional Technology)\n,유현주 교수(영문학/영문학교육)\n,하경영 교수(영어교육/제2언어습득)",
+    "page": "https://engedu.smu.ac.kr/engedu/faculty/faculty.do"
+  },
+
+  {
+    "major": "영어교육",
+    "name": "이진아",
+    "lab": "(R관)미래백년관 (R512)",
+    "phoneNumber": "02-2287-5091",
+    "email": "jlee@smu.ac.kr"
+  },
+  {
+    "major": "영어교육",
+    "name": "오은정",
+    "lab": "(O관)제1교수회관 (O412)",
+    "phoneNumber": "02-2287-5095",
+    "email": "eoh@smu.ac.kr"
+  },
+  {
+    "major": "영어교육",
+    "name": "사뮤엘데니",
+    "lab": "(S관)중앙교수회관 (S220)",
+    "phoneNumber": "02-2287-5479",
+    "email": "denny@smu.ac.kr"
+  },
+  {
+    "major": "영어교육",
+    "name": "최재호",
+    "lab": "(S관)중앙교수회관 (S313)",
+    "phoneNumber": "02-781-7584",
+    "email": "21clearn@smu.ac.kr"
+  },
+  {
+    "major": "영어교육",
+    "name": "유현주",
+    "lab": "(A관)사범대학관 (A509)",
+    "phoneNumber": "02-2287-5098",
+    "email": "yhj5071@smu.ac.kr"
+  },
+  {
+    "major": "영어교육",
+    "name": "하경영",
+    "lab": "(A관)사범대학관 (A216)",
+    "phoneNumber": "02-2287-5098",
+    "email": "kha@smu.ac.kr"
+  },
+  {
+    "major": "한일문화콘텐츠",
+    "name": "장근수 교수(언어행동, 커뮤니케이션)\n,신현태 교수(일본근현대문학(미스터리 장르))\n,김평강 교수(한일대중문화콘텐츠, 한일전통문화콘텐츠)\n,안노 마사히데 교수(일본문화(애니메이션, 영화, 문학))\n,성윤아 교수(문화융합)\n,조규헌 교수(일본문화론전공)",
+    "page": "https://kjc.smu.ac.kr/kjc/intro/faculty.do"
+  },
+
+  {
+    "major": "한일문화콘텐츠",
+    "name": "장근수",
+    "lab": "(O관)제1교수회관 (O411)",
+    "phoneNumber": "02-2287-5155",
+    "email": "ksjang@smu.ac.kr"
+  },
+  {
+    "major": "한일문화콘텐츠",
+    "name": "신현태",
+    "lab": "(S관)중앙교수회관 (S418)",
+    "phoneNumber": "02-2287-5122",
+    "email": "sht@smu.ac.kr"
+  },
+  {
+    "major": "한일문화콘텐츠",
+    "name": "김평강",
+    "lab": "(O관)제1교수회관 (O414)",
+    "phoneNumber": "02-2287-5140",
+    "email": "pgk@smu.ac.kr"
+  },
+  {
+    "major": "한일문화콘텐츠",
+    "name": "안노마사히데",
+    "lab": "(O관)제1교수회관 (O218)",
+    "phoneNumber": "02-2287-5496",
+    "email": "anno@smu.ac.kr"
+  },
+  {
+    "major": "한일문화콘텐츠",
+    "name": "성윤아",
+    "lab": "(M관)월해관 (M318)",
+    "phoneNumber": "02-2287-5185",
+    "email": "sungyuna@smu.ac.kr"
+  },
+  {
+    "major": "한일문화콘텐츠",
+    "name": "조규헌",
+    "lab": "(S관)중앙교수회관 (S414)",
+    "phoneNumber": "02-781-7551",
+    "email": "jgh@smu.ac.kr"
+  },
+  {
+    "major": "교육학",
+    "name": "이현우 교수(교육공학/HRD)\n,이정민 교수(교육과정/다문화교육)\n,이원석 교수(Educational Evaluation)\n,장석진 교수(상담심리 전공)\n,김효선 교수(평생교육/HRD)",
+    "page": "https://learning.smu.ac.kr/peda/faculty/faculty.do"
+  },
+
+
+  {
+    "major": "교육학",
+    "name": "이현우",
+    "lab": "(S관)중앙교수회관 (S214)",
+    "phoneNumber": "02-2287-5456",
+    "email": "hwl@smu.ac.kr"
+  },
+  {
+    "major": "교육학",
+    "name": "이정민",
+    "lab": "(A관)사범대학관 (A312)",
+    "phoneNumber": "02-2287-5148",
+    "email": "leejungmin@smu.ac.kr"
+  },
+  {
+    "major": "교육학",
+    "name": "이원석",
+    "lab": "(I관)제2교수회관 (I420)",
+    "phoneNumber": "02-2287-5147",
+    "email": "wlee@smu.ac.kr"
+  },
+  {
+    "major": "교육학",
+    "name": "장석진",
+    "lab": "(S관)중앙교수회관 (S215)",
+    "phoneNumber": "02-2287-5497",
+    "email": "schang@smu.ac.kr"
+  },
+  {
+    "major": "교육학",
+    "name": "김효선",
+    "lab": "(A관)사범대학관 (A412)",
+    "phoneNumber": "02-781-7776",
+    "email": "hyosunk@smu.ac.kr"
+  },
+  {
+    "major": "경영학",
+    "name": "김기태 교수(인사·조직), 양석준 교수(마케팅), 서지용 교수(재무론), 유재권 교수(회계학), 최은정 교수(마케팅), 권세훈 교수(재무관리), 김정연 교수(회계학), 최영근 교수(인사조직), 김성신 교수(재무론), 유태종 교수(산업경영공학), 윤영진 교수(생산관리), 유진호 교수(경영정보·정보보호·빅데이터), 최병권 교수(경영관리), 최준원 교수(조직심리), 이애리 교수(MIS·디지털경영), 김준현 교수, 이수철 교수(Operations & Technology Management)",
+    "page": "https://www.smu.ac.kr/smubiz/faculty/faculty.do"
+  },
+
+
+  {
+    "major": "경영학",
+    "name": "김기태",
+    "email": "ktkim@smu.ac.kr",
+    "phoneNumber": "02-2287-5049",
+    "lab": "(S관)중앙교수회관 (S323)"
+  },
+  {
+    "major": "경영학",
+    "name": "양석준",
+    "email": "yangsj@smu.ac.kr",
+    "phoneNumber": "02-2287-5009",
+    "lab": "(R관)미래백년관 (R505)"
+  },
+  {
+    "major": "경영학",
+    "name": "서지용",
+    "email": "jyseo@smu.ac.kr",
+    "phoneNumber": "02-2287-5487",
+    "lab": "(R관)미래백년관 (R417)"
+  },
+  {
+    "major": "경영학",
+    "name": "유재권",
+    "email": "jkyoo@smu.ac.kr",
+    "phoneNumber": "02-781-7506",
+    "lab": "(N관)인문사회과학대학관(자하관) (N512)"
+  },
+  {
+    "major": "경영학",
+    "name": "최은정",
+    "email": "choiej@smu.ac.kr",
+    "phoneNumber": "02-781-7507",
+    "lab": "(R관)미래백년관 (R509)"
+  },
+  {
+    "major": "경영학",
+    "name": "권세훈",
+    "email": "sehoon38@smu.ac.kr",
+    "phoneNumber": "02-781-7525",
+    "lab": "(O관)제1교수회관 (O413)"
+  },
+  {
+    "major": "경영학",
+    "name": "김정연",
+    "email": "jykim@smu.ac.kr",
+    "phoneNumber": "02-781-7526",
+    "lab": "(N관)인문사회과학대학관(자하관) (N506)"
+  },
+  {
+    "major": "경영학",
+    "name": "최영근",
+    "email": "penking1@smu.ac.kr",
+    "phoneNumber": "02-781-7540",
+    "lab": "(O관)제1교수회관 (O211)"
+  },
+  {
+    "major": "경영학",
+    "name": "김성신",
+    "email": "scolass@smu.ac.kr",
+    "phoneNumber": "02-781-7541",
+    "lab": "(O관)제1교수회관 (O316)"
+  },
+  {
+    "major": "경영학",
+    "name": "유태종",
+    "email": "tju13@smu.ac.kr",
+    "phoneNumber": "02-781-7542",
+    "lab": "(S관)중앙교수회관 (S212)"
+  },
+  {
+    "major": "경영학",
+    "name": "윤영진",
+    "email": "yjyoon@smu.ac.kr",
+    "phoneNumber": "02-781-7562",
+    "lab": "(O관)제1교수회관 (O511)"
+  },
+  {
+    "major": "경영학",
+    "name": "유진호",
+    "email": "jhyoo@smu.ac.kr",
+    "phoneNumber": "02-781-7574",
+    "lab": "(M관)월해관 (M316)"
+  },
+  {
+    "major": "경영학",
+    "name": "최병권",
+    "email": "jrpfeffer@smu.ac.kr",
+    "phoneNumber": "02-781-7575",
+    "lab": "(M관)월해관 (M312)"
+  },
+  {
+    "major": "경영학",
+    "name": "최준원",
+    "email": "joonwonchoi@smu.ac.kr",
+    "phoneNumber": "02-781-7786",
+    "lab": "(I관)제2교수회관 (I412)"
+  },
+  {
+    "major": "경영학",
+    "name": "이애리",
+    "email": "sharon@smu.ac.kr",
+    "phoneNumber": "02-2287-6103",
+    "lab": "(I관)제2교수회관 (I616)"
+  },
+  {
+    "major": "경영학",
+    "name": "김준현",
+    "email": "kjmjoonh1@smu.ac.kr",
+    "phoneNumber": "02-2287-6137",
+    "lab": "(G관)제1공학관 (G403)"
+  },
+  {
+    "major": "경영학",
+    "name": "이수철",
+    "email": "suchul.lee@smu.ac.kr",
+    "phoneNumber": "",
+    "lab": "(O관)제1교수회관 (O111)"
+  },
+  {
+    "major": "경제금융학",
+    "name": "양세정 교수(소비자경제학), 서은숙 교수(거시/금융경제), 유경원 교수(Economics), 서인주 교수(소비자학), 이준영 교수(소비자학), 김영준 교수(거시경제·국제경제·응용계량), 유승동 교수(부동산경제·금융), 이동진 교수(금융경제·거시경제·계량경제), 최동욱 교수(산업조직), 황상현 교수(조세·재정·공공경제)",
+    "page": "https://econo.smu.ac.kr/economic/faculty/faculty.do"
+  },
+
+  {
+    "major": "경제금융학",
+    "name": "양세정",
+    "phoneNumber": "02-2287-5255",
+    "email": "sjyang@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R510)"
+  },
+  {
+    "major": "경제금융학",
+    "name": "서은숙",
+    "phoneNumber": "02-2287-5149",
+    "email": "esseo@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R508)"
+  },
+  {
+    "major": "경제금융학",
+    "name": "유경원",
+    "phoneNumber": "02-2287-5039",
+    "email": "kwyoo@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O314)"
+  },
+  {
+    "major": "경제금융학",
+    "name": "서인주",
+    "phoneNumber": "02-2287-5490",
+    "email": "ijseo@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R502)"
+  },
+  {
+    "major": "경제금융학",
+    "name": "이준영",
+    "phoneNumber": "02-781-7534",
+    "email": "jylee@smu.ac.kr",
+    "lab": "(I관)제2교수회관 (I419)"
+  },
+  {
+    "major": "경제금융학",
+    "name": "김영준",
+    "phoneNumber": "02-781-7536",
+    "email": "yjnkim@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O517)"
+  },
+  {
+    "major": "경제금융학",
+    "name": "유승동",
+    "phoneNumber": "02-781-7573",
+    "email": "peteryou@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O315)"
+  },
+  {
+    "major": "경제금융학",
+    "name": "이동진",
+    "phoneNumber": "02-2287-6123",
+    "email": "rheedj@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S417)"
+  },
+  {
+    "major": "경제금융학",
+    "name": "최동욱",
+    "phoneNumber": "02-2287-6124",
+    "email": "dochoi@smu.ac.kr",
+    "lab": "(I관)제2교수회관 (I518)"
+  },
+  {
+    "major": "경제금융학",
+    "name": "황상현",
+    "phoneNumber": "02-2287-6136",
+    "email": "shwang@smu.ac.kr",
+    "lab": "(I관)제2교수회관 (I519)"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "권기환 교수(국제경영·경영전략), 김병재 교수(마케팅), 조영곤 교수(국제경영), 김효정 교수(국제경영·경영전략), 이한석 교수(마케팅), 김은경 교수(프랑스문학), 반주일 교수(재무·금융), 김동호 교수(무역상무), 최원용 교수(전략·국제경영), 김동원 교수(마케팅), 이승배 교수(벤처경영공학), 오철 교수(기술경제학), 김은수 교수(중국근현대사), 손인수 교수(경영정보학)",
+    "page": "https://gbiz.smu.ac.kr/newmajoritb/intro/faculty.do"
+  },
+
+  {
+    "major": "글로벌경영학",
+    "name": "권기환",
+    "email": "kkh1212@smu.ac.kr",
+    "phoneNumber": "02-2287-5441",
+    "lab": "(R관)미래백년관 (R513)"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "김병재",
+    "email": "bjkim@smu.ac.kr",
+    "phoneNumber": "02-2287-5034",
+    "lab": "(S319)중앙교수회관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "조영곤",
+    "email": "ygcho@smu.ac.kr",
+    "phoneNumber": "02-781-7505",
+    "lab": "(S415)중앙교수회관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "김효정",
+    "email": "hjkim@smu.ac.kr",
+    "phoneNumber": "02-781-7524",
+    "lab": "(R419)미래백년관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "이한석",
+    "email": "hansuk@smu.ac.kr",
+    "phoneNumber": "02-781-7538",
+    "lab": "(S316)중앙교수회관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "김은경",
+    "email": "claire12@smu.ac.kr",
+    "phoneNumber": "02-781-7585",
+    "lab": "(A314)사범대학관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "반주일",
+    "email": "ban9415@smu.ac.kr",
+    "phoneNumber": "02-781-7586",
+    "lab": "(O117)제1교수회관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "김동호",
+    "email": "dhkim@smu.ac.kr",
+    "phoneNumber": "02-781-7587",
+    "lab": "(O516)제1교수회관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "최원용",
+    "email": "wychoi@smu.ac.kr",
+    "phoneNumber": "02-781-7756",
+    "lab": "(S427)중앙교수회관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "김동원",
+    "email": "tunakim@smu.ac.kr",
+    "phoneNumber": "02-781-7763",
+    "lab": "(S422)중앙교수회관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "이승배",
+    "email": "seungbae@smu.ac.kr",
+    "phoneNumber": "02-781-7770",
+    "lab": "(O113)제1교수회관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "오철",
+    "email": "ohcheol@smu.ac.kr",
+    "phoneNumber": "02-781-7770",
+    "lab": "(O515)제1교수회관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "김은수",
+    "email": "yinzhu@smu.ac.kr",
+    "phoneNumber": "02-781-7784",
+    "lab": "(S221)중앙교수회관"
+  },
+  {
+    "major": "글로벌경영학",
+    "name": "손인수",
+    "email": "insoo114@smu.ac.kr",
+    "phoneNumber": "02-781-7783",
+    "lab": "(A316)사범대학관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "권기환 교수(국제경영·경영전략), 김병재 교수(마케팅), 조영곤 교수(국제경영), 김효정 교수(국제경영·경영전략), 이한석 교수(마케팅), 김은경 교수(프랑스문학), 반주일 교수(재무·금융), 김동호 교수(무역상무), 최원용 교수(전략·국제경영), 김동원 교수(마케팅), 이승배 교수(벤처경영공학), 오철 교수(기술경제학), 김은수 교수(중국근현대사), 손인수 교수(경영정보학)",
+    "page": "https://imgmt.smu.ac.kr/cm/faculty/faculty.do"
+  },
+  {
+    "major": "융합경영학",
+    "name": "권기환",
+    "email": "kkh1212@smu.ac.kr",
+    "phoneNumber": "02-2287-5441",
+    "lab": "(R관)미래백년관 (R513)"
+  },
+  {
+    "major": "융합경영학",
+    "name": "김병재",
+    "email": "bjkim@smu.ac.kr",
+    "phoneNumber": "02-2287-5034",
+    "lab": "(S319)중앙교수회관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "조영곤",
+    "email": "ygcho@smu.ac.kr",
+    "phoneNumber": "02-781-7505",
+    "lab": "(S415)중앙교수회관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "김효정",
+    "email": "hjkim@smu.ac.kr",
+    "phoneNumber": "02-781-7524",
+    "lab": "(R419)미래백년관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "이한석",
+    "email": "hansuk@smu.ac.kr",
+    "phoneNumber": "02-781-7538",
+    "lab": "(S316)중앙교수회관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "김은경",
+    "email": "claire12@smu.ac.kr",
+    "phoneNumber": "02-781-7585",
+    "lab": "(A314)사범대학관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "반주일",
+    "email": "ban9415@smu.ac.kr",
+    "phoneNumber": "02-781-7586",
+    "lab": "(O117)제1교수회관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "김동호",
+    "email": "dhkim@smu.ac.kr",
+    "phoneNumber": "02-781-7587",
+    "lab": "(O516)제1교수회관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "최원용",
+    "email": "wychoi@smu.ac.kr",
+    "phoneNumber": "02-781-7756",
+    "lab": "(S427)중앙교수회관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "김동원",
+    "email": "tunakim@smu.ac.kr",
+    "phoneNumber": "02-781-7763",
+    "lab": "(S422)중앙교수회관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "이승배",
+    "email": "seungbae@smu.ac.kr",
+    "phoneNumber": "02-781-7770",
+    "lab": "(O113)제1교수회관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "오철",
+    "email": "ohcheol@smu.ac.kr",
+    "phoneNumber": "02-781-7770",
+    "lab": "(O515)제1교수회관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "김은수",
+    "email": "yinzhu@smu.ac.kr",
+    "phoneNumber": "02-781-7784",
+    "lab": "(S221)중앙교수회관"
+  },
+  {
+    "major": "융합경영학",
+    "name": "손인수",
+    "email": "insoo114@smu.ac.kr",
+    "phoneNumber": "02-781-7783",
+    "lab": "(A316)사범대학관"
+  },
+  {
+    "major": "수학교육",
+    "name": "김화경 교수(수학교육학), 김연호 교수(비선형함수해석학/편미분방정식), 배윤한 교수(응용수학 및 확률론), 황병훈 교수(편미분방정식)",
+    "page": "https://mathed.smu.ac.kr/mathedu/faculty/faculty.do"
+  },
+
+  {
+    "major": "수학교육",
+    "name": "김화경",
+    "email": "indices@smu.ac.kr",
+    "lab": "(R관)미래백년관 (R420)",
+    "phoneNumber": "02-2287-5157"
+  },
+  {
+    "major": "수학교육",
+    "name": "김연호",
+    "email": "kyh1213@smu.ac.kr",
+    "lab": "(M관)월해관 (M314)",
+    "phoneNumber": "02-781-7504"
+  },
+  {
+    "major": "수학교육",
+    "name": "배윤한",
+    "email": "yhbae@smu.ac.kr",
+    "lab": "(M관)월해관 (M414)",
+    "phoneNumber": "02-781-7567"
+  },
+  {
+    "major": "수학교육",
+    "name": "황병훈",
+    "email": "bhhwang@smu.ac.kr",
+    "lab": "(S관)중앙교수회관 (S213)",
+    "phoneNumber": ""
+  },
+  {
+    "major": "휴먼지능정보공학",
+    "name": "임좌상 교수(정보시스템), 황민철 교수(의공학), 정진우 교수(컴퓨터시스템), 김동근 교수(생체공학), 이의철 교수(영상처리/패턴인식), 권지은 교수(디자인), 유지연 교수(정보공학), 이지항 교수(의사결정/뇌기반 인공지능), 윤희남 교수(바이오엔지니어링), 오영민 교수",
+    "page": "https://hi.smu.ac.kr/hi/faculty/faculty.do"
+  },
+
+  {
+    "major": "휴먼지능정보공학",
+    "name": "임좌상",
+    "email": "jslim@smu.ac.kr",
+    "lab": "(G관) 제1공학관 G405",
+    "phoneNumber": "02-2287-5311"
+  },
+  {
+    "major": "휴먼지능정보공학",
+    "name": "황민철",
+    "email": "whang@smu.ac.kr",
+    "lab": "(R관) 미래백년관 R413",
+    "phoneNumber": "02-2287-5293"
+  },
+  {
+    "major": "휴먼지능정보공학",
+    "name": "정진우",
+    "email": "jjoung@smu.ac.kr",
+    "lab": "(R관) 미래백년관 R418",
+    "phoneNumber": "02-2287-5452"
+  },
+  {
+    "major": "휴먼지능정보공학",
+    "name": "김동근",
+    "email": "dkim@smu.ac.kr",
+    "lab": "(G관) 제1공학관 G315",
+    "phoneNumber": "02-2287-5431"
+  },
+  {
+    "major": "휴먼지능정보공학",
+    "name": "이의철",
+    "email": "eclee@smu.ac.kr",
+    "lab": "(R관) 미래백년관 R503",
+    "phoneNumber": "02-781-7553"
+  },
+  {
+    "major": "휴먼지능정보공학",
+    "name": "권지은",
+    "email": "jieun@smu.ac.kr",
+    "lab": "(G관) 제1공학관 G408",
+    "phoneNumber": "02-781-7753"
+  },
+  {
+    "major": "휴먼지능정보공학",
+    "name": "유지연",
+    "email": "yooo@smu.ac.kr",
+    "lab": "(S관) 중앙교수회관 S224",
+    "phoneNumber": "02-781-7767"
+  },
+  {
+    "major": "휴먼지능정보공학",
+    "name": "이지항",
+    "email": "jeehang@smu.ac.kr",
+    "lab": "(O관) 제1교수회관 O311",
+    "phoneNumber": ""
+  },
+  {
+    "major": "휴먼지능정보공학",
+    "name": "윤희남",
+    "email": "h-yoon@smu.ac.kr",
+    "lab": "(O관) 제1교수회관 O112",
+    "phoneNumber": ""
+  },
+  {
+    "major": "휴먼지능정보공학",
+    "name": "오영민",
+    "email": "youngminoh@smu.ac.kr",
+    "lab": "(O관)제1교수회관 (O318)",
+    "phoneNumber": ""
+  },
+  {
+    "major": "전기공학",
+    "name": "김정욱 교수(컴퓨터공학), 조수환 교수(전력계통 운용 및 제어), 심재웅 교수(전력변환설비 연계, 전력계통 해석), 위영민 교수(전력계통), 이순명 교수(제로에너지건축, DC Microgrid, xEMS)",
+    "page": "https://electric.smu.ac.kr/electric/faculty/faculty.do"
+  },
+
+  {
+    "major": "전기공학",
+    "name": "김정욱",
+    "lab": "(G관) 제1공학관 G508",
+    "phoneNumber": "02-2287-5327",
+    "email": "jukim@smu.ac.kr"
+  },
+  {
+    "major": "전기공학",
+    "name": "조수환",
+    "lab": "(R관) 미래백년관 R511",
+    "phoneNumber": "02-781-7503",
+    "email": "shcho@smu.ac.kr"
+  },
+  {
+    "major": "전기공학",
+    "name": "심재웅",
+    "lab": "(G관) 제1공학관 G510",
+    "phoneNumber": "02-2287-6175",
+    "email": "jaewshim@smu.ac.kr"
+  },
+  {
+    "major": "전기공학",
+    "name": "위영민",
+    "lab": "(G관) 제1공학관 G409",
+    "phoneNumber": "02-2287-6186",
+    "email": "youngmin@smu.ac.kr"
+  },
+  {
+    "major": "전기공학",
+    "name": "이순명",
+    "lab": "(G관) 제1공학관 G401-1",
+    "phoneNumber": "02-2287-6187",
+    "email": "soonperman@smu.ac.kr"
+  },
+  {
+    "major": "게임",
+    "name": "장준호 교수(병렬컴퓨터), 박소영 교수(전산학), 김석규 교수(컴퓨터공학), 성한울 교수(분산시스템)",
+    "page": "https://game.smu.ac.kr/game01/faculty/faculty.do"
+  },
+
+  {
+    "major": "게임",
+    "name": "장준호",
+    "lab": "(G관)제1공학관 (G407)",
+    "phoneNumber": "02-2287-5393",
+    "email": "jchang@smu.ac.kr"
+  },
+  {
+    "major": "게임",
+    "name": "박소영",
+    "lab": "(G관)제1공학관 (G406)",
+    "phoneNumber": "02-2287-5066",
+    "email": "ssoya@smu.ac.kr"
+  },
+  {
+    "major": "게임",
+    "name": "김석규",
+    "lab": "(G관)제1공학관 (G411)",
+    "phoneNumber": "02-781-7593",
+    "email": "skkim@smu.ac.kr"
+  },
+  {
+    "major": "게임",
+    "name": "성한울",
+    "lab": "(G관)제1공학관 (G414)",
+    "phoneNumber": "02-2287-6171",
+    "email": "hanul.sung@smu.ac.kr"
+  },
+  {
+    "major": "식품영양학",
+    "name": "홍완수 교수(Foodservice Management), 한정아 교수(식품생명공학), 황지윤 교수(International Nutrition), 이승우 교수(Hospitality and Tourism Management), 박대섭 교수(외식벤처창업경영), 최현선 교수(Functional Foods/Nutraceuticals), 박희정 교수",
+    "page": "https://food.smu.ac.kr/foodnutrition/faculty/faculty.do"
+  },
+
+  {
+    "major": "식품영양학",
+    "name": "홍완수",
+    "lab": "(I관)제2교수회관 (I611)",
+    "phoneNumber": "02-2287-5350",
+    "email": "wshong@smu.ac.kr"
+  },
+  {
+    "major": "식품영양학",
+    "name": "한정아",
+    "lab": "(R관)미래백년관 (R424)",
+    "phoneNumber": "02-2287-5357",
+    "email": "vividew@smu.ac.kr"
+  },
+  {
+    "major": "식품영양학",
+    "name": "황지윤",
+    "lab": "(M관)월해관 (M325)",
+    "phoneNumber": "02-781-7521",
+    "email": "jiyunhk@smu.ac.kr"
+  },
+  {
+    "major": "식품영양학",
+    "name": "이승우",
+    "lab": "(M관)월해관 (M319)",
+    "phoneNumber": "02-781-7583",
+    "email": "slee@smu.ac.kr"
+  },
+  {
+    "major": "식품영양학",
+    "name": "박대섭",
+    "lab": "(S관)중앙교수회관 (S321)",
+    "phoneNumber": "02-781-7764",
+    "email": "pdeas@smu.ac.kr"
+  },
+  {
+    "major": "식품영양학",
+    "name": "최현선",
+    "lab": "(I관)제2교수회관 (I615)",
+    "phoneNumber": "02-2287-6155",
+    "email": "hsc1970@smu.ac.kr"
+  },
+  {
+    "major": "식품영양학",
+    "name": "박희정",
+    "lab": "(I관)제2교수회관 (I619)",
+    "phoneNumber": "02-2287-6163",
+    "email": "heejp2020@smu.ac.kr"
+  },
+  {
+    "major": "의류학",
+    "name": "이민선 교수(복식디자인), 하희정 교수(의복구성 및 패턴CAD), 노정심 교수(패션소재 e-textile), 양희순 교수(패션머천다이징), 김혜자 교수(패션디자인)",
+    "page": "https://fashionindustry.smu.ac.kr/clothing2/faculty/faculty.do"
+  },
+
+  {
+    "major": "의류학",
+    "name": "이민선",
+    "lab": "(I관)제2교수회관 (I522)",
+    "phoneNumber": "02-2287-5358",
+    "email": "minsun@smu.ac.kr"
+  },
+  {
+    "major": "의류학",
+    "name": "하희정",
+    "lab": "(I관)제2교수회관 (I511)",
+    "phoneNumber": "02-2287-5438",
+    "email": "hjha@smu.ac.kr"
+  },
+  {
+    "major": "의류학",
+    "name": "노정심",
+    "lab": "(I관)제2교수회관 (I514)",
+    "phoneNumber": "02-781-7527",
+    "email": "jungsimroh@smu.ac.kr"
+  },
+  {
+    "major": "의류학",
+    "name": "양희순",
+    "lab": "(I관)제2교수회관 (I618)",
+    "phoneNumber": "",
+    "email": "hsyang@smu.ac.kr"
+  },
+  {
+    "major": "의류학",
+    "name": "김혜자",
+    "lab": "(I관)제2교수회관 (I614)",
+    "phoneNumber": "",
+    "email": "khjfas@smu.ac.kr"
+  },
+  {
+    "major": "스포츠건강관리",
+    "name": "백성수 교수(스포츠의학/트레이닝론), 강서정 교수(운동생리학), 이효 교수(스포츠심리학)",
+    "page": "https://sports.smu.ac.kr/smpe/faculty/faculty.do"
+  },
+
+  {
+    "major": "스포츠건강관리",
+    "name": "백성수",
+    "lab": "(M관)월해관 (M315)",
+    "phoneNumber": "02-2287-5133",
+    "email": "ssoop@smu.ac.kr"
+  },
+  {
+    "major": "스포츠건강관리",
+    "name": "강서정",
+    "lab": "(I관)제2교수회관 (I513)",
+    "phoneNumber": "02-2287-5136",
+    "email": "suhjkang@smu.ac.kr"
+  },
+  {
+    "major": "스포츠건강관리",
+    "name": "이효",
+    "lab": "(I관)제2교수회관 (I515)",
+    "phoneNumber": "02-781-7535",
+    "email": "hyolee@smu.ac.kr"
+  },
+  {
+    "major": "무용예술",
+    "name": "박재근 교수(무용예술학), 남진희 교수(현대무용/무용학), 김지안 교수(한국무용/무용경영 및 문화예술교육)",
+    "page": "https://dance.smu.ac.kr/dance/intro/faculty.do"
+  },
+
+  {
+    "major": "무용예술",
+    "name": "박재근",
+    "lab": "(I관)제2교수회관 (I512)",
+    "phoneNumber": "02-2287-5188",
+    "email": "sbcpark@smu.ac.kr"
+  },
+  {
+    "major": "무용예술",
+    "name": "남진희",
+    "lab": "(I관)제2교수회관 (I516)",
+    "phoneNumber": "02-2287-5351",
+    "email": "jhn@smu.ac.kr"
+  },
+  {
+    "major": "무용예술",
+    "name": "김지안",
+    "lab": "(I관)제2교수회관 (I521)",
+    "phoneNumber": "02-2287-6118",
+    "email": "artsedu@smu.ac.kr"
+  },
+  {
+    "major": "조형예술",
+    "name": "이세정 교수(동양화), 박민정 교수(조소), 이상은 교수(회화)",
+    "page": "https://finearts.smu.ac.kr/finearts/faculty/faculty.do"
+  },
+
+  {
+    "major": "조형예술",
+    "name": "이세정",
+    "lab": "(B관)미술관 (B212)",
+    "phoneNumber": "02-2287-5303",
+    "email": "lsj@smu.ac.kr"
+  },
+  {
+    "major": "조형예술",
+    "name": "박민정",
+    "lab": "(B관)미술관 (B304)",
+    "phoneNumber": "02-781-7578",
+    "email": "mjp@smu.ac.kr"
+  },
+  {
+    "major": "조형예술",
+    "name": "이상은",
+    "lab": "(I관)제2교수회관 (I418)",
+    "phoneNumber": "02-781-7594",
+    "email": "lse1213@smu.ac.kr"
+  },
+  {
+    "major": "생활예술",
+    "name": "나지영 교수(써피스디자인), 유현아 교수(직조), 강현대 교수(가구디자인), 이정아 교수(텍스타일디자인), 주경임 교수(산업디자인), 곽철안 교수(컨셉디자인)",
+    "page": "https://smulad.smu.ac.kr/smulad/faculity/faculty.do"
+  },
+
+  {
+    "major": "생활예술",
+    "name": "나지영",
+    "lab": "(B관)미술관 (B311)",
+    "phoneNumber": "02-2287-5164",
+    "email": "jyra@smu.ac.kr"
+  },
+  {
+    "major": "생활예술",
+    "name": "유현아",
+    "lab": "(B관)미술관 (B212-1)",
+    "phoneNumber": "02-2287-5173",
+    "email": "yha@smu.ac.kr"
+  },
+  {
+    "major": "생활예술",
+    "name": "강현대",
+    "lab": "(BC관)미술가정관_관리팀용 (B411)",
+    "phoneNumber": "02-781-7514",
+    "email": "kanghd@smu.ac.kr"
+  },
+  {
+    "major": "생활예술",
+    "name": "이정아",
+    "lab": "(I관)제2교수회관 (I416)",
+    "phoneNumber": "02-781-7554",
+    "email": "texjung@smu.ac.kr"
+  },
+  {
+    "major": "생활예술",
+    "name": "주경임",
+    "lab": "(M관)월해관 (M311)",
+    "phoneNumber": "02-781-7555",
+    "email": "kamichoo@smu.ac.kr"
+  },
+  {
+    "major": "생활예술",
+    "name": "곽철안",
+    "lab": "(M관)월해관 (M322)",
+    "phoneNumber": "02-781-7595",
+    "email": "kwak@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "정원순 교수(바이올린), 김희정 교수(작곡), 김희진 교수(피아노), 정승재 교수(작곡), 노인경 교수(첼로), 박지원 교수(피아노), 안종덕 교수(작곡), 류현승 교수(성악), 채유미 교수(바이올린), 김지현 교수(성악), 정의근 교수(테너), 이강규 교수(작곡), 정순석 교수(플루트), 박명숙 교수(피아노), 김민조 교수",
+    "page": "https://music.smu.ac.kr/music/faculty/faculty.do"
+  },
+
+  {
+    "major": "음악학",
+    "name": "정원순",
+    "lab": "(I관)제2교수회관 (I321)",
+    "phoneNumber": "02-2287-5163",
+    "email": "chung672@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "김희정",
+    "lab": "(B관)미술관 (B312)",
+    "phoneNumber": "02-2287-5355",
+    "email": "cecilia@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "김희진",
+    "lab": "(I관)제2교수회관 (I311)",
+    "phoneNumber": "02-2287-5321",
+    "email": "jinie@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "정승재",
+    "lab": "(I관)제2교수회관 (I322)",
+    "phoneNumber": "02-2287-5440",
+    "email": "sjchung70@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "노인경",
+    "lab": "(I관)제2교수회관 (I314)",
+    "phoneNumber": "02-2287-5437",
+    "email": "ikcello@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "박지원",
+    "lab": "(I관)제2교수회관 (I313)",
+    "phoneNumber": "02-2287-5174",
+    "email": "jeewonpark@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "안종덕",
+    "lab": "(I관)제2교수회관 (I411)",
+    "phoneNumber": "02-2287-5419",
+    "email": "tozi@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "류현승",
+    "lab": "(I관)제2교수회관 (I320)",
+    "phoneNumber": "02-2287-5367",
+    "email": "liuhs@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "채유미",
+    "lab": "(I관)제2교수회관 (I319)",
+    "phoneNumber": "02-2287-5488",
+    "email": "ymchae@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "김지현",
+    "lab": "(M관)월해관 (M413)",
+    "phoneNumber": "02-781-7516",
+    "email": "azjhk2369@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "정의근",
+    "lab": "(I관)제2교수회관 (I317)",
+    "phoneNumber": "02-781-7557",
+    "email": "tenorechung@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "이강규",
+    "lab": "(M관)월해관 (M323)",
+    "phoneNumber": "02-781-7570",
+    "email": "kglee@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "정순석",
+    "lab": "(I관)제2교수회관 (I612)",
+    "phoneNumber": "02-2287-5421",
+    "email": "fljss@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "박명숙",
+    "lab": "(M관)월해관 (M321)",
+    "phoneNumber": "02-2287-6107",
+    "email": "park533@smu.ac.kr"
+  },
+  {
+    "major": "음악학",
+    "name": "김민조",
+    "lab": "(I관)제2교수회관 (I316)",
+    "phoneNumber": "02-2287-6182",
+    "email": "claminjo@smu.ac.kr"
+  },
+  {
+    "major": "애니메이션전공",
+    "name": "조옥희 교수(Art and Technology), 정재욱 교수(Character Animation)",
+    "page": "https://animation.smu.ac.kr/animation/faculty/faculty.do"
+  },
+
+  {
+    "major": "애니메이션전공",
+    "name": "정재욱",
+    "lab": "(R관)미래백년관 (R323)",
+    "phoneNumber": "02-2287-6159",
+    "email": "renderma@smu.ac.kr"
+  },
+  {
+    "major": "애니메이션전공",
+    "name": "조옥희",
+    "lab": "(G관)제1공학관 (G404)",
+    "phoneNumber": "02-2287-6168",
+    "email": "profcho@smu.ac.kr"
+  },
+  {
+    "major": "핀테크·빅데이터융합·스마트생산",
+    "name": "서대희 교수(정보보호), 이상호 교수(통화금융, 핀테크, 빅데이터), 김진 교수(빅데이터 융합), 천백민 교수(스마트생산)",
+    "page": "https://fbs.smu.ac.kr/fbs/faculty/faculty.do"
+  },
+
+  {
+    "major": "핀테크·빅데이터융합·스마트생산",
+    "name": "서대희",
+    "lab": "(S관)중앙교수회관 (S223)",
+    "phoneNumber": "02-2287-6167",
+    "email": "daehseo@smu.ac.kr"
+  },
+  {
+    "major": "핀테크·빅데이터융합·스마트생산",
+    "name": "이상호",
+    "lab": "(I관)제2교수회관 (I617)",
+    "phoneNumber": "02-2287-6160",
+    "email": "sang-ho.yi@smu.ac.kr"
+  },
+  {
+    "major": "핀테크·빅데이터융합·스마트생산",
+    "name": "김진",
+    "lab": "(M관)월해관 (M206)",
+    "phoneNumber": "02-2287-6133",
+    "email": "jinkim@smu.ac.kr"
+  },
+  {
+    "major": "핀테크·빅데이터융합·스마트생산",
+    "name": "천백민",
+    "lab": "(O관)제1교수회관 (O313)",
+    "phoneNumber": "02-2287-6133",
+    "email": "bmchun@smu.ac.kr"
+
+  },
+  {
+    "major": "핀테크",
+    "name": "서대희 교수(정보보호), 이상호 교수(통화금융, 핀테크, 빅데이터), 김진 교수(빅데이터 융합), 천백민 교수(스마트생산)",
+    "page": "https://fbs.smu.ac.kr/fbs/faculty/faculty.do"
+  },
+  {
+    "major": "핀테크",
+    "name": "서대희",
+    "lab": "(S관)중앙교수회관 (S223)",
+    "phoneNumber": "02-2287-6167",
+    "email": "daehseo@smu.ac.kr"
+  },
+  {
+    "major": "핀테크",
+    "name": "이상호",
+    "lab": "(I관)제2교수회관 (I617)",
+    "phoneNumber": "02-2287-6160",
+    "email": "sang-ho.yi@smu.ac.kr"
+  },
+  {
+    "major": "핀테크",
+    "name": "김진",
+    "lab": "(M관)월해관 (M206)",
+    "phoneNumber": "02-2287-6133",
+    "email": "jinkim@smu.ac.kr"
+  },
+  {
+    "major": "핀테크",
+    "name": "천백민",
+    "lab": "(O관)제1교수회관 (O313)",
+    "phoneNumber": "02-2287-6133",
+    "email": "bmchun@smu.ac.kr"
+
+  },
+  {
+    "major": "빅데이터융합",
+    "name": "서대희 교수(정보보호), 이상호 교수(통화금융, 핀테크, 빅데이터), 김진 교수(빅데이터 융합), 천백민 교수(스마트생산)",
+    "page": "https://fbs.smu.ac.kr/fbs/faculty/faculty.do"
+  },
+  {
+    "major": "빅데이터융합",
+    "name": "서대희",
+    "lab": "(S관)중앙교수회관 (S223)",
+    "phoneNumber": "02-2287-6167",
+    "email": "daehseo@smu.ac.kr"
+  },
+  {
+    "major": "빅데이터융합",
+    "name": "이상호",
+    "lab": "(I관)제2교수회관 (I617)",
+    "phoneNumber": "02-2287-6160",
+    "email": "sang-ho.yi@smu.ac.kr"
+  },
+  {
+    "major": "빅데이터융합",
+    "name": "김진",
+    "lab": "(M관)월해관 (M206)",
+    "phoneNumber": "02-2287-6133",
+    "email": "jinkim@smu.ac.kr"
+  },
+  {
+    "major": "빅데이터융합",
+    "name": "천백민",
+    "lab": "(O관)제1교수회관 (O313)",
+    "phoneNumber": "02-2287-6133",
+    "email": "bmchun@smu.ac.kr"
+
+  },
+  {
+    "major": "스마트생산",
+    "name": "서대희 교수(정보보호), 이상호 교수(통화금융, 핀테크, 빅데이터), 김진 교수(빅데이터 융합), 천백민 교수(스마트생산)",
+    "page": "https://fbs.smu.ac.kr/fbs/faculty/faculty.do"
+  },
+  {
+    "major": "스마트생산",
+    "name": "서대희",
+    "lab": "(S관)중앙교수회관 (S223)",
+    "phoneNumber": "02-2287-6167",
+    "email": "daehseo@smu.ac.kr"
+  },
+  {
+    "major": "스마트생산",
+    "name": "이상호",
+    "lab": "(I관)제2교수회관 (I617)",
+    "phoneNumber": "02-2287-6160",
+    "email": "sang-ho.yi@smu.ac.kr"
+  },
+  {
+    "major": "스마트생산",
+    "name": "김진",
+    "lab": "(M관)월해관 (M206)",
+    "phoneNumber": "02-2287-6133",
+    "email": "jinkim@smu.ac.kr"
+  },
+  {
+    "major": "스마트생산",
+    "name": "천백민",
+    "lab": "(O관)제1교수회관 (O313)",
+    "phoneNumber": "02-2287-6133",
+    "email": "bmchun@smu.ac.kr"
+
+  },
+  {
+    "major": "생명공학",
+    "name": "이성호 교수(의생명공학), 안예진 교수(분자유전공학), 김창배 교수(생물정보학), 이영미 교수(분자환경생물학), 기장서 교수(분자생태및계통학), 유하영 교수(미생물공학, 생물공정공학)",
+    "page": "https://biotechnology.smu.ac.kr/biotechnology/faculty/faculty.do"
+  },
+
+  {
+    "major": "생명공학",
+    "name": "이성호",
+    "lab": "(N관)인문사회과학대학관(자하관) (N510)",
+    "phoneNumber": "02-2287-5139",
+    "email": "shlee@smu.ac.kr"
+  },
+  {
+    "major": "생명공학",
+    "name": "안예진",
+    "lab": "(O관)제1교수회관 (O416)",
+    "phoneNumber": "02-2287-5483",
+    "email": "yjahn@smu.ac.kr"
+  },
+  {
+    "major": "생명공학",
+    "name": "김창배",
+    "lab": "(S관)중앙교수회관 (S217)",
+    "phoneNumber": "02-2287-5288",
+    "email": "evodevo@smu.ac.kr"
+  },
+  {
+    "major": "생명공학",
+    "name": "이영미",
+    "lab": "(N관)인문사회과학대학관(자하관) (N508)",
+    "phoneNumber": "02-2287-5448",
+    "email": "ymlee70@smu.ac.kr"
+  },
+  {
+    "major": "생명공학",
+    "name": "기장서",
+    "lab": "(ZC관)연구동별관 (ZC202)",
+    "phoneNumber": "02-2287-5449",
+    "email": "kijs@smu.ac.kr"
+  },
+  {
+    "major": "생명공학",
+    "name": "유하영",
+    "lab": "(N관)인문사회과학대학관(자하관) (N513)",
+    "phoneNumber": "02-2287-6104",
+    "email": "y2h2000@smu.ac.kr"
+  },
+  {
+    "major": "화학에너지공학",
+    "name": "강상욱(고분자화학전공)\n김기택(배터리소재, 전기분석화학)\n강윤경(무기화학전공)\n서현욱(환경화학, 표면물리화학)\n백상현(태양에너지소재)\n김호영(고체화학, 나노재료, 전기촉매)\n",
+    "page": "https://cs.smu.ac.kr/cs/faculty/faculty.do"
+  },
+  {
+    "major": "화학에너지공학",
+    "name": "강상욱",
+    "lab": "(R관)미래백년관 (R409)",
+    "phoneNumber": "02-2287-5362",
+    "email": "swkang@smu.ac.kr"
+  },
+  {
+    "major": "화학에너지공학",
+    "name": "김기택",
+    "lab": "(R관)미래백년관 (R415)",
+    "phoneNumber": "02-781-7508",
+    "email": "ketack.kim@smu.ac.kr"
+  },
+  {
+    "major": "화학에너지공학",
+    "name": "강윤경",
+    "lab": "(O관)제1교수회관 (O213)",
+    "phoneNumber": "02-781-7509",
+    "email": "younkang@smu.ac.kr"
+  },
+  {
+    "major": "화학에너지공학",
+    "name": "서현욱",
+    "lab": "(O관)제1교수회관 (O114)",
+    "phoneNumber": "02-2287-6105",
+    "email": "hyun.ook.seo@smu.ac.kr"
+  },
+  {
+    "major": "화학에너지공학",
+    "name": "백상현",
+    "lab": "(S관)중앙교수회관 (S421)",
+    "phoneNumber": "02-2287-6150",
+    "email": "sanghyun.paek@smu.ac.kr"
+  },
+  {
+    "major": "화학에너지공학",
+    "name": "김호영",
+    "lab": "(N관)인문사회과학대학관(자하관) (N509)",
+    "phoneNumber": "",
+    "email": "hoykim@smu.ac.kr"
+  },
+  {
+    "major": "화공신소재",
+    "name": "이현경 교수(물리화학), 구상균 교수(화공전달현상), 윤석일 교수(Polymer Engineering), 고영건 교수(지능형 유/무기 신소재 및 표면제어), 노주란 교수(전기화학 소재 및 소자)",
+    "page": "https://ichem.smu.ac.kr/ichemistry/faculty/faculty.do"
+  },
+
+  {
+    "major": "화공신소재",
+    "name": "이현경",
+    "lab": "(N관)인문사회과학대학관(자하관) (N511)",
+    "phoneNumber": "02-2287-5300",
+    "email": "hklee@smu.ac.kr"
+  },
+  {
+    "major": "화공신소재",
+    "name": "구상균",
+    "lab": "(S관)중앙교수회관 (S420)",
+    "phoneNumber": "02-2287-5338",
+    "email": "skkoo@smu.ac.kr"
+  },
+  {
+    "major": "화공신소재",
+    "name": "윤석일",
+    "lab": "(O관)제1교수회관 (O214)",
+    "phoneNumber": "02-781-7530",
+    "email": "yunsans@smu.ac.kr"
+  },
+  {
+    "major": "화공신소재",
+    "name": "고영건",
+    "lab": "(S관)중앙교수회관 (S210)",
+    "phoneNumber": "02-2287-6151",
+    "email": "younggun@smu.ac.kr"
+  },
+  {
+    "major": "화공신소재",
+    "name": "노주란",
+    "lab": "(S관)중앙교수회관 (S424)",
+    "phoneNumber": "",
+    "email": "jurannoh@smu.ac.kr"
+  }
+  ]
+

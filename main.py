@@ -6,12 +6,15 @@ import os
 from service import *
 from service.chroma import init_collections
 from service.data_loader.chroma_loader import load_data_to_chroma, query_chroma_collections
+import tiktoken
+import time
+
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 # 환경 변수 로드
 load_dotenv()
-api_key = "api_key"
+api_key = os.getenv("OPEN_API_KEY")
 
 # Flask 애플리케이션 초기화
 app = Flask(__name__)
@@ -20,6 +23,9 @@ client = OpenAI(api_key=api_key)
 
 with open("sami_prompt.txt", "r", encoding="utf-8") as file:
     sami_prompt = file.read()
+
+with open("classify_prompt.txt", "r", encoding="utf-8") as file:
+    classify_prompt = file.read()
 
 # Hugging Face 임베딩 모델 로드
 embedding_model = load_embedding_model()
@@ -30,33 +36,49 @@ collections = init_collections(chroma_client)
 
 load_data_to_chroma(embedding_model, collections)
 
+def classify_categories(question, client, categories):
+    prompt = classify_prompt.format(
+        categories=', '.join(categories),
+        question=question
+    )
+
+    completion = client.chat.completions.create(
+        model = "gpt-4o-mini",
+        messages = [
+            {"role": "system", "content": prompt}
+        ]
+    )
+    print(completion.choices[0].message.content.strip())
+    return completion.choices[0].message.content.strip()
+
 @app.route('/ask', methods=['POST'])
 def ask():
+    start_time = time.time()
+
     user_question = request.json.get("question")
     print(f"user_question : {user_question}")
 
     if not user_question:
         return jsonify({"error": "질문을 입력해 주세요."}), 400
 
+    categories = [
+        "haksa_knowledge", "scholarship_knowledge", "major_knowledge", "facility_knowledge",
+        "student_knowledge", "double_major_knowledge", "graduation_knowledge", "service_knowledge",
+        "introduction_knowledge", "school_knowledge", "military_knowledge", "curriculums_knowledge",
+        "professor_knowledge"
+    ]
+
+    category = classify_categories(user_question, client, categories)
+    print(f"classified category : {category}")
+
     # 사용자 질문 벡터화 후 검색
     user_embedding = embedding_model.encode(user_question).tolist()
 
-    category_texts = query_chroma_collections(user_embedding, collections)
+    category_texts = query_chroma_collections(user_embedding, {category: collections[category]})
 
     messages = [{"role": "system", "content": sami_prompt},
-            {"role": "system", "content": f"다음은 학사 일정 관련 참고 정보입니다:\n\n{category_texts['haksa_knowledge']}"},
-            {"role": "system", "content": f"다음은 장학금 관련 참고 정보입니다:\n\n{category_texts['scholarship_knowledge']}"},
-            {"role": "system", "content": f"다음은 전공 관련 참고 정보입니다:\n\n{category_texts['major_knowledge']}"},
-            {"role": "system", "content": f"다음은 상명 e-포트폴리오 진로/취업프로그램 정보입니다:\n\n{category_texts['ePortfolio_knowledge']}"},
-            {"role": "system", "content": f"다음은 상명 캠퍼스맵 정보입니다:\n\n{category_texts['facility_knowledge']}"},
-            {"role": "system", "content": f"다음은 학적 관련 정보입니다:\n\n{category_texts['student_knowledge']}"},
-            {"role": "system", "content": f"다음은 전공 제도 관련 정보 입니다:\n\n{category_texts['double_major_knowledge']}"},
-            {"role": "system", "content": f"다음은 졸업 요건 관련 정보 입니다:\n\n{category_texts['graduation_knowledge']}"},
-            {"role": "system", "content": f"다음은 학교 서비스 관련 정보 입니다:\n\n{category_texts['service_knowledge']}"},
-            {"role": "system", "content": f"다음은 학교 병무 관련 정보 입니다:\n\n{category_texts['military_knowledge']}"},
-            {"role": "system", "content": f"다음은 상명대학교 관련 정보 입니다:\n\n{category_texts['school_knowledge']}"},
-            {"role": "system", "content": f"다음은 상명대학교 교육과정 관련 정보 입니다:\n\n{category_texts['curriculums_knowledge']}"},
-            {"role": "user", "content": user_question}
+                {"role": "system", "content": f"다음은 {category} 관련 참고 정보입니다:\n\n{category_texts[category]}"},
+                {"role": "user", "content": user_question}
     ]
 
     completion = client.chat.completions.create(
@@ -65,6 +87,16 @@ def ask():
     )
 
     answer = completion.choices[0].message.content
+
+    encoding = tiktoken.encoding_for_model("gpt-4o-mini")
+    num_tokens = len(encoding.encode(answer))
+    print(f"num_tokens : {num_tokens}")
+
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+
+    print(f"elapsed_time : 응답 속도: {elapsed_time}")
+
     print(f"answer : {answer}")
     return jsonify({"answer": answer})
 

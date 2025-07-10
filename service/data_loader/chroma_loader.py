@@ -10,10 +10,12 @@ def load_data_to_chroma(embedding_model, collections):
         "student": (collections["student_knowledge"], process_student_data()),
         "double_major": (collections["double_major_knowledge"], process_double_major_data()),
         "graduation": (collections["graduation_knowledge"], process_graduation_data()),
-        "military": (collections["military_knowledge"], process_military_data()),
         "service": (collections["service_knowledge"], process_service_data()),
+        "introduction": (collections["introduction_knowledge"], process_introduction_data()),
         "school": (collections["school_knowledge"], process_school_data()),
-        "curriculums": (collections["curriculums_knowledge"], process_curriculums_data())
+        "military": (collections["military_knowledge"], process_military_data()),
+        "curriculums": (collections["curriculums_knowledge"], process_curriculums_data()),
+        "professor": (collections["professor_knowledge"], process_professor_data())
     }
 
     for category, (collection, data) in collections_with_data.items():
